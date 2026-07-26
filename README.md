@@ -1,8 +1,11 @@
-# NavSphere
-
+# NavSphere - 内容导航管理平台 
 
 <p align="center">
-  <strong>现代化导航管理平台 | Modern Navigation Management Platform</strong>
+  <strong>现代化的内容导航管理平台 | 视频导航 + 网址导航</strong>
+</p>
+
+<p align="center">
+  <strong>简体中文</strong> | <a href="./README-EN.md">English</a>
 </p>
 
 <p align="center">
@@ -12,42 +15,82 @@
   <a href="https://github.com/tianyaxiang/NavSphere/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/tianyaxiang/NavSphere?style=flat-square"></a>
 </p>
 
-<p align="center">
-  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftianyaxiang%2FNavSphere&env=GITHUB_CLIENT_ID,GITHUB_SECRET,GITHUB_OWNER,GITHUB_REPO,GITHUB_BRANCH,NEXTAUTH_URL,NEXT_PUBLIC_API_URL&envDescription=GitHub%20OAuth%20%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93%E9%85%8D%E7%BD%AE&envLink=https%3A%2F%2Fgithub.com%2Ftianyaxiang%2FNavSphere%23%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE&project-name=navsphere&repository-name=navsphere">
-    <img src="https://vercel.com/button" alt="Deploy with Vercel"/>
-  </a>
-</p>
-
 ## 📖 项目简介
 
-NavSphere 是一个基于 Next.js 15 构建的现代化导航管理平台，专为个人和团队打造的书签管理和导航门户解决方案。通过 GitHub 作为数据存储后端，提供安全、可靠的导航数据管理体验。<a href="https://mp.weixin.qq.com/s/90LUmKilfLZfc5L63Ej3Sg" target="_blank">[手把手快速部署教程]</a>
+NavSphere 是一个基于 Next.js 15 构建的现代化导航管理平台，集成了**视频导航**和**网址导航**两大核心功能。专为内容收藏、分类和管理而设计，通过 GitHub 作为数据存储后端，提供安全、可靠的导航数据管理体验。
 
-<p align="center">
-  <img src="doc/n.png" alt="NavSphere Logo" />
-</p>
-<p align="center">
-  <img src="doc/b.png" alt="NavSphere Logo" />
-</p>
+### 双核心功能
+
+#### 🎬 视频导航
+专注于视频内容的收藏和组织，支持 Bilibili 和 YouTube 平台的视频管理。
+
+#### 🔖 网址导航
+全面的网站书签管理系统，帮助你收藏和整理常用网站、在线工具和资源。
+
+### 核心亮点
+
+- 🎬 **多平台视频支持**：完美支持 Bilibili 和 YouTube 视频播放
+- 🔖 **网址导航管理**：收藏和管理你的常用网站和在线工具
+- 📊 **分类管理**：灵活的分类和子分类系统，支持无限层级
+- 🎨 **现代化界面**：基于 Radix UI 和 Tailwind CSS 的精美界面
+- 🔐 **GitHub 认证**：基于 NextAuth.js 的安全登录
+- 📱 **响应式设计**：完美适配桌面端和移动端
+- 🌓 **主题切换**：支持深色/浅色主题
+- 🎯 **智能图标**：自动获取网站 Favicon
+- ⚡ **高性能**：支持 Cloudflare Pages 边缘部署
 
 ## ✨ 核心特性
 
-- 🚀 **现代技术栈**: Next.js 14 + React 18 + TypeScript + Tailwind CSS
-- 🔐 **GitHub 认证**: 基于 NextAuth.js 的 GitHub OAuth 安全登录
-- 📊 **Git 数据存储**: 使用 GitHub 仓库作为数据后端，版本可控
-- 📱 **响应式设计**: 移动优先的设计理念，完美适配各种设备
-- 🌓 **主题切换**: 内置深色/浅色主题支持
-- 🎯 **拖拽排序**: 直观的拖拽界面，轻松管理导航项目
-- 🔍 **智能搜索**: 快速定位和访问导航项目
-- 📱 **PWA 支持**: 渐进式 Web 应用体验
-- 🌐 **多语言支持**: 中英文界面切换
-- ⚡ **边缘计算**: Cloudflare Pages 部署，全球加速
-- 🔌 **浏览器插件**: 配套浏览器扩展，一键收藏网站到导航
+### 视频管理功能
+
+- 🎥 **视频分类**：支持多级分类和子分类，灵活组织视频内容
+- 🎯 **视频配置**：自动识别 Bilibili 和 YouTube 视频链接，提取视频信息
+- 🖼️ **封面管理**：支持自定义上传视频封面图片
+- 🎬 **内嵌播放**：支持在站内直接播放 Bilibili 和 YouTube 视频
+- 📝 **详细信息**：为每个视频添加标题、描述等详细信息
+- 🔄 **拖拽排序**：通过拖拽轻松调整视频和分类的顺序
+
+### 网址导航功能
+
+- 🔖 **网站收藏**：快速收藏和管理你喜欢的网站
+- 📂 **分类组织**：创建主分类和子分类，无限层级的目录结构
+- 🎨 **智能图标**：自动获取网站 Favicon，也可手动上传
+- 📝 **详细描述**：为每个网站添加标题、描述等信息
+- 🔍 **快速搜索**：通过关键词快速定位网站
+- 🎯 **一键访问**：点击即可跳转到目标网站
+- 🏷️ **标签管理**：使用图标和标签更好地组织内容
+- 🔄 **拖拽排序**：自由调整网站和分类的显示顺序
+
+### 管理后台功能
+
+- 👨‍💼 **统一管理**：视频和网址统一的后台管理系统
+- ➕ **快速添加**：
+  - **视频**：粘贴视频链接即可添加 Bilibili 或 YouTube 视频
+  - **网址**：输入 URL 自动获取网站信息
+- ✏️ **编辑功能**：
+  - 修改标题、描述、图标
+  - 调整分类归属
+  - 上传自定义封面/图标
+- 🗂️ **分类管理**：创建、编辑、删除分类和子分类
+- 📊 **可视化编辑**：Monaco Editor 支持 JSON 数据直接编辑
+- 🔍 **智能搜索**：快速定位内容和分类
+- 🎨 **图标选择**：集成 Lucide Icons 图标库
+
+### 技术特性
+
+- 🚀 **现代技术栈**：Next.js 15 + React 18 + TypeScript
+- 🎨 **UI 组件库**：Radix UI + shadcn/ui
+- 🎭 **图标系统**：Lucide React 图标库
+- 📦 **状态管理**：React Query 数据获取和缓存
+- 🔧 **表单处理**：React Hook Form + Zod 验证
+- 🌐 **数据存储**：GitHub 仓库作为数据后端
+- 🔐 **身份认证**：NextAuth.js v5 OAuth 认证
 
 ## 🛠️ 技术架构
 
 | 技术栈              | 版本          | 用途                  |
 | ------------------- | ------------- | --------------------- |
-| **Next.js**         | 15.4.6        | React 全栈框架        |
+| **Next.js**         | 15.5.7        | React 全栈框架        |
 | **React**           | 18.2.0        | 用户界面库            |
 | **TypeScript**      | 5.1.6         | 类型安全的 JavaScript |
 | **Tailwind CSS**    | 4.1.12        | 原子化 CSS 框架       |
@@ -56,45 +99,14 @@ NavSphere 是一个基于 Next.js 15 构建的现代化导航管理平台，专�
 | **Lucide React**    | 0.462.0       | 现代图标库            |
 | **React Query**     | 5.62.2        | 数据获取和状态管理    |
 | **React Hook Form** | 7.53.2        | 表单处理              |
-| **Zod**             | 3.22.4        | 数据验证              |
-
-## 浏览器插件
-
-为了提供更便捷的使用体验，我们开发了配套的浏览器扩展插件，让你可以一键收藏网站到 NavSphere 导航。
-
-### 插件特性
-
-- 🚀 **一键收藏**: 在任意网页上一键添加到 NavSphere 导航
-- 🎯 **智能识别**: 自动获取网站标题、描述和图标
-- 📂 **分类管理**: 支持选择或创建分类目录
-- 🔄 **实时同步**: 与 NavSphere 平台实时同步数据
-- 🌐 **多浏览器支持**: 支持 Chrome、Firefox、Edge 等主流浏览器
-
-### 安装使用
-
-1. **获取插件**
-   - 访问 [NavSphere Extension](https://github.com/tianyaxiang/navsphere-extension)
-   - 下载最新版本或从应用商店安装（暂时未上架）
-
-2. **配置连接**
-   - 在插件设置中配置你的 NavSphere 站点地址
-   - 完成 GitHub 授权连接
-
-3. **开始使用**
-   - 浏览任意网站时，点击插件图标
-   - 选择分类并一键添加到导航
+| **Zod**             | 3.25.76       | 数据验证              |
+| **Monaco Editor**   | 0.52.2        | 代码编辑器            |
 
 ## 🚀 快速开始
 
-### 一键部署
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftianyaxiang%2FNavSphere&env=GITHUB_CLIENT_ID,GITHUB_SECRET,GITHUB_OWNER,GITHUB_REPO,GITHUB_BRANCH,NEXTAUTH_URL,NEXT_PUBLIC_API_URL&envDescription=GitHub%20OAuth%20%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93%E9%85%8D%E7%BD%AE&envLink=https%3A%2F%2Fgithub.com%2Ftianyaxiang%2FNavSphere%23%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE&project-name=navsphere&repository-name=navsphere)
-
-点击上方按钮即可一键部署到 Vercel，部署完成后需要配置环境变量。
-
 ### 环境要求
 
-- Node.js 18.0+ 
+- Node.js 20.0+
 - pnpm 8.0+ (推荐) 或 npm/yarn
 - GitHub 账户
 
@@ -116,6 +128,8 @@ pnpm install
 cp .env.example .env.local
 ```
 
+编辑 `.env.local` 文件，配置必要的环境变量（详见下方配置指南）
+
 4. **启动开发服务器**
 ```bash
 pnpm dev
@@ -134,16 +148,23 @@ pnpm dev
 ```env
 # GitHub OAuth App 配置
 GITHUB_CLIENT_ID=your-github-client-id
-GITHUB_SECRET=your-github-client-secret
+GITHUB_CLIENT_SECRET=your-github-client-secret
 
-# GitHub 仓库配置  
+# GitHub 仓库配置
 GITHUB_OWNER=your-github-username
 GITHUB_REPO=your-repo-name
 GITHUB_BRANCH=main
 
+# GitHub Fine-grained PAT (用于匿名投稿创建 Issue)
+GITHUB_PAT=your-github-personal-access-token
+
 # NextAuth 配置
-NEXTAUTH_URL=http://localhost:3000/api/auth
+NEXTAUTH_URL=http://localhost:3000
+AUTH_SECRET=your-random-auth-secret
 NEXT_PUBLIC_API_URL=http://localhost:3000
+
+# Google Analytics 配置 (可选)
+GA_ID=your-google-analytics-id
 ```
 
 ### GitHub OAuth App 设置
@@ -172,225 +193,163 @@ NEXT_PUBLIC_API_URL=http://localhost:3000
 2. **初始化数据文件**
    
    项目会自动创建以下数据文件：
+   - `videos.json` - 视频数据
    - `navigation.json` - 导航数据
    - `site.json` - 站点配置
-   - `resources.json` - 资源数据
 
-### 部署前准备清单
+## 📊 数据结构
 
-在使用一键部署功能前，请确保完成以下准备工作：
+### videos.json - 视频数据格式
 
-- [ ] 创建 GitHub OAuth App 并获取 Client ID 和 Secret
-- [ ] 创建用于存储数据的 GitHub 仓库
-- [ ] 记录你的 GitHub 用户名和数据仓库名称
-- [ ] 准备好你的 Vercel 项目域名（用于配置 NEXTAUTH_URL 和 NEXT_PUBLIC_API_URL）
+视频导航的数据存储格式：
+
+```json
+{
+  "navigationItems": [
+    {
+      "id": "category-id",
+      "title": "分类名称",
+      "icon": "Home",
+      "description": "分类描述",
+      "enabled": true,
+      "items": [
+        {
+          "id": "video-id",
+          "title": "视频标题",
+          "href": "视频链接",
+          "description": "视频描述",
+          "icon": "/assets/cover/cover.jpg",
+          "enabled": true,
+          "videoConfig": {
+            "type": "bilibili",
+            "bvid": "BV1xxxxxxxxx",
+            "aid": "xxx",
+            "cid": "xxx",
+            "p": 1
+          }
+        }
+      ],
+      "subCategories": [
+        {
+          "id": "sub-category-id",
+          "title": "子分类名称",
+          "icon": "PlayCircle",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    }
+  ]
+}
+```
+
+### navigation.json - 网址导航数据格式
+
+网址导航的数据存储格式：
+
+```json
+{
+  "navigationItems": [
+    {
+      "id": "category-id",
+      "title": "常用推荐",
+      "icon": "Star",
+      "description": "常用网站和工具",
+      "enabled": true,
+      "items": [
+        {
+          "id": "item-id",
+          "title": "网站名称",
+          "href": "https://example.com",
+          "description": "网站描述",
+          "icon": "/assets/images/logos/example.webp",
+          "enabled": true
+        }
+      ],
+      "subCategories": [
+        {
+          "id": "sub-category-id",
+          "title": "子分类名称",
+          "icon": "BookOpen",
+          "description": "子分类描述",
+          "enabled": true,
+          "items": [
+            {
+              "id": "sub-item-id",
+              "title": "网站名称",
+              "href": "https://example.com",
+              "description": "网站描述",
+              "icon": "/assets/favicon.webp",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
 
 ## 🚀 部署指南
 
-### Vercel 部署 (推荐)
-
-#### 方式一：一键部署
-
-1. **点击部署按钮**
-   
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftianyaxiang%2FNavSphere&env=GITHUB_CLIENT_ID,GITHUB_SECRET,GITHUB_OWNER,GITHUB_REPO,GITHUB_BRANCH,NEXTAUTH_URL,NEXT_PUBLIC_API_URL&envDescription=GitHub%20OAuth%20%E5%92%8C%E6%95%B0%E6%8D%AE%E4%BB%93%E5%BA%93%E9%85%8D%E7%BD%AE&envLink=https%3A%2F%2Fgithub.com%2Ftianyaxiang%2FNavSphere%23%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E8%AE%BE%E7%BD%AE&project-name=navsphere&repository-name=navsphere)
-
-2. **配置环境变量**
-   
-   在部署过程中，Vercel 会要求你配置以下环境变量：
-   ```env
-   GITHUB_CLIENT_ID=your-github-client-id
-   GITHUB_SECRET=your-github-client-secret
-   GITHUB_OWNER=your-github-username
-   GITHUB_REPO=your-data-repo-name
-   GITHUB_BRANCH=main
-   NEXTAUTH_URL=https://your-project-name.vercel.app/api/auth
-   NEXT_PUBLIC_API_URL=https://your-project-name.vercel.app
-   ```
-
-3. **更新 OAuth 回调地址**
-   
-   部署完成后，需要在 GitHub OAuth App 设置中更新回调地址：
-   ```
-   https://your-project-name.vercel.app/api/auth/callback/github
-   ```
-
-#### 方式二：手动部署
-
-1. **Fork 项目到你的 GitHub**
-
-2. **连接 Vercel**
-   - 访问 [Vercel Dashboard](https://vercel.com/dashboard)
-   - 点击 "New Project"
-   - 选择你 Fork 的仓库
-
-3. **配置环境变量**
-   
-   在 Vercel 项目设置中添加环境变量（同上）
-
-4. **部署**
-   
-   Vercel 会自动检测 Next.js 项目并进行部署
-
-### Cloudflare Pages 部署
+### Cloudflare Pages 部署（推荐）
 
 1. **创建项目**
    - 登录 [Cloudflare Pages](https://pages.cloudflare.com/)
    - 连接 GitHub 仓库
 
 2. **构建设置**
-   
-   在 Cloudflare Pages 项目设置中配置：
    ```bash
    # 构建命令
-   npx @cloudflare/next-on-pages@1
+   pnpm install && pnpm run cf:build
    
    # 输出目录
-   .vercel/output/static
+   .next
    
    # Node.js 版本
-   18.17.0
+   20.0.0
    ```
 
 3. **环境变量配置**
    
-   在 Cloudflare Pages 环境变量中添加：
-   ```env
-   GITHUB_CLIENT_ID=your-github-client-id
-   GITHUB_SECRET=your-github-client-secret
-   GITHUB_OWNER=your-github-username
-   GITHUB_REPO=your-repo-name
-   GITHUB_BRANCH=main
-   NEXTAUTH_URL=https://your-domain.pages.dev/api/auth
-   NEXT_PUBLIC_API_URL=https://your-domain.pages.dev
+   在 Cloudflare Pages 环境变量中添加所有必需的环境变量
+
+4. **自定义部署**
+   ```bash
+   # 本地构建并部署
+   pnpm run cf:deploy
    ```
 
-4. **兼容性设置**
-   
-   项目已包含 `wrangler.toml` 配置文件，确保 Cloudflare Pages 兼容性。
+### Vercel 部署
+
+1. **一键部署**
+   - 点击 "Deploy with Vercel" 按钮
+   - 配置所需的环境变量
+
+2. **手动部署**
+   - Fork 项目到你的 GitHub
+   - 在 Vercel 中导入项目
+   - 配置环境变量
+   - 部署项目
 
 ### Docker 部署
 
-项目支持 Docker 容器化部署，适合自托管环境。
-
-#### 快速部署
-
-1. **克隆项目**
 ```bash
-git clone https://github.com/tianyaxiang/NavSphere.git
-cd NavSphere
-```
+# 构建镜像
+pnpm run docker:build
 
-2. **配置环境变量**
-```bash
-cp .env.example .env.local
-# 编辑 .env.local 文件，配置必要的环境变量
-```
-
-#### 手动部署
-
-1. **构建镜像**
-```bash
-docker build -f docker/Dockerfile -t navsphere:latest .
-```
-
-2. **使用 Docker Compose**
-```bash
 # 开发环境
-docker-compose -f docker/docker-compose.yml up -d
+pnpm run docker:dev
 
 # 生产环境
-docker-compose -f docker/docker-compose.prod.yml up -d
-```
-
-3. **检查服务状态**
-```bash
-# 查看容器状态
-docker-compose -f docker/docker-compose.yml ps
+pnpm run docker:prod
 
 # 查看日志
-docker-compose -f docker/docker-compose.yml logs -f
+pnpm run docker:logs
 
 # 停止服务
-docker-compose -f docker/docker-compose.yml down
+pnpm run docker:stop
 ```
-
-#### Docker 配置说明
-
-- **端口映射**: 容器内部端口 3000 映射到主机端口 3000
-- **环境变量**: 通过 `.env.local` 文件注入
-- **健康检查**: 内置健康检查端点 `/api/health`
-- **自动重启**: 容器异常退出时自动重启
-
-### 其他部署平台
-
-- **Netlify**: 需要配置构建命令  
-- **Railway**: 支持 Docker 部署
-- **自托管**: 支持 Docker 容器部署
-
-## 📊 数据结构
-
-### 数据文件说明
-
-项目使用 GitHub 仓库存储数据，自动创建以下文件：
-
-| 文件              | 用途     | 位置           |
-| ----------------- | -------- | -------------- |
-| `navigation.json` | 导航数据 | 数据仓库根目录 |
-| `site.json`       | 站点配置 | 数据仓库根目录 |
-| `resources.json`  | 资源数据 | 数据仓库根目录 |
-
-### 数据格式示例
-
-<details>
-<summary><strong>navigation.json</strong> - 导航数据结构</summary>
-
-```json
-[
-  {
-    "id": "dev-tools",
-    "title": "开发工具",
-    "icon": "🛠️",
-    "items": [
-      {
-        "title": "GitHub",
-        "titleEn": "GitHub", 
-        "description": "代码托管平台",
-        "descriptionEn": "Code hosting platform",
-        "icon": "https://github.com/favicon.ico",
-        "href": "https://github.com"
-      }
-    ],
-    "subCategories": [
-      {
-        "id": "frontend",
-        "title": "前端工具",
-        "items": []
-      }
-    ]
-  }
-]
-```
-</details>
-
-<details>
-<summary><strong>site.json</strong> - 站点配置结构</summary>
-
-```json
-{
-  "basic": {
-    "title": "NavSphere",
-    "description": "现代化导航管理平台",
-    "keywords": "导航,书签,管理"
-  },
-  "appearance": {
-    "logo": "/logo.png",
-    "favicon": "/favicon.ico", 
-    "theme": "system"
-  }
-}
-```
-</details>
 
 ## 🔧 开发指南
 
@@ -411,146 +370,198 @@ pnpm lint
 
 # 清理构建文件
 pnpm clean
+
+# Cloudflare Pages 部署
+pnpm run cf:build
+pnpm run cf:deploy
+
+# Docker 部署
+pnpm run docker:build
+pnpm run docker:dev
+pnpm run docker:prod
 ```
 
 ### 项目结构
 
 ```
 NavSphere/
-├── app/                    # Next.js App Router
-│   ├── api/               # API 路由
-│   ├── components/        # 页面组件
-│   ├── globals.css        # 全局样式
-│   └── layout.tsx         # 根布局
-├── components/            # 共享组件
-├── lib/                   # 工具函数
-├── public/               # 静态资源
-├── styles/               # 样式文件
-└── types/                # TypeScript 类型定义
+├── src/
+│   ├── app/                    # Next.js App Router
+│   │   ├── api/               # API 路由
+│   │   │   ├── videos/        # 视频 API
+│   │   │   └── navigation/    # 网址导航 API
+│   │   ├── admin/             # 管理后台
+│   │   │   ├── videos/        # 视频管理
+│   │   │   └── navigation/    # 网址管理
+│   │   ├── videos/            # 视频页面
+│   │   └── components/        # 页面组件
+│   ├── components/            # 共享 UI 组件
+│   │   ├── video-card.tsx     # 视频卡片
+│   │   ├── video-content.tsx  # 视频内容
+│   │   ├── video-player-page.tsx # 视频播放器
+│   │   ├── navigation-card.tsx # 网址卡片
+│   │   └── navigation-content.tsx # 网址内容
+│   ├── lib/                   # 工具函数
+│   ├── types/                 # TypeScript 类型定义
+│   │   ├── navigation.ts      # 导航类型
+│   │   └── video.ts          # 视频类型
+│   ├── services/              # 服务层
+│   └── navsphere/             # 数据文件
+│       └── content/
+│           ├── videos.json    # 视频数据
+│           ├── navigation.json # 网址导航数据
+│           └── site.json      # 站点配置
+├── public/                    # 静态资源
+│   └── assets/
+│       ├── cover/             # 视频封面图片
+│       └── images/
+│           └── logos/         # 网站图标
+├── docker/                    # Docker 配置
+└── wrangler.toml             # Cloudflare 配置
 ```
+
+## 🎯 使用指南
+
+### 视频导航使用
+
+#### 添加视频
+
+1. 登录管理后台 `/admin/videos`
+2. 点击"添加视频分类"或在现有分类中"添加视频"
+3. 粘贴 Bilibili 或 YouTube 视频链接
+4. 系统会自动识别视频平台并提取信息
+5. 添加标题、描述、上传封面（可选）
+6. 保存视频
+
+#### 视频链接支持
+
+**Bilibili:**
+- 标准链接：`https://www.bilibili.com/video/BVxxxxxxxxx`
+- 短链接：`https://b23.tv/xxxxxxx`
+
+**YouTube:**
+- 标准链接：`https://www.youtube.com/watch?v=xxxxxxxxxxx`
+- 短链接：`https://youtu.be/xxxxxxxxxxx`
+
+#### 视频分类管理
+
+1. 在管理后台创建主分类和子分类
+2. 使用拖拽功能调整分类顺序
+3. 为分类选择合适的图标（Lucide 图标）
+4. 启用/禁用分类显示
+
+### 网址导航使用
+
+#### 添加网站
+
+1. 登录管理后台 `/admin/navigation`
+2. 点击"添加导航分类"或在现有分类中"添加网站"
+3. 输入网站 URL
+4. 系统会自动获取：
+   - 网站标题
+   - 网站描述
+   - 网站 Favicon 图标
+5. 可以手动修改标题、描述
+6. 可以上传自定义图标
+7. 保存网站
+
+#### 网址分类管理
+
+1. **创建分类**：
+   - 在管理后台点击"添加导航分类"
+   - 输入分类名称和描述
+   - 从 Lucide Icons 中选择合适的图标
+   - 保存分类
+
+2. **创建子分类**：
+   - 在主分类下添加子分类
+   - 支持无限层级的分类结构
+   - 每个子分类都可以有自己的图标和描述
+
+3. **调整顺序**：
+   - 使用拖拽功能调整分类和网站的显示顺序
+   - 支持跨分类拖拽
+
+4. **批量管理**：
+   - 使用 Monaco Editor 直接编辑 JSON 数据
+   - 支持批量导入和导出
+
+### 通用功能
+
+#### 图标管理
+
+**Lucide Icons**：
+- 项目集成了完整的 Lucide 图标库
+- 可用图标：Home, Star, BookOpen, Brain, Code 等
+- 访问 [lucide.dev](https://lucide.dev/) 查看所有可用图标
+
+**自定义图标**：
+- 支持上传 PNG、SVG、WebP 等格式
+- 建议尺寸：256x256 像素
+- 自动优化和压缩
+
+#### 搜索功能
+
+1. 在首页使用搜索框
+2. 支持搜索：
+   - 网站/视频标题
+   - 描述内容
+   - 分类名称
+3. 实时搜索结果展示
 
 ## 🐛 故障排除
 
 ### 常见问题
 
-<details>
-<summary><strong>认证失败</strong></summary>
+**认证失败**
+- 检查 `GITHUB_CLIENT_ID` 和 `GITHUB_CLIENT_SECRET` 是否正确
+- 确认回调 URL 配置正确：`http://localhost:3000/api/auth/callback/github`
 
-**问题**: GitHub OAuth 登录失败
+**数据加载失败**
+- 验证 GitHub 仓库配置（GITHUB_OWNER、GITHUB_REPO、GITHUB_BRANCH）
+- 检查仓库访问权限
+- 确认数据文件格式正确
 
-**解决方案**:
-1. 检查 `GITHUB_CLIENT_ID` 和 `GITHUB_SECRET` 是否正确
-2. 确认回调 URL 配置正确
-3. 检查 OAuth App 权限设置
-</details>
+**视频无法播放**
+- 检查视频链接是否有效
+- 确认 videoConfig 配置正确
+- Bilibili 视频需要正确的 bvid、aid、cid
+- YouTube 视频需要正确的视频 ID
 
-<details>
-<summary><strong>数据加载失败</strong></summary>
-
-**问题**: 导航数据无法加载
-
-**解决方案**:
-1. 验证 GitHub 仓库配置
-2. 检查仓库访问权限
-3. 确认数据文件格式正确
-4. 查看浏览器控制台错误信息
-</details>
-
-<details>
-<summary><strong>构建失败</strong></summary>
-
-**问题**: 项目构建或部署失败
-
-**解决方案**:
-1. 检查 Node.js 版本 (需要 18.0+)
-2. 清理依赖: `rm -rf node_modules pnpm-lock.yaml && pnpm install`
-3. 检查环境变量配置
-4. 查看构建日志详细错误信息
-</details>
-
-<details>
-<summary><strong>Vercel 部署问题</strong></summary>
-
-**问题**: Vercel 部署失败或运行异常
-
-**解决方案**:
-1. **环境变量检查**: 确保所有必需的环境变量都已正确配置
-2. **NEXTAUTH_URL 设置**: 确保设置为你的 Vercel 域名 (如: `https://your-app.vercel.app`)
-3. **GitHub OAuth 回调**: 更新 GitHub OAuth App 的回调地址为 Vercel 域名
-4. **函数超时**: 如果 API 调用超时，检查 `vercel.json` 中的 `maxDuration` 设置
-5. **查看日志**: 在 Vercel Dashboard 中查看函数日志和构建日志
-</details>
-
-<details>
-<summary><strong>Cloudflare Pages 部署问题</strong></summary>
-
-**问题**: Cloudflare Pages 部署失败或运行异常
-
-**解决方案**:
-1. **构建命令检查**: 确保使用 `npx @cloudflare/next-on-pages@1` 作为构建命令
-2. **输出目录设置**: 确保输出目录设置为 `.vercel/output/static`
-3. **Node.js 版本**: 确保使用 Node.js 18.17.0 或更高版本
-4. **环境变量配置**: 检查所有环境变量是否正确配置
-5. **兼容性标志**: 确保 `wrangler.toml` 文件包含正确的兼容性设置
-6. **查看构建日志**: 在 Cloudflare Pages Dashboard 中查看详细的构建和部署日志
-</details>
-
-
-## 💖 支持我们
-
-如果这个项目对你有帮助，欢迎支持我们的开发工作！
-
-<p align="center">
-  <img src="doc/a.jpg" alt="打赏码" width="300" />
-</p>
-
-<p align="center">
-  <strong>扫码支持 | 您的支持是我们持续开发的动力</strong>
-</p>
-
-## 🌐 Community
-
- [Email](mailto:tianyaxiang@qq.com) | [Twitter](https://x.com/tianyaxiang)
+**构建失败**
+- 检查 Node.js 版本（需要 20.0+）
+- 清理依赖：`rm -rf node_modules pnpm-lock.yaml && pnpm install`
+- 检查环境变量配置
 
 ## 🤝 贡献指南
 
 我们欢迎所有形式的贡献！
 
-### 贡献方式
-
-1. **报告问题**: 在 [Issues](https://github.com/tianyaxiang/NavSphere/issues) 中报告 bug
-2. **功能建议**: 提出新功能想法
-3. **代码贡献**: 提交 Pull Request
-4. **文档改进**: 完善项目文档
-
-### 开发流程
-
 1. Fork 项目
-2. 创建功能分支: `git checkout -b feature/amazing-feature`
-3. 提交更改: `git commit -m 'Add amazing feature'`
-4. 推送分支: `git push origin feature/amazing-feature`
+2. 创建功能分支：`git checkout -b feature/amazing-feature`
+3. 提交更改：`git commit -m 'Add amazing feature'`
+4. 推送分支：`git push origin feature/amazing-feature`
 5. 创建 Pull Request
 
 ## 📄 许可证
 
 本项目基于 [MIT License](LICENSE) 开源协议。
 
-## � 相关项目
-
-- **[NavSphere Extension](https://github.com/tianyaxiang/navsphere-extension)** - 配套浏览器扩展插件
-- **[NavSphere Docs](https://github.com/tianyaxiang/NavSphere/tree/main/docs)** - 详细文档和教程
-
 ## 🙏 致谢
 
 - [Next.js](https://nextjs.org/) - 强大的 React 框架
 - [Tailwind CSS](https://tailwindcss.com/) - 优秀的 CSS 框架
 - [Radix UI](https://www.radix-ui.com/) - 无障碍组件库
+- [shadcn/ui](https://ui.shadcn.com/) - 精美的 UI 组件
 - [Cloudflare Pages](https://pages.cloudflare.com/) - 可靠的部署平台
 - 所有为项目做出贡献的开发者
-
 
 ---
 
 <p align="center">
   <strong>⭐ 如果这个项目对你有帮助，请给我们一个 Star！</strong>
 </p>
+
+## 友情链接
+
+[![LINUXDO](https://img.shields.io/badge/%E7%A4%BE%E5%8C%BA-LINUXDO-0086c9?style=for-the-badge&labelColor=555555)](https://linux.do)
