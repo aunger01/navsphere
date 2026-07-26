@@ -24,14 +24,6 @@
               "enabled": true
             },
             {
-              "id": "1_2",
-              "title": "像素君小程序",
-              "href": "",
-              "description": "&lt;img src=&#39;https://nav.iowen.cn/wp-content/uploads/2019/12/bce5add2d2c44e20.jpg&#39; width=&#39;128&#39;&gt;",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "1_3",
               "title": "万能命令",
               "href": "https://wannengrun.com/zh/",
@@ -127,14 +119,6 @@
               "title": "天工AI搜索",
               "href": "https://search.tiangong.cn/",
               "description": "搭载天工大模型的AI技术，提供智能、高效、快速的搜索体验。天工AI搜索不仅能够找资料、查信息、搜答案、搜文件，还会对海量搜索结果做AI智能聚合，更系统地解答你的问题，提升你的信息理解效率，做你学习、工作、生活的最佳AI搭档。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "56_3",
-              "title": "文心一言",
-              "href": "https://yiyan.baidu.com",
-              "description": "百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动，回答问题，协助创作，高效便捷地帮助人们获取信息、知识和灵感",
               "icon": "",
               "enabled": true
             },
@@ -439,14 +423,6 @@
               "enabled": true
             },
             {
-              "id": "2_6",
-              "title": "爱达杂货铺",
-              "href": "https://adzhp.com/",
-              "description": "爱达杂货铺收集精品网络免费资源、包括免费视频、网盘搜索、软件、网站和各类资源，欢迎前来探索。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "2_7",
               "title": "有趣网址之家",
               "href": "https://youquhome.com",
@@ -459,14 +435,6 @@
               "title": "Ahhhhfs精品导航",
               "href": "https://www.ahhhhfs.com",
               "description": "A姐分享，分享各种网络云盘资源、视频课程、BT种子、磁力链接、高清电影电视剧和羊毛福利，收集各种有趣实用的软件和APP的下载、安装、使用方法，发现一些稀奇古怪的的网站，折腾一些有趣实用的教程，关注谷歌苹果等互联网最新的资讯动态，探索新领域，发现新美好，分享小快乐。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "2_9",
-              "title": "小纸条",
-              "href": "https://u.gitcafe.net",
-              "description": "小纸条-开放纯粹的资源网站",
               "icon": "",
               "enabled": true
             },
@@ -527,34 +495,10 @@
               "enabled": true
             },
             {
-              "id": "2_17",
-              "title": "数据通大数据导航",
-              "href": "http://hao.datatong.com",
-              "description": "一个在线大数据导航网站、一个国内外数据资源分享平台，由数据通大数据社区支持，收录国内外大数据网站、大数据开放平台、数据交易平台、大数据开发分析、大数查询工具、移动互联网其他等等工具，给用户提供一个更加快速找到大数据相关的工具平台。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "2_18",
               "title": "PICKFREE",
               "href": "https://www.pickfree.cn",
               "description": "PICKFREE - 免费资源导航|免版权图片|免费商用字体|免费音频、视频等设计素材下载",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "2_19",
-              "title": "自动刷步网站导航",
-              "href": "https://jisu.52dun.cn",
-              "description": "极速刷步导航网,百度搜索,哔哩哔哩搜索,知乎搜索,极速刷步导航,网上导航",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "2_20",
-              "title": "礼物志",
-              "href": "http://jetli.com.cn",
-              "description": "建站于2010年，专注于收藏国内外最好玩有趣有意思的趣站和酷站。",
               "icon": "",
               "enabled": true
             },
@@ -592,14 +536,6 @@
               "enabled": true
             },
             {
-              "id": "3_2",
-              "title": "Sssbar - 浏览器快捷搜索框",
-              "href": "https://bar.ssstab.com",
-              "description": "浏览器快捷搜索框，搜索工具聚合",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "3_3",
               "title": "搜索引擎 | 学术搜索",
               "href": "https://c.runoob.com/search-sites/",
@@ -612,22 +548,6 @@
               "title": "淼搜",
               "href": "https://www.souruan1.xyz/",
               "description": "淼搜，一个手机软件资源搜索引擎，提供互联网各大安卓手机软件破解资源下载类站点，翻了一下，什么类型的软件资源都有，好多大人类的app，不过好像插了一些推广，搜索下载软件的时候注意一下就可以了，互联网水深，大家注意安全。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "3_5",
-              "title": "SooPAT",
-              "href": "https://www.souruan1.xyz/",
-              "description": "SooPAT 专利搜索,专业好用的中文专利搜索引擎",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "3_6",
-              "title": "快搜猫",
-              "href": "https://www.kuaisoumao.com/",
-              "description": "快搜猫是一个免费收录电子书下载网址的简约导航，所收录网址内容覆盖epub电子书下载,kindle电子书资源，欢迎大家使用！ ",
               "icon": "",
               "enabled": true
             },
@@ -652,30 +572,6 @@
               "title": "搜索云盘",
               "href": "https://www.sosoyunpan.com",
               "description": "SOSO云盘导航，为大家免费提供最新的网盘搜索网站导航平台，支持百度网盘、迅雷网盘、阿里云盘，蓝奏云盘、迅雷网盘，天翼网盘、腾讯微云、UC网盘，飞猫云盘、移动和彩云网盘、等十大网盘..",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "3_10",
-              "title": "刚刚影视搜索",
-              "href": "https://vip.fuqizhishi.com",
-              "description": "刚刚影视，一个免费的全网vip视频解析接口，为你免费解析主流视频网站的VIP视频，目前包括爱奇艺VIP视频、优酷VIP视频、乐视VIP视频、芒果VIP视频、搜狐VIP视频、PPTVVIP视频等等都可以免费看，直接搜索影视剧名或者复制影视链接进行搜索即可，A姐看了一下哈哈，免费的东西一般都有水印，勿信，不过要说的，如果是小孩子，千万不要乱搜索什么探什么花这类奇怪的关键词，其他的自行探索哈.",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "3_11",
-              "title": "锦囊菜谱",
-              "href": "https://jncaipu.com",
-              "description": "提供各种菜谱大全,食谱大全,家常菜做法大全,丰富的菜谱大全，一个菜谱分享的平台",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "3_12",
-              "title": "小白工具箱",
-              "href": "https://www.ooopn.com",
-              "description": "一个站，免翻使用谷歌搜索/GitHub下载/维基百科/SciHub/Zlib/Libgen的镜像网站聚合",
               "icon": "",
               "enabled": true
             },
@@ -739,58 +635,10 @@
               "enabled": true
             },
             {
-              "id": "4_3",
-              "title": "Onelist",
-              "href": "https://onelist.top",
-              "description": "Onelist是一个好看、干净、无广告的在线影视网站，涵盖电影、美剧、韩剧、日剧和动漫等类资源",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "4_4",
-              "title": "悠悠鸟影视论坛",
-              "href": "https://www.uump4.net/",
-              "description": "uump4是老牌电影下载站，是悠悠鸟、久久MP4、电影天堂官方网站，每日更新2019年最新电影电视剧，720p|1080p|4K 等超高清分辨率电影电视剧迅雷下载、bt种子网盘离线下载等资源。支持手机、ipad访问。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "4_5",
-              "title": "影猫MVCAT",
-              "href": "https://www.mvcat.com",
-              "description": "影猫简洁电影搜索",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "4_6",
-              "title": "电影狗",
-              "href": "https://www.dianyinggou.com",
-              "description": "电影狗，专业的电影搜索引擎网站；用户通过电影名、演员、导演、电视剧、动漫等关键词进行搜索，直达电影资源站，让电影搜索更高效、更便捷、更精准！",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "4_7",
               "title": "搜片",
               "href": "https://soupian.app",
               "description": "高清在线、BT磁力下载、网盘以及字幕资源，轻松为你找到。找影片，就上搜片.com",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "4_8",
-              "title": "豌豆PRO",
-              "href": "https://www.wandou.pro",
-              "description": "豌豆Pro是影视资源聚合搜索引擎，实时聚合全网优质影视资源，同时支持在线、下载和字幕。电影、电视剧、动漫、综艺、记录片应有尽有。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "4_9",
-              "title": "刚刚影视搜索",
-              "href": "https://vip.fuqizhishi.com",
-              "description": "刚刚影视，一个免费的全网vip视频解析接口，为你免费解析主流视频网站的VIP视频，目前包括爱奇艺VIP视频、优酷VIP视频、乐视VIP视频、芒果VIP视频、搜狐VIP视频、PPTVVIP视频等等都可以免费看，直接搜索影视剧名或者复制影视链接进行搜索即可，A姐看了一下哈哈，免费的东西一般都有水印，勿信，不过要说的，如果是小孩子，千万不要乱搜索什么探什么花这类奇怪的关键词，其他的自行探索哈.",
               "icon": "",
               "enabled": true
             },
@@ -803,50 +651,10 @@
               "enabled": true
             },
             {
-              "id": "4_11",
-              "title": "BT Null",
-              "href": "https://www.btnull.in",
-              "description": "BT Null - 观影小站",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "4_12",
-              "title": "歪片星球",
-              "href": "https://waipian16.com",
-              "description": "最新电影、电视剧、动漫、综艺、纪录片、预告片，实时聚合全网优质影视资源，高清1080P 4K在线观看、下载、磁力。最新网址：歪片星球.com WaiPianXingQiu.com WaiPian7.com WaiPian6.com WaiPian5.com",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "4_13",
-              "title": "热播之家",
-              "href": "https://rebozj.com",
-              "description": "热播之家-全网视频VIP解析_VIP视频免费在线观看",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "4_14",
               "title": "INVIDIOUS",
               "href": "https://redirect.invidious.io",
               "description": "一个油管Youtube镜像网站，而且开源免翻，支持多种语言，无需登录，不追踪，无广告，不过滤，支持订阅和YouTube数据导出导入，虽然可以打开，播放速度的话还是得看你的网络，毕竟这个油管YouTube镜像的服务器在国外的，可以挑一个速度还行的访问。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "4_15",
-              "title": "Live",
-              "href": "http://live.yj1211.work/",
-              "description": "第三方直播源：哔哩哔哩直播，斗鱼直播，虎牙直播，网易直播等第三源聚合直播",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "4_16",
-              "title": "ProxiTok",
-              "href": "https://proxitok.pussthecat.org",
-              "description": "Tiktok网页版，搜索关键字显示相关短视频。",
               "icon": "",
               "enabled": true
             },
@@ -900,14 +708,6 @@
               "enabled": true
             },
             {
-              "id": "5_5",
-              "title": "创造者日报",
-              "href": "https://creatorsdaily.com",
-              "description": "每天发现有趣的软件产品",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "5_6",
               "title": "新趣集",
               "href": "https://xinquji.com",
@@ -956,14 +756,6 @@
               "enabled": true
             },
             {
-              "id": "5_12",
-              "title": "健身有方法",
-              "href": "https://www.jianshenup.com",
-              "description": "一个是分享科学健身知识的网站，健身没有捷径，但有方法，其内容包括增肌计划、减肥计划、训练动作、肌肉拉伸、训练恢复等，希望分享的每一个健身知识都有理有据。通过图文、动图的方式展示健身的每一个动作，网站还提供各种健身小工具，帮助你制定合理的健身计划，网站全部内容开放且无广告。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "5_13",
               "title": "匿名墙",
               "href": "https://www.nimingqiang.com",
@@ -980,22 +772,6 @@
               "enabled": true
             },
             {
-              "id": "5_15",
-              "title": "乡音苑",
-              "href": "https://phonemica.net",
-              "description": "爷爷每天晚上给你讲有趣的故事,免费提供各种故事的在线阅读,包括聊斋故事、志怪故事、民间故事，古代故事、鬼故事等",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "5_16",
-              "title": "奇葩买家秀",
-              "href": "http://www.qipamaijia.com/hot",
-              "description": "一个图片学习网站、搞笑买家秀照片与大尺度福利晒图的网站，网站以分享搞笑买家照片为内容的网站，聚合如淘宝买家秀照片、福利买家秀、爆笑淘宝买家晒图，分享购物中那些亮瞎双眼的奇葩照片尽在奇葩买家秀等等",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "5_17",
               "title": "沙雕新闻",
               "href": "https://shadiao.plus",
@@ -1008,22 +784,6 @@
               "title": "梗百科",
               "href": "https://gengbaike.cn",
               "description": "梗百科，一个有新梗热梗的梗网站。梗百科，解释网络语、弹幕、网络热词是什么梗，流行语是什么意思。梗百科，专注于网络梗、流行语梗，分享热门的网络用语、网络热词。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "5_19",
-              "title": "锦囊菜谱-教你做菜",
-              "href": "https://jncaipu.com",
-              "description": "提供各种菜谱大全,食谱大全,家常菜做法大全,丰富的菜谱大全，一个菜谱分享的平台",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "5_20",
-              "title": "Woodenears吾等益耳",
-              "href": "https://www.woodenears.com/",
-              "description": "相当专业的HiFi音频及数码咨询测评科普和分享",
               "icon": "",
               "enabled": true
             },
@@ -1053,30 +813,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "6_1",
-              "title": "z-lib书籍库",
-              "href": "https://zh.z-lib.org",
-              "description": "全世界最全的免费书籍下载，需要使用海外IP地址才能访问",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "6_2",
-              "title": "易书",
-              "href": "https://search.yibook.org/",
-              "description": "易书-电子书聚合搜索引擎",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "6_3",
-              "title": "安娜的档案",
-              "href": "https://zh.annas-archive.org",
-              "description": "影子图书馆搜索引擎：书籍、论文、漫画、杂志。 ⭐️ Z-Library、Library Genesis、Sci-Hub。 ⚙️ 通过开源代码和数据完全恢复。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "6_4",
               "title": "美国国会图书馆",
               "href": "https://www.loc.gov",
@@ -1101,14 +837,6 @@
               "enabled": true
             },
             {
-              "id": "6_7",
-              "title": "SSDOWN",
-              "href": "https://ssdown.org",
-              "description": "全国图书馆参考咨询联盟/超星电子书库研究分享",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "6_8",
               "title": "源仓库",
               "href": "https://www.yckceo.com/",
@@ -1125,14 +853,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "7_1",
-              "title": "种子音乐",
-              "href": "https://www.zz123.com",
-              "description": "精选最新抖音歌曲，分类齐全，歌曲数量丰富，更新及时。种子音乐全站收集了经典老歌，欧美流行，中文DJ等期待您的体验。",
-              "icon": "",
-              "enabled": true
-            },
             {
               "id": "7_2",
               "title": "放屁音乐网",
@@ -1225,26 +945,10 @@
               "enabled": true
             },
             {
-              "id": "8_5",
-              "title": "switch520",
-              "href": "https://fourpetal.com",
-              "description": "switch游戏下载-PC游戏下载-switch破解游戏下载-Switch520",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "8_6",
               "title": "CS 1.6 Online版",
               "href": "https://play-cs.com",
               "description": "Cs 1.6，在线玩，免费玩，反恐1.6，cs在线，和朋友，带机器人，cs在线俱乐部，cs-online.Club，cs在线，cs俱乐部，cs俱乐部在线，play cs，play-cs.com",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "8_7",
-              "title": "CS 1.6 精简联机版",
-              "href": "https://playcsol.com",
-              "description": "playcsol.com — 在线联机玩CS1.6, 无需下载客户端，无需注册，直接支持浏览器中联机玩",
               "icon": "",
               "enabled": true
             },
@@ -1263,14 +967,6 @@
               "description": "想学习如何更快地打字吗？通过Typing.com的免费打字游戏让这些手指飞过键盘。在狩猎僵尸、弹出气球和从异物手中拯救宇宙飞船时，提高打字速度（WPM）并提高准确性。儿童和成人的打字练习从未如此有趣！我们的打字速度游戏是根据您的能力量身定制的，因此您可以轻松学习快速打字。",
               "icon": "",
               "enabled": true
-            },
-            {
-              "id": "8_10",
-              "title": "Amemei",
-              "href": "https://amemei.github.io",
-              "description": "一个免费提供在线小黄油游戏的网站，上面收集了多款黄油游戏，直接打开浏览器就能玩，还可以存档，感兴趣的可以前往体验。",
-              "icon": "",
-              "enabled": true
             }
           ]
         },
@@ -1281,14 +977,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "9_1",
-              "title": "知网少年",
-              "href": "https://dddsb.cn",
-              "description": "手游扫码登录,微信扫码登录,王者荣耀扫码登录,LOL扫码登录,天涯明月刀微信扫码登录,使命召唤扫码登录,和平精英微信扫码登录,街霸：对决微信扫码登录,剑侠情缘2：剑歌行微信扫码登录,一人之下微信扫码登录,鸿图之下微信扫码登录,荒野乱斗微信扫码登录",
-              "icon": "",
-              "enabled": true
-            },
             {
               "id": "9_2",
               "title": "王者侠",
@@ -1306,14 +994,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "10_1",
-              "title": "羊了个羊",
-              "href": "https://aunger01.gitee.io/yang",
-              "description": "羊了个羊-小游戏在线版",
-              "icon": "",
-              "enabled": true
-            },
             {
               "id": "10_2",
               "title": "人生模拟器",
