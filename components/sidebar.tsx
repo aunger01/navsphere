@@ -126,7 +126,7 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
                   <span>{category.title}</span>
                 </Button>
 
-                {(category.subCategories?.length > 0 || category.items?.length > 0) && (
+                {((category.subCategories && category.subCategories.length > 0) || (category.items && category.items.length > 0)) && (
                   <Button
                     variant="ghost"
                     size="sm"
