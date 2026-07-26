@@ -197,10 +197,11 @@
             },
             {
               "id": "56_12",
-              "title": "Google Bard",
-              "href": "https://bard.google.com",
-              "description": "谷歌对标OPenAI ChatGPT的公测产品，目前只支持英文，需要美国IP地址",
-              "icon": "",
+              "title": "Gemini",
+              "href": "https://gemini.google.com/",
+              "description": "访问 gemini.google.com",
+              "icon": "/assets/favicon_1785080102974.png",
+              "useDefaultIcon": true,
               "enabled": true
             },
             {
