@@ -2713,6 +2713,15 @@
               "description": "用不到一分钟，查看您的计算机是否可以运行任何流行的PC游戏。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1785061262521_ue3yj746g",
+              "title": "网络分流检测工具",
+              "href": "https://ip.skk.moe/split-tunnel",
+              "description": "网站分流测试使用了 Split Tunnel VPN 或 四层分流代理软件 时，这个工具可以查看你在访问不同网站时所使用的出口 IP 地址，用于测试分流规则",
+              "icon": "/assets/favicon_1785061220186.png",
+              "useDefaultIcon": true,
+              "enabled": true
             }
           ]
         },
