@@ -30,13 +30,18 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
   }
 
   const handleCategoryClick = (categoryId: string) => {
-    // 先跳转到对应区域
-    scrollToSection(categoryId)
-
-    // 如果有子分类，切换展开/收起状态
     const category = navigationData.navigationItems.find(cat => cat.id === categoryId)
-    if (category?.subCategories && category.subCategories.length > 0) {
+    const hasChildren =
+      (category?.subCategories && category.subCategories.length > 0) ||
+      (category?.items && category.items.length > 0)
+
+    if (hasChildren) {
+      // 有子内容（子分类或书签）：切换展开/收起，便于在侧边栏直接浏览
       toggleCategory(categoryId)
+    } else {
+      // 无子内容：直接滚动到主内容区对应区块
+      scrollToSection(categoryId)
+      onClose?.()
     }
   }
 
@@ -121,7 +126,7 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
                   <span>{category.title}</span>
                 </Button>
 
-                {category.subCategories && category.subCategories.length > 0 && (
+                {(category.subCategories?.length > 0 || category.items?.length > 0) && (
                   <Button
                     variant="ghost"
                     size="sm"
@@ -137,7 +142,7 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
                 )}
               </div>
 
-              {category.subCategories && category.subCategories.length > 0 && (
+              {(category.subCategories && category.subCategories.length > 0) ? (
                 <div
                   className={cn(
                     "mt-1 ml-4 space-y-1 overflow-hidden transition-all duration-200 ease-in-out",
@@ -156,6 +161,26 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
                     >
                       <span>{subCategory.title}</span>
                     </Button>
+                  ))}
+                </div>
+              ) : (
+                <div
+                  className={cn(
+                    "mt-1 ml-4 space-y-0.5 overflow-y-auto overflow-hidden transition-all duration-200 ease-in-out",
+                    expandedCategories[category.id] ? "max-h-[70vh] opacity-100" : "max-h-0 opacity-0"
+                  )}
+                >
+                  {category.items?.map((item) => (
+                    <a
+                      key={item.id}
+                      href={item.href}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      title={item.description || item.title}
+                      className="block w-full px-6 py-1.5 text-sm text-muted-foreground/80 hover:text-foreground hover:bg-accent rounded cursor-pointer truncate"
+                    >
+                      <span>{item.title}</span>
+                    </a>
                   ))}
                 </div>
               )}
