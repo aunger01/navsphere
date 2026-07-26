@@ -432,14 +432,6 @@
               "enabled": true
             },
             {
-              "id": "2_6",
-              "title": "爱达杂货铺",
-              "href": "https://adzhp.com/",
-              "description": "爱达杂货铺收集精品网络免费资源、包括免费视频、网盘搜索、软件、网站和各类资源，欢迎前来探索。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "2_7",
               "title": "有趣网址之家",
               "href": "https://youquhome.com",
@@ -516,14 +508,6 @@
               "title": "药研导航",
               "href": "https://drugx.cn/",
               "description": "药研导航提供一站式药物研发学术、文献、药典、专利、临床、审评、合成、制剂、分析、药研书籍、药研资料、Scihub文献下载。药物研发数据直达NMPA、FDA、EMA、PMDA、CTR、NCT官网，查阅USP、JP、BP、EP药典信息。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "2_17",
-              "title": "数据通大数据导航",
-              "href": "http://hao.datatong.com",
-              "description": "一个在线大数据导航网站、一个国内外数据资源分享平台，由数据通大数据社区支持，收录国内外大数据网站、大数据开放平台、数据交易平台、大数据开发分析、大数查询工具、移动互联网其他等等工具，给用户提供一个更加快速找到大数据相关的工具平台。",
               "icon": "",
               "enabled": true
             },
