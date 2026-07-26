@@ -108,10 +108,11 @@
           "items": [
             {
               "id": "56_1",
-              "title": "百度AI对话",
-              "href": "https://chat.baidu.com/",
-              "description": "百度搜索AI伙伴，可以联网使用的全新一代知识增强大语言模型",
-              "icon": "",
+              "title": "百度文心助手 - 办公学习一站解决",
+              "href": "https://wenxin.baidu.com/",
+              "description": "百度文心助手，一站式解决复杂问题，激发PC端超级生产力！独有「灵感探索」功能深入剖析问题核心，智能文字创作、图片创作、AI阅读、智能体海量应用启迪无限创意，开启高效智能学习办公新篇章！",
+              "icon": "/assets/favicon_1785079975389.ico",
+              "useDefaultIcon": true,
               "enabled": true
             },
             {
