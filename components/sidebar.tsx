@@ -12,7 +12,8 @@ import type { SiteConfig } from '@/types/site'
 import * as LucideIcons from 'lucide-react'
 import { ChevronDown, ChevronRight, X } from 'lucide-react'
 
-// 父级分组：把 63 个扁平分类归并到少量父级，左侧菜单形成二级结构（父级 → 分类 → 书签）
+// 父级分组：把 63 个扁平分类归并到少量父级，左侧菜单形成二级结构（父级 → 分类）
+// 分类标题点击 = 定位到右侧对应区块（还原旧静态站 index.html 左侧菜单的锚点跳转行为）
 // 父级分组沿用旧静态站 index.html 左侧 #main-menu 的分类（含顶级入口常用推荐/智能AI）
 const GROUP_ORDER = [
   '常用推荐',
@@ -90,20 +91,9 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
     }
   }
 
+  // 分类标题点击：定位到右侧对应分类区块（还原旧版静态站锚点跳转行为）
   const handleCategoryClick = (categoryId: string) => {
-    const category = navigationData.navigationItems.find(cat => cat.id === categoryId)
-    const hasChildren =
-      (category?.subCategories && category.subCategories.length > 0) ||
-      (category?.items && category.items.length > 0)
-
-    if (hasChildren) {
-      // 有子内容（子分类或书签）：切换展开/收起，便于在侧边栏直接浏览
-      toggleCategory(categoryId)
-    } else {
-      // 无子内容：直接滚动到主内容区对应区块
-      scrollToSection(categoryId)
-      onClose?.()
-    }
+    scrollToSection(categoryId)
   }
 
   const renderIcon = (iconName?: string) => {
@@ -137,19 +127,10 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
     setExpandedGroups(prev => ({ ...prev, [groupName]: !prev[groupName] }))
   }
 
-  // 分类展开状态：默认收起（保持「可展开折叠」），点击分类标题展开其书签
-  const [expandedCategories, setExpandedCategories] = useState<Record<string, boolean>>(() => {
-    return navigationData.navigationItems.reduce((acc, category) => {
-      acc[category.id] = false
-      return acc
-    }, {} as Record<string, boolean>)
-  })
-
-  const toggleCategory = (categoryId: string) => {
-    setExpandedCategories(prev => ({
-      ...prev,
-      [categoryId]: !prev[categoryId]
-    }))
+  // 子分类（如「导航聚合」下的「搜索引擎」）展开状态：默认收起，点击箭头展开后在左侧列出，点击仍定位右侧
+  const [expandedSubs, setExpandedSubs] = useState<Record<string, boolean>>({})
+  const toggleSubs = (categoryId: string) => {
+    setExpandedSubs(prev => ({ ...prev, [categoryId]: !prev[categoryId] }))
   }
 
   // 构建二级结构：父级分组 → 该组下的分类列表（保持原顺序）
@@ -225,7 +206,9 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
 
               {expandedGroups[group.name] && (
                 <div className="mt-0.5 space-y-0.5">
-                  {group.categories.map((category) => (
+                  {group.categories.map((category) => {
+                    const hasSubs = category.subCategories && category.subCategories.length > 0
+                    return (
                     <div key={category.id} className="py-0.5">
                       <div className="flex items-center">
                         <Button
@@ -237,14 +220,15 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
                           <span className="truncate">{category.title}</span>
                         </Button>
 
-                        {((category.subCategories && category.subCategories.length > 0) || (category.items && category.items.length > 0)) && (
+                        {hasSubs && (
                           <Button
                             variant="ghost"
                             size="sm"
                             className="px-2 hover:bg-transparent cursor-pointer"
-                            onClick={() => toggleCategory(category.id)}
+                            onClick={() => toggleSubs(category.id)}
+                            aria-label="展开子分类"
                           >
-                            {expandedCategories[category.id] ? (
+                            {expandedSubs[category.id] ? (
                               <ChevronDown className="h-4 w-4 text-muted-foreground" />
                             ) : (
                               <ChevronRight className="h-4 w-4 text-muted-foreground" />
@@ -253,14 +237,9 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
                         )}
                       </div>
 
-                      {(category.subCategories && category.subCategories.length > 0) ? (
-                        <div
-                          className={cn(
-                            "mt-1 ml-4 space-y-1 overflow-hidden transition-all duration-200 ease-in-out",
-                            expandedCategories[category.id] ? "max-h-[500px] opacity-100" : "max-h-0 opacity-0"
-                          )}
-                        >
-                          {category.subCategories.map((subCategory) => (
+                      {hasSubs && expandedSubs[category.id] && (
+                        <div className="mt-1 ml-4 space-y-1">
+                          {(category.subCategories || []).map((subCategory) => (
                             <Button
                               key={subCategory.id}
                               variant="ghost"
@@ -274,29 +253,10 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
                             </Button>
                           ))}
                         </div>
-                      ) : (
-                        <div
-                          className={cn(
-                            "mt-1 ml-4 space-y-0.5 overflow-y-auto overflow-hidden transition-all duration-200 ease-in-out",
-                            expandedCategories[category.id] ? "max-h-[70vh] opacity-100" : "max-h-0 opacity-0"
-                          )}
-                        >
-                          {category.items?.map((item) => (
-                            <a
-                              key={item.id}
-                              href={item.href}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              title={item.description || item.title}
-                              className="block w-full px-6 py-1.5 text-sm text-muted-foreground/80 hover:text-foreground hover:bg-accent rounded cursor-pointer truncate"
-                            >
-                              <span>{item.title}</span>
-                            </a>
-                          ))}
-                        </div>
                       )}
                     </div>
-                  ))}
+                    )
+                  })}
                 </div>
               )}
             </div>
