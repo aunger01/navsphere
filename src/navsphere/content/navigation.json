@@ -659,6 +659,15 @@
               "description": "短视频/图集在线去水印解析，一个在线短视频解析去水印工具，支持26+多个平台的短视频,图集在线解析去水印，常见的抖音去水印、微博、快手、皮皮虾全民都适用，直接复制短视频分享链接粘贴即可下载，不用删除文案。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "5_14",
+              "title": "Gushiye影视",
+              "href": "https://gushiye.com",
+              "description": "访问 gushiye.com",
+              "icon": "/assets/favicon_1785080754354.png",
+              "useDefaultIcon": true,
+              "enabled": true
             }
           ]
         },
@@ -762,14 +771,6 @@
               "title": "匿名墙",
               "href": "https://www.nimingqiang.com",
               "description": "匿名墙，一个可以匿名发布心里话的在线网站，那些年，我们有很多小秘密，却不敢说出来，内心备受煎熬，在这里说出你的心声，没有人知道，这里是树洞、也是匿名墙，可以自由发布心里话，当然不能过激的，可以参与讨论，上传图片才需要注册账号登录，心里有话想要说又想找人倾听的，可以试试。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "5_14",
-              "title": "故事爷",
-              "href": "https://gushiye.com",
-              "description": "爷爷每天晚上给你讲有趣的故事,免费提供各种故事的在线阅读,包括聊斋故事、志怪故事、民间故事，古代故事、鬼故事等",
               "icon": "",
               "enabled": true
             },
