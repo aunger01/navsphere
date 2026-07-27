@@ -934,7 +934,7 @@
             {
               "id": "8_3",
               "title": "Crazy Games",
-              "href": "https://images.crazygames.com",
+              "href": "https://crazygames.com",
               "description": "在CrazyGames上玩免费在线游戏，这是玩高质量浏览器游戏的最佳场所。我们每天都会添加新的游戏。",
               "icon": "",
               "enabled": true
@@ -1105,14 +1105,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "11_1",
-              "title": "车机破解网站导航页",
-              "href": "https://caadb.com/cn",
-              "description": "长安车机破解站点导航聚合",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "11_2",
               "title": "长安车机破解工具箱",
               "href": "https://caadb.com/",
@@ -1265,14 +1257,6 @@
               "description": "一家综合科技站点，看新闻，分享破解软件、绿色软件，Windows系统。守住互联网最后的一片净土。",
               "icon": "",
               "enabled": true
-            },
-            {
-              "id": "13_6",
-              "title": "гры от R.G. Механики",
-              "href": "https://s1.byrutor.com",
-              "description": "俄罗斯破解游戏资源站｜ 从Mechanics下载RePack",
-              "icon": "",
-              "enabled": true
             }
           ]
         },
@@ -1296,14 +1280,6 @@
               "title": "乐软博客",
               "href": "https://www.isharepc.com",
               "description": "一个致力于搜集与分享各种软件资源，有大量实用软件推荐，详细图文介绍，并提供下载。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "14_3",
-              "title": "笑哥共享网",
-              "href": "https://www.xiaogegh.com",
-              "description": "笑哥共享网—打造最专业的SEO、建站技术教程软件共享网站，提供最全的网站源码.最新的网络资讯，最好的干货，软件与技术。",
               "icon": "",
               "enabled": true
             },
@@ -1344,22 +1320,6 @@
               "title": "PC6下载站",
               "href": "https://www.pc6.com/softlist/Soft_Category.html",
               "description": "提供软件下载的站点,每天更新大量软件及技术文章,PC6官方下载全力打造软件下载门户网站。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "14_9",
-              "title": "WinWk",
-              "href": "https://winwk.com",
-              "description": "Winndows应用软件,每天更新大量精品window软件,为您提供优质的windows软件,windows破解版软件下载",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "14_10",
-              "title": "网罗灯下黑",
-              "href": "https://wldxh.com/windows",
-              "description": "网罗优质资源：Windows装机必备，浏览器，拓展，网盘，阅读等各类优质资源。你想要的都在这里",
               "icon": "",
               "enabled": true
             },
@@ -1502,14 +1462,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "16_1",
-              "title": "苦心iOS导航",
-              "href": "https://93665.xin/",
-              "description": "收录有关ios的一切资源，分享有关ios的一切，各种ios内购破解，ios源,ios付费软件免费下载，还有各种ios技巧，果粉，都值得进来一看！",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "16_2",
               "title": "Alt Store",
               "href": "https://altstore.io",
@@ -1542,14 +1494,6 @@
               "enabled": true
             },
             {
-              "id": "16_6",
-              "title": "AirPort",
-              "href": "https://app.airport.community",
-              "description": "发现TestFlight应用，AirPort是从开发者那里发现新的TestFlight应用程序的最佳地点。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "16_7",
               "title": "Departures",
               "href": "https://www.departures.to/",
@@ -1578,14 +1522,6 @@
               "title": "反斗限免",
               "href": "https://free.apprcn.com",
               "description": "最快、最新、最全的手机应用、桌面软件限免资讯，iPhone 限免、Mac 限免通通不错过。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "16_11",
-              "title": "APPSO",
-              "href": "https://free.apprcn.com",
-              "description": "每日精品限免/促销应用",
               "icon": "",
               "enabled": true
             },
@@ -1653,14 +1589,6 @@
               "description": "提供软件下载的站点,每天更新大量软件及技术文章,PC6官方下载全力打造软件下载门户网站。",
               "icon": "",
               "enabled": true
-            },
-            {
-              "id": "17_6",
-              "title": "网罗灯下黑",
-              "href": "https://wldxh.com/android-ios",
-              "description": "分享手机端包括ios可用的优质资源，包括但不限于网站，应用等。总有一款是你需要的",
-              "icon": "",
-              "enabled": true
             }
           ]
         },
@@ -1671,14 +1599,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "18_1",
-              "title": "扩展迷",
-              "href": "https://www.extfans.com",
-              "description": "扩展迷-专业的Chrome插件网站,推荐合法的优秀Chrome插件,热门好用的谷歌浏览器插件,最全面的Chrome插件资源直接下载安装资源,为谷歌浏览器带来功能性的便利扩展;更多优秀Chrome插件的介绍/推荐下载和谷歌插件相关资讯,尽在extfans.com. ",
-              "icon": "",
-              "enabled": true
-            },
             {
               "id": "18_2",
               "title": "收藏猫",
@@ -1745,22 +1665,6 @@
               "enabled": true
             },
             {
-              "id": "19_2",
-              "title": "捷径盒",
-              "href": "https://jiejinghe.com/",
-              "description": "实用捷径、快捷指令分享发现社区",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "19_3",
-              "title": "捷径社区",
-              "href": "https://sharecuts.cn/",
-              "description": "捷径社区，专注于发现和分享 Siri 捷径、快捷指令，让人们通过捷径探索 iOS 更大的世界。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "19_4",
               "title": "快捷指令库",
               "href": "https://www.rcuts.com",
@@ -1769,26 +1673,10 @@
               "enabled": true
             },
             {
-              "id": "19_5",
-              "title": "捷径库",
-              "href": "https://www.rcuts.com",
-              "description": "捷径库是苹果快捷指令规则的分享网站。快捷指令是Apple官方出品的iPhone内置效率应用，通过快捷指令可以快捷高效的完成多项任务。捷径库精选了一系列富有创意且实用的快捷指令，探索捷径库可获取快捷指令的最新功能和构建方式。在捷径库中轻点「获取捷径」即可将快捷指令添加到iOS设备中使用。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "19_6",
               "title": "少数派捷径库",
               "href": "https://shortcuts.sspai.com",
               "description": "少数派捷径库:精选了一系列富有创意且实用的快捷指令，探索捷径库可获取快捷指令的最新功能和构建方式.",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "19_7",
-              "title": "沐享娱乐",
-              "href": "https://shortcuts.sspai.com",
-              "description": "各种水印快捷指令，莱卡水印，哈苏水印，Apple水印等等",
               "icon": "",
               "enabled": true
             }
@@ -1882,14 +1770,6 @@
               "enabled": true
             },
             {
-              "id": "20_11",
-              "title": "火萤视频桌面",
-              "href": "http://www.huoying666.com/",
-              "description": "火萤动态壁纸官网-手机|电脑高清动态视频桌面壁纸屏保软件",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "20_12",
               "title": "Edge浏览器-内测版",
               "href": "https://www.microsoftedgeinsider.com/zh-cn/download",
@@ -1949,14 +1829,6 @@
               "enabled": true
             },
             {
-              "id": "21_5",
-              "title": "兔二工具",
-              "href": "https://www.toolnb.com/",
-              "description": "兔二工具是一个集合了众多在线工具的神奇工具箱,集齐了短视频解析、音乐下载解析、风水测算、编程开发、王者空白名等超多小工具",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "21_6",
               "title": "MikuTools",
               "href": "https://tools.miku.ac/",
@@ -1989,30 +1861,6 @@
               "enabled": true
             },
             {
-              "id": "21_10",
-              "title": "tvv.tw工具网",
-              "href": "https://tool.tvv.tw/",
-              "description": "tvv.tw工具网为您提供json格式化,json代码压缩,json校验解析,json数组解析,json转xml,xml转json,json解析,json在线解析,json在线解析及格式化,unix时间戳转换,CSS美化压缩,json美化,json格式化输出,json数组,json实体类,json视图等",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "21_11",
-              "title": "IP查询",
-              "href": "https://ipw.cn/",
-              "description": "简单好用的IP工具箱：支持IP地址查询、IP网络开通测试，支持IP在线Ping测试、IP网站检测、IP网站测速，致力于普及 IPv6 ,推进 IPv6 规模部署和应用。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "21_12",
-              "title": "你的工具箱",
-              "href": "https://tool.lu/",
-              "description": "在线工具,开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,字帖,田字格,进制转换,二维码,正则表达式,json格式化,照片压缩,pdf合并",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "21_13",
               "title": "菜鸟工具",
               "href": "https://c.runoob.com/",
@@ -2025,14 +1873,6 @@
               "title": "贝贝工具站",
               "href": "https://xbeibeix.com/",
               "description": "贝贝 BILIBILI 贝贝文件云 – 在线传文件 短信平台 – 国际共享号码接收",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "21_15",
-              "title": "小妖精工具",
-              "href": "http://www.xyjwangluo.cn",
-              "description": "小妖精工具，一个拥有多种在线轻量工具、实用工具、网页特效、网页游戏的在线轻量在线工具箱，例如一下常用的抖音BGM提取、流量消耗器、微信步数修改、视频解析、图片压缩、亲戚关系计算器等等，需要的可以按照分类搜索查找，非常实用。",
               "icon": "",
               "enabled": true
             }
@@ -2078,30 +1918,6 @@
               "enabled": true
             },
             {
-              "id": "22_5",
-              "title": "CPM-Ant｜智取标题",
-              "href": "https://live.openbmb.org/models/ant",
-              "description": "在 OpenBMB 官网右上角，见模型库切换为CPM-Art的话，这里还有一个由清华大学推出的有意思功能——智取标题输入一段正文内容就能免费一键生成劲爆标题，这个工具想法其实对阿虚这种公众号作者来说挺有帮助的但缺点就是可能由于训练量还不够（目前此模型只训练了不到3个月），输入一段文本目前只能生成一个标题，且在线 Demo 目前最多只能输入2000字。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "22_6",
-              "title": "CPM-Bee｜模型体验",
-              "href": "https://live.openbmb.org/models/bee",
-              "description": "采用此 CPM-Bee 在训练中的功能其实还有不少比如AI文本续写、AI填空、AI翻译、AI问答、AI信息抽取等等功能，都可以免费体验。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "22_7",
-              "title": "CPM-Bee｜模力表格",
-              "href": "https://live.openbmb.org/playground/",
-              "description": "模力表格是 OpenBMB今年1月才推出的一款大模型驱动的表格效率工具，在保留表格工具原有全部功能基础上，通过大模型实现文本内容的批量化语义〝计算〞，进一步提升了表格工作效率可能你有点儿懵逼，但看图你可能就懂了，使用问答函数即可实现从 A1 单元格中检索 B1 问题的答案",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "22_8",
               "title": "句易网",
               "href": "http://ju1.cn",
@@ -2126,22 +1942,6 @@
               "enabled": true
             },
             {
-              "id": "22_11",
-              "title": "Flight Aware",
-              "href": "https://cover.h5551.com",
-              "description": "最好的飞行跟踪站点：实时跟踪地图、飞行状态、航空公司航班延误、私人/通用航空飞行及机场信息。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "22_12",
-              "title": "图片盲水印在线工具",
-              "href": "https://stegonline.iculture.cc/",
-              "description": "图片盲水印在线检测工具",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "22_13",
               "title": "ITDOG",
               "href": "https://www.itdog.cn/",
@@ -2154,22 +1954,6 @@
               "title": "IPAddress.my",
               "href": "https://www.ipaddress.my/?lang=zh_CN",
               "description": "免费工具是用于对IP地址位置进行地理定位，获取详细的IP相关信息，ping和traceroute IP地址。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "22_15",
-              "title": "tyfelix",
-              "href": "https://www.naty7.com/",
-              "description": "一个小众 的工具集合网站，估计刚上线不久，上面有一些使实用的查询，例如q绑查询、手机号反查qq、微博id查询手机号、京东ck羊毛登录、TG代理等等，其他的自己去翻一下，娱乐一下就好。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "22_16",
-              "title": "LosePrivacy隐私查询",
-              "href": "https://web.losedh.cyou",
-              "description": "查询支持QQ号码、微博UID、手机号码、邮箱、用户名、身份证、密码等等；免费查询是按照查询的关键词收费的，例如一个身份证或者一个手机号码算一个关键词，一块钱个关键词，买了就就可以查询无限次数，新注册用户免费查询三个关键词。",
               "icon": "",
               "enabled": true
             },
@@ -2278,14 +2062,6 @@
               "enabled": true
             },
             {
-              "id": "22_30",
-              "title": "写锤子检讨书",
-              "href": "https://jts.egg404.cn/",
-              "description": "检讨书/道歉书/辞职文字生成器",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "22_31",
               "title": "营销号文字生成器",
               "href": "https://codepen.io/kasei-dis/full/JjYjwza?__cf_chl_jschl_tk__=9f3894ae13891f24f36084ea75dbb0aebd86b0a7-1587779793-0-AeBuBXqlg5jcuxRZf64j9o6P5OpYJHOhijwZJckLDeewsy6dJM-446MOkCaHPyPWzubelLAf-zeY18nLGdDSlZX3mTTUmI1cBOIsDfc9AE2IJj1JgMOzIvN5B2-r7L184FQJMXE55QENOTJE5QhQU6u-yOtKj41naxwiuXyUNyUL8bd5SGr8555F2hYSITKK_gBdkl4XzqZttEfg_plGqZ_rpxFFtK9AaLbM03QTmmbg7AzAAdo1y_MWw_yED9jQ9oMoatRSs9qebdAfjjMMVcoSfaRSPlv9t-sctEtA8dnvYDmcnbGcoOb0swtKH5yKV3Ype-MlRBZ7CnXklnPwxb0K5Uf1TrVq3QasWhfy72wG",
@@ -2298,14 +2074,6 @@
               "title": "满分作文生成器",
               "href": "https://beautyyu.one/full-mark-composition-generator/",
               "description": "满分作文生成器是一个开源的项目，使用模板来自2020浙江省高考语文满分作文，将专业术语和名人名言以随机报菜名（背书单）的方式填入模板，各种过多细节的编辑修改定制，即可生成一篇只有聪明人才能看懂的满分作文。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "22_33",
-              "title": "395印章生成器",
-              "href": "http://seal.biaozhiku.com",
-              "description": "395印章生成器是一个在线电子印章,电子公章生成器，比较专业的一个在线电子印章制作平台，而且还是免费的，有各种高级和专业模式，输入公司、章名、编码，支持颜色、旋转、大小、字体调整等等，适合各种不同的电子印章公章在线定制，电子公章印章制作完成可以直接保存为无损png、透明png、矢量图svg等等格式;使用注意：印章生成器仅供娱乐，请勿违法用途哈！",
               "icon": "",
               "enabled": true
             },
@@ -2366,22 +2134,6 @@
               "enabled": true
             },
             {
-              "id": "22_41",
-              "title": "人脸律动",
-              "href": "https://nodtotherhythm.com",
-              "description": "人脸律动，能让照片中的人脸直接动起来，有需要可以玩玩。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "22_42",
-              "title": "Dialogue",
-              "href": "https://dialogue.moe",
-              "description": "视频台词混剪，它通过爬取字幕组的中文字幕，收录了65000000+的对话，比如柯南里的那句「真相永远只有一个」，559228条结果秒出。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "22_43",
               "title": "找台词",
               "href": "https://zhaotaici.cn",
@@ -2428,14 +2180,6 @@
               "title": "小码短链接生成器",
               "href": "https://xiaomark.com",
               "description": "短链接生成工具",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "23_2",
-              "title": "短网址还原",
-              "href": "http://bitly.co",
-              "description": "支持还原goo.gl、bit.ly、adf.ly、t.co、t.cn、url.cn等国内外300多种短网址。",
               "icon": "",
               "enabled": true
             },
@@ -2501,14 +2245,6 @@
               "title": "PearOCR",
               "href": "https://pearocr.com/",
               "description": "PearOCR，在线图片转文字，免费OCR，在线图片文字提取，本地运算，无上传",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "24_3",
-              "title": "顽狗加解密工具",
-              "href": "https://www.dogged.cn",
-              "description": "一个免费文件在线加密解密工具，是一个 JavaScript 应用程序，它使用浏览器自带的 WebCryptoAPI 中的 AES-256-GCM 算法提供安全的文件加密。支持所有文件格式且只在本地运行文件从不上传到服务器 ，快速、安全、免费、顽强的在线文件加密工具。文件大小理论不会限制，浏览器会跟根据电脑硬件自动适配最大的读取文件大小，如果文件过大浏览器可能无法读取而发生崩溃无法加密，所以文件大小建议 1G 及以下。",
               "icon": "",
               "enabled": true
             },
@@ -2717,34 +2453,10 @@
               "enabled": true
             },
             {
-              "id": "26_10",
-              "title": "文叔叔",
-              "href": "https://www.wenshushu.cn",
-              "description": "文叔叔，免费空间 40GB，一款永不限速的云存储产品。传文件、收文件、网盘，还支持历史记录等高级功能。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "26_11",
-              "title": "MUSE",
-              "href": "https://musetransfer.com",
-              "description": "无需登录即可完成文件传输，10GB文件上传下载不限速、免费用，MuseTransfer文件传输工具就是快！",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "26_12",
               "title": "Wormhole",
               "href": "https://wormhole.app",
               "description": "Wormhole 让你能以端到端加密和自动过期链接的方式分享文件。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "26_13",
-              "title": "AnonFiles",
-              "href": "https://anonfiles.com",
-              "description": "匿名上传您的文件，我们为您提供20GB文件大小限制和无限带宽。",
               "icon": "",
               "enabled": true
             },
@@ -2766,26 +2478,10 @@
           "enabled": true,
           "items": [
             {
-              "id": "27_1",
-              "title": "天翼小站",
-              "href": "https://yun.hei521.cn",
-              "description": "天翼云盘资源分享，发布文章",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "27_2",
               "title": "猫狸盘搜",
               "href": "https://www.alipansou.com",
               "description": "猫狸盘搜 - 阿里云盘搜索神器",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "27_3",
-              "title": "telegram中文搜索",
-              "href": "https://www.sssoou.com",
-              "description": "telegram频道搜索，帮助大家搜telegram频道里的资源，终于不用因为telegram对中文支持不好，而找不到想要的资源了",
               "icon": "",
               "enabled": true
             },
@@ -2898,7 +2594,7 @@
             },
             {
               "id": "28_6",
-              "title": "Gmai",
+              "title": "Gmail邮箱",
               "href": "https://www.google.com/intl/zh-CN_cn/gmail/about/",
               "description": "Gmail 作为全球规模最大的电子邮件服务，如何为您的帐号和邮件加密，确保您的数据私密、安全且完全由您掌控。",
               "icon": "",
@@ -3016,14 +2712,6 @@
               "description": "临时电子邮件地址",
               "icon": "",
               "enabled": true
-            },
-            {
-              "id": "29_11",
-              "title": "免费教育邮箱",
-              "href": "https://etempmail.com/email",
-              "description": "免费Edu临时教育邮件",
-              "icon": "",
-              "enabled": true
             }
           ]
         },
@@ -3121,14 +2809,6 @@
               "description": "zero接码平台提供国内国外免费在线接收手机短信验证码服务，永久免费，完全免费，无需注册，不用加群，绿色无广告，方便快捷，无需下载各种APP",
               "icon": "",
               "enabled": true
-            },
-            {
-              "id": "30_12",
-              "title": "小鸟接码",
-              "href": "http://www.xnsms.com",
-              "description": "小鸟接码平台免费提供接码服务，提供免费的国内外手机号，操作简单，界面简洁，短信显示迅速，比国外类似短信验证码接收平台更快捷。",
-              "icon": "",
-              "enabled": true
             }
           ]
         },
@@ -3174,7 +2854,7 @@
             {
               "id": "31_5",
               "title": "VoceChat",
-              "href": "https://voce.chat/zh",
+              "href": "https://voce.chat/zh-CN",
               "description": "一款支持独立部署的个人云社交媒体聊天服务。15MB 的大小可部署在任何服务器上，部署简单，很少需要维护。开源地址：https://github.com/Privoce/vocechat-web",
               "icon": "",
               "enabled": true
@@ -3255,14 +2935,6 @@
               "enabled": true
             },
             {
-              "id": "32_7",
-              "title": "站长公益虚拟主机",
-              "href": "https://angid.eu.org",
-              "description": "超过10年的免费网站托管与PHP，MySQL，您的网站上没有广告！正常运行时间是我们的首要任务，这就是为什么我们可以自豪地说我们提供 99.9% 的正常运行时间。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "32_8",
               "title": "Infinity Free",
               "href": "https://www.infinityfree.net/",
@@ -3332,22 +3004,6 @@
               "title": "Serverssh",
               "href": "https://serverssh.net",
               "description": "免费Wireguard帐户、虚拟专用服务器、SSH Lifetime、SSH SGDO、SSH游戏、SSH免费、无限SSH、虚拟专用网络、Tembak Paket Data、Tembak XL、Tembak Telkomsel、Tembak Axis、免费互联网",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "33_3",
-              "title": "安卓“和谐”应用生成器",
-              "href": "https://appmaker.greatfire.org",
-              "description": "定制安卓应用，访问封锁的网站",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "33_4",
-              "title": "WhiteProxy",
-              "href": "https://whiteproxy.net",
-              "description": "WhiteProxy-致力于分享MTPROTO电报代理",
               "icon": "",
               "enabled": true
             },
@@ -3508,7 +3164,7 @@
             {
               "id": "35_10",
               "title": "phpStudy(小皮面板)",
-              "href": "https://www.bt.cn/",
+              "href": "https://www.xp.cn",
               "description": "phpStudy官网2019正式推出phpStudy V8.0版本PHP集成环境，支持Windows与Linux系统，支持WEB面板操作管理，一键网站开发环境搭建配置，另经典版本phpStudy2016/2018/JspStudy环境套件同步更新中，欢迎网站开发者或运维下载使用！",
               "icon": "",
               "enabled": true
@@ -3522,14 +3178,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "36_1",
-              "title": "漏洞银行(BUGBANK)",
-              "href": "http://skills.bugbank.cn",
-              "description": "漏洞银行是国内首家互联网安全服务SAAS平台，也是安全众测平台，在保护企业隐私的前提下，帮助企业建立漏洞应急响应中心，并在第一时间发现最具威胁的零日漏洞",
-              "icon": "",
-              "enabled": true
-            },
             {
               "id": "36_2",
               "title": "牛客网-免费python学习&练习",
@@ -3579,14 +3227,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "37_1",
-              "title": "Eoapi-开源API接口管理",
-              "href": "https://www.eoapi.io",
-              "description": "Eolink（深圳市银云信息技术有限公司是国内的在线API管理服务供应商，致力于满足各行业客户在不同应用环境中对API管理全生命周期的个性化需求，提供API开发管理、开发团队协作、自动化测试、网关以及监控等服务，帮助企业实现开发运维一体化，提升开发速度并且降低运维成本。",
-              "icon": "",
-              "enabled": true
-            },
             {
               "id": "37_2",
               "title": "Apifox",
@@ -3644,14 +3284,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "38_1",
-              "title": "GitHub中文社区",
-              "href": "https://www.githubs.cn",
-              "description": "GitHub中文社区是一个致力于分享和传播GitHub上优质开源项目的中文社区平台。",
-              "icon": "",
-              "enabled": true
-            },
             {
               "id": "38_2",
               "title": "Gitee（码云）",
@@ -3800,14 +3432,6 @@
               "enabled": true
             },
             {
-              "id": "39_10",
-              "title": "淘主图",
-              "href": "http://www.taozhutu.com",
-              "description": "淘主图-在线电商作图工具，提供淘宝装修_京东微信微商banner广告海报主图钻展创意模板在线ps图片设计美化制作",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "39_11",
               "title": "美图秀秀网页版",
               "href": "https://pc.meitu.com",
@@ -3820,22 +3444,6 @@
               "title": "Pika",
               "href": "https://pika.style",
               "description": "一个免费的截图美化工具，可以快速将屏幕截图转换成漂亮的网站和设备模型。您可以为App Store、Instagram等创建可定制的图像",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "39_13",
-              "title": "Logo设计网",
-              "href": "http://www.logosheji.com",
-              "description": "智能logo在线制作工具,免费国外标志商标设计欣赏-logo设计网",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "39_14",
-              "title": "轻站",
-              "href": "https://www.qingzhan.com",
-              "description": "轻站，轻站无代码、零代码建站平台，无需代码即可构建创意网页和小程序的新一代工具，用户无需代码知识，通过完全可视化的画布就可以实现创意的上线，目前支持PSD/Sketch导入和模板等都多种创建方式。",
               "icon": "",
               "enabled": true
             },
@@ -3876,14 +3484,6 @@
               "title": "Settings Luminar",
               "href": "https://skylum.com/account/settings",
               "description": "下载适用于PC和Mac的Luminar新照片编辑软件！简单的照片编辑器，带有人工智能，可以帮助您编辑您眼中的照片",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "39_20",
-              "title": "Screely",
-              "href": "https://www.screely.com",
-              "description": "立即把你的截图变成一个漂亮的网站模型。自定义浏览器模型窗口、背景等",
               "icon": "",
               "enabled": true
             },
@@ -4010,26 +3610,10 @@
           "enabled": true,
           "items": [
             {
-              "id": "41_1",
-              "title": "智影",
-              "href": "https://zenvideo.qq.com",
-              "description": "智影是腾讯的一款免费云端智能视频创作工具，集素材搜集、视频剪辑、渲染导出和发布于一体的免费在线剪辑平台。强大的AI智能工具，支持文本配音、数字人播报、自动字幕识别、文章转视频、去水印、视频解说、横转竖等功能，拥有丰富的素材库，极大提升创作效率，帮助用户更好地进行视频化的表达。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "41_2",
               "title": "快剪辑",
               "href": "https://www.kuaijianji.com/",
               "description": "快剪辑是国内首款支持在线视频剪辑平台,包含SaaS版|iOS|Android和PC版,拥有强大的视频录制,合成,截取功能,支持添加视频字幕,音乐,特效,贴纸,无强制片头片尾,免费无广告,适用于电商,短视频等场景。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "41_3",
-              "title": "声咖",
-              "href": "https://shengka.ai.sogou.com",
-              "description": "声咖-智能、快捷、高效的音视频创作平台",
               "icon": "",
               "enabled": true
             },
@@ -4042,26 +3626,10 @@
               "enabled": true
             },
             {
-              "id": "41_5",
-              "title": "一帧秒创",
-              "href": "https://aigc.yizhentv.com",
-              "description": "一帧秒创是基于秒创AIGC引擎的智能AI内容生成平台，包含AI图文转视频、AI作画创作平台AI帮写，智能一键百家号、公众号、头条号、搜狐号、新浪微博等图文、文章转视频，为企业及自媒体提供一站式视频生产和AI作画的营销神器，全面提升内容创作效率。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "41_6",
               "title": "闪电配音网",
               "href": "https://www.soundems.com/",
               "description": "闪电配音网是专业在线真人配音服务网站,提供促销广告,宣传片,视频,课件,动画,模仿,外语,粤语,方言,绘本,有声书,童声等全类型文稿的音频制作,解决您在配音时遇到的配音价格多少钱,配音案例试听,配音软件哪个好等问题。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "41_7",
-              "title": "发音转换器",
-              "href": "http://uahh.syouzyo.org/fyzhq",
-              "description": "老外说蹩脚中文",
               "icon": "",
               "enabled": true
             }
@@ -4087,14 +3655,6 @@
               "title": "Office365在线版",
               "href": "https://www.office.com/?auth=2",
               "description": "Office365在线版",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "42_3",
-              "title": "MDX Editor",
-              "href": "https://editor.runjs.cool/templates",
-              "description": "微信排版编辑器，使用MDX，可自定义组件、样式、生成二维码、代码 diff 高亮，可导出 markdown 和 PDF",
               "icon": "",
               "enabled": true
             },
@@ -4179,14 +3739,6 @@
               "enabled": true
             },
             {
-              "id": "42_14",
-              "title": "押韵助手在线查询",
-              "href": "https://yayun.la/",
-              "description": "押韵助手在线查询，支持单押、多押、中英混押，海量词库，保持更新，文案/金句/诗词/Rap歌词创作者的必备神器，输入你想押韵的字、词、句后，即可查询所有与之押韵的字、词、成语、谚语、唐诗、宋词、元曲、网络用语、歌词，词库涵盖了全汉字，数十万词汇，全唐诗，全宋词、全元曲、百万歌词，查询结果非常丰富。 ",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "42_15",
               "title": "markmap",
               "href": "https://markmap.js.org",
@@ -4207,22 +3759,6 @@
               "title": "Cuckoo",
               "href": "https://cuckoo.team/",
               "description": "远程团队的生产力计时器。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "42_18",
-              "title": "Powercall",
-              "href": "https://tico.chat/en/powercall",
-              "description": "Powercall |几秒钟内启动P2P安全视频会议",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "42_19",
-              "title": "Primary",
-              "href": "https://www.primary.page",
-              "description": "基本软件、书籍和时事通讯。",
               "icon": "",
               "enabled": true
             }
@@ -4704,14 +4240,6 @@
               "enabled": true
             },
             {
-              "id": "47_5",
-              "title": "Distill",
-              "href": "https://wedistill.io/",
-              "description": "国外免费高清图片",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "47_6",
               "title": "Freepik",
               "href": "https://www.freepik.com",
@@ -4792,14 +4320,6 @@
               "enabled": true
             },
             {
-              "id": "47_16",
-              "title": "DesignersPics",
-              "href": "http://www.designerspics.com",
-              "description": "DesignersPics-为您的商业和个人作品提供免费照片",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "47_17",
               "title": "Pixelmob",
               "href": "https://pixelmob.co",
@@ -4848,14 +4368,6 @@
               "enabled": true
             },
             {
-              "id": "47_23",
-              "title": "百合花之家",
-              "href": "https://www.bhhzw.com",
-              "description": "最新美女图片收集站",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "47_24",
               "title": "wallhaven.cc",
               "href": "https://wallhaven.cc",
@@ -4868,14 +4380,6 @@
               "title": "Wallpaper Abyss",
               "href": "https://wall.alphacoders.com/?lang=Chinese",
               "description": "一家壁纸社区。浏览和下载高清桌面背景、手机壁纸，留下赞和评论。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "47_26",
-              "title": "ZOL桌面壁纸",
-              "href": "http://desk.zol.com.cn",
-              "description": "电脑桌面壁纸大全",
               "icon": "",
               "enabled": true
             }
@@ -4905,14 +4409,6 @@
               "enabled": true
             },
             {
-              "id": "48_3",
-              "title": "免费谷歌幻灯片模板",
-              "href": "https://www.officeplus.cn/",
-              "description": "使用免费的Google幻灯片模板和背景吸引您的观众。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "48_4",
               "title": "优品PPT",
               "href": "https://www.ypppt.com/",
@@ -4925,14 +4421,6 @@
               "title": "51PPT模板网",
               "href": "https://www.51pptmoban.com/",
               "description": "51ppt模板网提供部分原创ppt模板及PPTer分享的优质ppt模板下载，动态ppt模板，宽屏ppt模板，PowerPoint模版背景，ppt模板素材、图表、特效等幻灯片模板设计教程下载。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "48_6",
-              "title": "演示星球",
-              "href": "https://www.pop-ppt.com/",
-              "description": "好看的PPT模板下载",
               "icon": "",
               "enabled": true
             },
@@ -5071,14 +4559,6 @@
               "title": "素材公社免费素材",
               "href": "https://www.tooopen.com/free",
               "description": "免费素材下载 - 收集优秀的品牌LOGO免费素材，品牌标志设计免费素材，公司名片模板免费素材，品牌VI设计免费素材和公司网页设计免费素材下载网。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "50_6",
-              "title": "随便科技",
-              "href": "http://k.omgtb.cn",
-              "description": "千图/包图等八站素材网站会员破解下载，需要付费/介意勿用",
               "icon": "",
               "enabled": true
             }
@@ -5253,22 +4733,6 @@
               "enabled": true
             },
             {
-              "id": "52_5",
-              "title": "Distill",
-              "href": "https://wedistill.io/videos",
-              "description": "免费高清库存视频和高清视频剪辑",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "52_6",
-              "title": "Free Videos, Clips & Loops",
-              "href": "https://lifeofvids.com/",
-              "description": "个人免费视频&商业用途。每周新增视频!在我们的VIMEO上免费为你提供高分辨率视频。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "52_7",
               "title": "Videvo",
               "href": "https://www.videvo.net/",
@@ -5399,14 +4863,6 @@
               "enabled": true
             },
             {
-              "id": "54_4",
-              "title": "BDP个人版",
-              "href": "https://me.bdp.cn/home.html",
-              "description": "海致BDP在线数据图表制作工具，免费使用，无需下载，无需编程，拖拽即可快速生成、制作数据图表，简单易上手。大数据实时可视化，词云、GIS地图等几十种动态可视化图表任你挑。BDP帮你打通所有的数据工作流程，减少50%以上的人工整合、处理、分析数据的时间，是实现数据分析、数据报告的最佳选择！",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "54_5",
               "title": "MapChart",
               "href": "https://www.mapchart.net",
@@ -5440,42 +4896,10 @@
           "enabled": true,
           "items": [
             {
-              "id": "55_1",
-              "title": "文心一格",
-              "href": "https://yige.baidu.com",
-              "description": "文心一格，AI艺术和创意辅助平台，依托飞桨、文心大模型的技术创新推出的“AI作画”产品，可轻松驾驭多种风格，人人皆可“一语成画”。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "55_2",
-              "title": "360鸿图",
-              "href": "https://paint.360.cn/",
-              "description": "AI妙笔生画，输入关键词、图片立即生成",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "55_3",
-              "title": "6PEN",
-              "href": "https://6pen.art",
-              "description": "6pen 是一个使用 AI 技术，利用文本生成绘画作品的产品，这意味着，你可以仅仅通过文字描述画面内容，风格，就可以得到画面",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "55_4",
               "title": "站酷AI创作实验室",
               "href": "https://www.zcool.com.cn/ailab",
               "description": "人工智能,AI绘画,ai画图,ai下载,ai绘画网站,AIGC,文生图,创作灵感,ai免费下载,人工智能绘画,ai制图,AI生成,AI创作,创意图像,一语成画,AI创作实验室,站酷AI创作,ai作画,ai人工智能绘图",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "55_5",
-              "title": "Vega AI",
-              "href": "https://rightbrain.art",
-              "description": "AI根据图文生成画面，大模型+ lora 小模型组合搭配生成不同风格的图片，网站左侧有一个「风格模型」的仓库，里面就是不同风格的小模型，包括不限于韩国女生，日本女生等等，点击「星号」收藏就能调用。",
               "icon": "",
               "enabled": true
             },
@@ -5500,14 +4924,6 @@
               "title": "Stable Diffusion-XL 在线版",
               "href": "https://clipdrop.co/stable-diffusion",
               "description": "Stability发布。只需要输入少量关键字，就可以生成高质量图片。白票方法：点击清除 Cookie 即可重复使用，大概 12 秒就能一次性出 4 张图片。PS：使用小书签，按快捷键 i i，即可查看并保存高清无水印图片",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "55_9",
-              "title": "Avataaars",
-              "href": "https://avataaars.com",
-              "description": "Sketch卡通头像插图草图库",
               "icon": "",
               "enabled": true
             },
@@ -5548,14 +4964,6 @@
               "title": "Festisite",
               "href": "https://www.festisite.com/money/us_dollar_1/",
               "description": "在线将头像添加到钞票上",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "55_15",
-              "title": "像素君小程序",
-              "href": "",
-              "description": "&lt;img src=&#39;https://nav.iowen.cn/wp-content/uploads/2019/12/bce5add2d2c44e20.jpg&#39; width=&#39;128&#39;&gt;",
               "icon": "",
               "enabled": true
             }
@@ -5603,14 +5011,6 @@
               "enabled": true
             },
             {
-              "id": "58_4",
-              "title": "律大师法律咨询网",
-              "href": "https://www.lvdashi110.com",
-              "description": "法律在线咨询就上律大师法律咨询网。律大师法律咨询网是一个快捷提供法律在线咨询，律师专家在线咨询的平台。同时提供法律法规，司法解释，刑事罪名库，裁判文书案例库。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "58_5",
               "title": "中国裁判文书网",
               "href": "https://wenshu.court.gov.cn",
@@ -5643,14 +5043,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "59_1",
-              "title": "打假导航",
-              "href": "http://www.dajiadaohang.com/",
-              "description": "个人搭建的政务平台聚合，打假人,执法者,进货人,消费者专用查询的网址导航站点，直通官方数据库。查验商标、证书、编号、认证信息、厂家信息等官方核定的真实状态，让假货、假公司、假证件、假批文等立刻现形。",
-              "icon": "",
-              "enabled": true
-            },
             {
               "id": "59_2",
               "title": "公安政务服务",
@@ -5716,22 +5108,6 @@
               "enabled": true
             },
             {
-              "id": "59_10",
-              "title": "广东省电信用户申诉综合处理中心",
-              "href": "http://14.18.100.118:9999/webPage03/index1.html?v=1662967794434",
-              "description": "广东省电信用户申诉综合处理中心",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "59_11",
-              "title": "国家合同示范文本库",
-              "href": "https://cont.12315.cn/",
-              "description": "合同示范文本库 - 国家市场监督管理总局",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "59_12",
               "title": "中国纪录片网",
               "href": "http://www.docuchina.cn/",
@@ -5744,14 +5120,6 @@
               "title": "终身教育平台",
               "href": "https://le.ouchn.cn/",
               "description": "国开终身教育平台",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "59_14",
-              "title": "违法和不良信息举报中心",
-              "href": "https://12377.cn/",
-              "description": "中央网信办（国家互联网信息办公室）违法和不良信息举报中心",
               "icon": "",
               "enabled": true
             },
@@ -5879,14 +5247,6 @@
               "enabled": true
             },
             {
-              "id": "62_2",
-              "title": "百科名医网",
-              "href": "https://www.baikemy.com/",
-              "description": "百科名医网，拥有海量的精准医学内容，为大众提供了可靠、科学、实用的健康科普知识，让大众面对网络医疗健康信息不再迷茫。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "62_3",
               "title": "就诊问问",
               "href": "https://ask.nocode.com/",
@@ -5952,22 +5312,6 @@
               "enabled": true
             },
             {
-              "id": "63_6",
-              "title": "第一教程网",
-              "href": "https://www.diyijc.com",
-              "description": "第一教程网(diyijc.com):专注于提供最全最实用的教育教学视频教程,免费在线观看学习，主要包含电脑、外语、中小学、大学、考研、资格、技能、医学体育、农业、家居、军史历史等视频教程！",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "63_7",
-              "title": "oeasy",
-              "href": "http://oeasy.org",
-              "description": "个人搭建等各种技能学习教程网站",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "63_8",
               "title": "云计算学习网站",
               "href": "https://study.liuzehe.top/",
@@ -5980,30 +5324,6 @@
               "title": "FreeCodeCamp",
               "href": "https://www.freecodecamp.org/chinese/learn/",
               "description": "FreeCodeCamp，是一个公益非盈利的学习编程的开发者社区/免费编程学习网站，网站主要是帮助人们免费学习编程，创建了大量免费的编程教程，包括交互式课程、视频课程、文章等，涵盖 Python、HTML、CSS、React、Vue、BootStrap、JSON 教程等，并且完成学习还会获得认证，可以将这些认证添加到你的简历或 LinkedIn 个人资料，网站支持多国语言，还有活跃的技术论坛和丰富的社区活动，在你学习编程和找工作时为你提供建议和帮助。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "63_10",
-              "title": "绘萌芽",
-              "href": "https://www.huimengya.com",
-              "description": "全面绘画学习交流平台",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "63_11",
-              "title": "iPad手绘教程",
-              "href": "https://uiiiuiii.com/?s=ipad",
-              "description": "优优教程网",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "63_12",
-              "title": "Procreate手绘教程",
-              "href": "https://uiiiuiii.com/?s=procreate",
-              "description": "优优教程网",
               "icon": "",
               "enabled": true
             },
@@ -6028,14 +5348,6 @@
               "title": "简答题",
               "href": "https://www.jiandati.com/",
               "description": "简答题汇集了各职业资格考试真题与大学网课（超星尔雅、学习通、云青书学堂、知到、智慧树、中国大学慕课等）题目，拥有真实可靠的答案，并为您提供答案解析与错题记录，是各类考生提升成绩的不二选择。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "63_16",
-              "title": "我要搜题网",
-              "href": "https://www.woyaosouti.com",
-              "description": "我要搜题网是一款服务于职业考证的考试搜题软件,拥有几千万不同考试医学考试题库和执业医师试题库,通过章节练习,模拟试题,历年真题等练习来让不同的用户学习和巩固知识,使他们能够通过考试和学习,获得相应的成就。",
               "icon": "",
               "enabled": true
             },
