@@ -102,7 +102,7 @@
               "id": "64_2",
               "title": "DeepSeek",
               "href": "https://deepseek.com",
-              "description": "",
+              "description": "深度求索大模型，擅长推理与代码",
               "icon": "",
               "enabled": true
             },
@@ -110,7 +110,7 @@
               "id": "64_3",
               "title": "元宝",
               "href": "https://yuanbao.tencent.com",
-              "description": "",
+              "description": "腾讯混元大模型，支持问答与创作",
               "icon": "",
               "enabled": true
             },
@@ -118,7 +118,7 @@
               "id": "64_4",
               "title": "Kimi",
               "href": "https://kimi.moonshot.cn",
-              "description": "",
+              "description": "月之暗面长文本大模型，擅长长文处理",
               "icon": "",
               "enabled": true
             },
@@ -223,7 +223,7 @@
               "id": "65_4",
               "title": "Grok",
               "href": "https://grok.com",
-              "description": "",
+              "description": "马斯克 xAI 模型，实时联网问答",
               "icon": "",
               "enabled": true
             },
@@ -231,7 +231,7 @@
               "id": "65_5",
               "title": "Meta AI",
               "href": "https://meta.ai",
-              "description": "",
+              "description": "Meta 出品大模型，多模态对话助手",
               "icon": "",
               "enabled": true
             },
@@ -239,7 +239,7 @@
               "id": "65_6",
               "title": "Mistral",
               "href": "https://chat.mistral.ai",
-              "description": "",
+              "description": "法国开源大模型，轻量高效可自部署",
               "icon": "",
               "enabled": true
             },
@@ -247,7 +247,7 @@
               "id": "65_7",
               "title": "Perplexity",
               "href": "https://perplexity.ai",
-              "description": "",
+              "description": "AI 搜索引擎，回答带引用来源",
               "icon": "",
               "enabled": true
             }
@@ -353,7 +353,7 @@
               "id": "67_1",
               "title": "Cursor",
               "href": "https://cursor.com",
-              "description": "",
+              "description": "AI 驱动代码编辑器，智能补全重构",
               "icon": "",
               "enabled": true
             },
@@ -361,7 +361,7 @@
               "id": "67_2",
               "title": "GitHub Copilot",
               "href": "https://github.com/features/copilot",
-              "description": "",
+              "description": "GitHub 官方 AI 助手，补全代码",
               "icon": "",
               "enabled": true
             },
@@ -369,7 +369,7 @@
               "id": "67_3",
               "title": "Claude Code",
               "href": "https://claude.com/claude-code",
-              "description": "",
+              "description": "Claude 命令行 AI 编程代理",
               "icon": "",
               "enabled": true
             },
@@ -377,7 +377,7 @@
               "id": "67_4",
               "title": "Codex",
               "href": "https://openai.com/codex",
-              "description": "",
+              "description": "OpenAI 云端软件工程智能体",
               "icon": "",
               "enabled": true
             },
@@ -385,7 +385,7 @@
               "id": "67_5",
               "title": "Devin",
               "href": "https://devin.ai",
-              "description": "",
+              "description": "Devin 全球首位 AI 软件工程师",
               "icon": "",
               "enabled": true
             },
@@ -393,7 +393,7 @@
               "id": "67_6",
               "title": "v0",
               "href": "https://v0.dev",
-              "description": "",
+              "description": "用自然语言生成前端 UI 的 AI 工具",
               "icon": "",
               "enabled": true
             },
@@ -401,7 +401,7 @@
               "id": "67_7",
               "title": "WorkBuddy",
               "href": "https://workbuddy.ai",
-              "description": "",
+              "description": "AI 全能助手，对话即完成各类任务",
               "icon": "",
               "enabled": true
             },
@@ -409,7 +409,7 @@
               "id": "67_8",
               "title": "通义灵码",
               "href": "https://lingma.aliyun.com",
-              "description": "",
+              "description": "阿里 AI 编程助手，智能补全与答疑",
               "icon": "",
               "enabled": true
             },
@@ -417,7 +417,7 @@
               "id": "67_9",
               "title": "MarsCode",
               "href": "https://marscode.cn",
-              "description": "",
+              "description": "字节 AI IDE，云端智能编程助手",
               "icon": "",
               "enabled": true
             },
@@ -425,7 +425,7 @@
               "id": "67_10",
               "title": "Trae",
               "href": "https://trae.ai",
-              "description": "",
+              "description": "字节出海 AI 编程工具，中文友好",
               "icon": "",
               "enabled": true
             }
@@ -2978,7 +2978,7 @@
               "id": "68_1",
               "title": "✨网络分流检测工具",
               "href": "https://ip.skk.moe/split-tunnel",
-              "description": "",
+              "description": "检测流量分流路径，排查代理节点",
               "icon": "",
               "enabled": true
             },
@@ -2994,7 +2994,7 @@
               "id": "68_3",
               "title": "IP与DNS纯净度检查",
               "href": "https://whoer.net/zh",
-              "description": "",
+              "description": "检测 IP 与 DNS 纯净度，防泄露",
               "icon": "",
               "enabled": true
             },
@@ -3010,7 +3010,7 @@
               "id": "68_5",
               "title": "IP纯净度检查",
               "href": "https://ping0.cc",
-              "description": "",
+              "description": "查询 IP 纯净度与匿名性评分",
               "icon": "",
               "enabled": true
             },
@@ -3018,7 +3018,7 @@
               "id": "68_6",
               "title": "IP威胁风险检查",
               "href": "https://ipdata.co/",
-              "description": "",
+              "description": "评估 IP 威胁风险与黑名单状态",
               "icon": "",
               "enabled": true
             },
@@ -3026,7 +3026,7 @@
               "id": "68_7",
               "title": "IP欺诈风险检查",
               "href": "https://scamalytics.com/",
-              "description": "",
+              "description": "检测 IP 欺诈风险与关联画像",
               "icon": "",
               "enabled": true
             },
@@ -3034,7 +3034,7 @@
               "id": "68_8",
               "title": "IPPure 检测IP纯净度",
               "href": "https://ippure.com/",
-              "description": "",
+              "description": "检测 IP 纯净度与代理暴露情况",
               "icon": "",
               "enabled": true
             },
@@ -3042,7 +3042,7 @@
               "id": "68_9",
               "title": "网站显示IP检查",
               "href": "https://ip111.cn",
-              "description": "",
+              "description": "查看网站识别到的本机出口 IP",
               "icon": "",
               "enabled": true
             },
