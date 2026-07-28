@@ -94,7 +94,7 @@
               "id": "64_1",
               "title": "豆包",
               "href": "https://doubao.com",
-              "description": "",
+              "description": "字节豆包是你的智能小助手，可以为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。",
               "icon": "",
               "enabled": true
             },
@@ -126,7 +126,7 @@
               "id": "64_5",
               "title": "百度AI",
               "href": "https://wenxin.baidu.com",
-              "description": "",
+              "description": "百度文心助手，一站式解决复杂问题，激发PC端超级生产力！独有「灵感探索」功能深入剖析问题核心，智能文字创作、图片创作、AI阅读、智能体海量应用启迪无限创意，开启高效智能学习办公新篇章！",
               "icon": "",
               "enabled": true
             },
@@ -134,7 +134,7 @@
               "id": "64_6",
               "title": "通义千问",
               "href": "https://tongyi.aliyun.com",
-              "description": "",
+              "description": "阿里大模型通义千问，一个专门响应人类指令的大模型，是效率助手，也是点子生成机",
               "icon": "",
               "enabled": true
             },
@@ -142,7 +142,7 @@
               "id": "64_7",
               "title": "讯飞星火认知大模型",
               "href": "https://xinghuo.xfyun.cn",
-              "description": "",
+              "description": "讯飞星火认知大模型，是由科大讯飞推出的大语言模型，能够通过自然语言理解，完成智能对答。",
               "icon": "",
               "enabled": true
             },
@@ -150,7 +150,7 @@
               "id": "64_8",
               "title": "智谱AI认知大模型",
               "href": "https://models.aminer.cn",
-              "description": "",
+              "description": "智谱·AI旗下的这个网站可就好玩了，提供了非常多免费的AI服务：包括AI作诗、AI写故事、AI绘画、AI答题、AI视频生成、AI代码生成、AI广告文案生成、修改病句等等工具，还有像疯狂星期四文案生成器这种好玩的小工具",
               "icon": "",
               "enabled": true
             },
@@ -158,7 +158,7 @@
               "id": "64_9",
               "title": "天工AI助手",
               "href": "https://tiangong.kunlun.com",
-              "description": "",
+              "description": "天工作为一款大型语言模型，拥有强大的自然语言处理和智能交互能力，能够实现智能问答、聊天互动、文本生成等多种应用场景，并且具有丰富的知识储备，涵盖科学、技术、文化、艺术、历史等领域。",
               "icon": "",
               "enabled": true
             },
@@ -166,7 +166,7 @@
               "id": "64_10",
               "title": "360智脑",
               "href": "https://ai.360.cn",
-              "description": "",
+              "description": "探索全新的人机协作模式，激活你的创造力和想象力",
               "icon": "",
               "enabled": true
             },
@@ -174,7 +174,7 @@
               "id": "64_11",
               "title": "MOSS",
               "href": "https://moss.fastnlp.top",
-              "description": "",
+              "description": "由复旦大学推出的Moss大模型，能够通过自然语言理解，完成智能对答。",
               "icon": "",
               "enabled": true
             },
@@ -182,7 +182,7 @@
               "id": "64_12",
               "title": "AI帮你理解科学",
               "href": "https://aminer.cn",
-              "description": "",
+              "description": "智谱AI还拥有一个自主知识产权的科技大数据检索平台，AMiner由清华大学计算机科学与技术系建立，包含了超过3.2亿学术论文/专利和1.33亿学者的科技图谱，提供学术检索、论文检索，推荐订阅、论文专利、学者画像、文献追踪、趋势分析等科技情报服务，是拥有我国完全自主知识产权的学术科技情报大数据挖掘与服务系统平台。",
               "icon": "",
               "enabled": true
             }
@@ -199,7 +199,7 @@
               "id": "65_1",
               "title": "ChatGPT",
               "href": "https://chat.openai.com/chat",
-              "description": "",
+              "description": "官方网站需要科学上网，由OpenAI开发的一个人工智能聊天机器人程序，于2022年11月推出。该程序使用基于GPT-3.5架构的大型语言模型并通过强化学习进行训练。",
               "icon": "",
               "enabled": true
             },
@@ -207,7 +207,7 @@
               "id": "65_2",
               "title": "Gemini",
               "href": "https://gemini.google.com",
-              "description": "",
+              "description": "访问 gemini.google.com",
               "icon": "",
               "enabled": true
             },
@@ -215,7 +215,7 @@
               "id": "65_3",
               "title": "Claude",
               "href": "https://claude.ai",
-              "description": "",
+              "description": "ChatGPT的竞品，安装在Slack社交办公平台使用，效果媲美GPT3.5，不过现在已经屏蔽大陆地区",
               "icon": "",
               "enabled": true
             },
@@ -264,7 +264,7 @@
               "id": "66_1",
               "title": "未来百科",
               "href": "https://www.futurepedia.io",
-              "description": "",
+              "description": "国外一个在线最大的人工智能AI工具目录，网站在线收录各种人工智能AI工具。网站每天更新5个以上的新AI工具，对人工智能AI 感兴趣的可以试试这个非常不错的在线人工智能Al工具目录，总能找到你喜欢满意的人工智能AI工具。",
               "icon": "",
               "enabled": true
             },
@@ -272,7 +272,7 @@
               "id": "66_2",
               "title": "Thereisan AI for that",
               "href": "https://theresanaiforthat.com",
-              "description": "",
+              "description": "国外一个人工智能AI工具分享列表网站，网站定期收集更新人工智能AI工具，可按照时间线和分类查看，作者从2015到现在坚持不断收集分享，非常不错。",
               "icon": "",
               "enabled": true
             },
@@ -280,7 +280,7 @@
               "id": "66_3",
               "title": "FutureTools",
               "href": "https://www.futuretools.io",
-              "description": "",
+              "description": "国外一个AI工具导航网站,已收集了173个各类Al工具，可根据聊天、金融、娱乐、视频、代码等多个筛选找到自己心仪的AI工具。Future Tools的目标是让人们更容易快速找到有用的人工智能解决方案。",
               "icon": "",
               "enabled": true
             },
@@ -288,7 +288,7 @@
               "id": "66_4",
               "title": "Getinference AI Radar",
               "href": "https://airadar.getinference.com",
-              "description": "",
+              "description": "找到你需要的一切，主要用于创意和营销的AI工具 500+产品，产品功能包含:Al写你的公关稿、生成迷宫、生成品牌标识、人工智能市场研究和幻灯片制作、帮助你写出更好简报的Al等等。",
               "icon": "",
               "enabled": true
             },
@@ -296,7 +296,7 @@
               "id": "66_5",
               "title": "最大的人工智能数据库",
               "href": "https://www.creaitives.com/tools",
-              "description": "",
+              "description": "Creaitives网站定期抓取所有其他AI数据库并汇总数据，目前，已收录了800+AI工具，配合浏览器翻译插件使用会更好。AI工具质量很高。",
               "icon": "",
               "enabled": true
             },
@@ -304,7 +304,7 @@
               "id": "66_6",
               "title": "AI Tool Hunt",
               "href": "https://www.aitoolhunt.com",
-              "description": "",
+              "description": "1400多种AI工具按semrush排名排序。分类详细,允许用户自己上传AI工具因此网站更新速度快，AI数量庞大。",
               "icon": "",
               "enabled": true
             },
@@ -312,7 +312,7 @@
               "id": "66_7",
               "title": "Melobytes",
               "href": "https://melobytes.com/",
-              "description": "",
+              "description": "专注于声音的AI网站，可以根据文案生成歌词、配乐等等，非常有趣，网站也在不断更新新功能，对于有音乐或者视频制作需求的小伙伴，可以去试试，非常有意思。",
               "icon": "",
               "enabled": true
             },
@@ -320,7 +320,7 @@
               "id": "66_8",
               "title": "SaaS AI工具",
               "href": "https://saasaitools.com",
-              "description": "",
+              "description": "SaaS AI工具是您获取新人工智能工具和每日人工智能新闻的来源，以帮助将您的创造力提升到一个新的水平。",
               "icon": "",
               "enabled": true
             },
@@ -328,7 +328,7 @@
               "id": "66_9",
               "title": "Amymind",
               "href": "https://amymind.com",
-              "description": "",
+              "description": "伴你思考的在线AI思维导图",
               "icon": "",
               "enabled": true
             },
@@ -336,7 +336,7 @@
               "id": "66_10",
               "title": "Gen2",
               "href": "https://research.runwayml.com/gen2",
-              "description": "",
+              "description": "一款AI视频编辑工具Gen2，但它的功能又不仅仅是编辑，更重要的是支持文字转视频，只需输入一句话就可以拍大片。它是由Stable Diffusion和《瞬息全宇宙》背后技术公司Runway推出的一款产品",
               "icon": "",
               "enabled": true
             }
@@ -2986,7 +2986,7 @@
               "id": "68_2",
               "title": "PING.PE",
               "href": "https://ping.pe/",
-              "description": "",
+              "description": "国外VPS服务器IP黑名单检测专业工具网站，可以测试各节点与目标服务器的连接情况，目前主要提供ping测试、TCP端口测试、dig测试三项",
               "icon": "",
               "enabled": true
             },
@@ -3002,7 +3002,7 @@
               "id": "68_4",
               "title": "ITDOG",
               "href": "https://www.itdog.cn/",
-              "description": "",
+              "description": "本站为IT运维人员提供实用的工具，多地ping测试、多地tcping测试、网站测速、HTTP测速、API测速、路由追踪、在线MTR 、DNS查询等。",
               "icon": "",
               "enabled": true
             },
@@ -3050,7 +3050,7 @@
               "id": "68_10",
               "title": "IPAddress.my",
               "href": "https://www.ipaddress.my/?lang=zh_CN",
-              "description": "",
+              "description": "免费工具是用于对IP地址位置进行地理定位，获取详细的IP相关信息，ping和traceroute IP地址。",
               "icon": "",
               "enabled": true
             },
@@ -3058,7 +3058,7 @@
               "id": "68_11",
               "title": "IPv4查询",
               "href": "https://ipw.cn/ip/",
-              "description": "",
+              "description": "IPv4查询小工具",
               "icon": "",
               "enabled": true
             },
@@ -3066,7 +3066,7 @@
               "id": "68_12",
               "title": "IPv6查询",
               "href": "https://ipw.cn/ipv6/",
-              "description": "",
+              "description": "IPv6查询小工具",
               "icon": "",
               "enabled": true
             },
@@ -3074,7 +3074,7 @@
               "id": "68_13",
               "title": "IP Checker",
               "href": "https://www.vps234.com/ipchecker/",
-              "description": "",
+              "description": "IPChecker是VPS234开发的一款检查IP是否被墙的利器，通过本工具你可以轻松检查IP是否被封，这款工具通过国内国外检查通过TCP、ICMP访问判断IP是否被封，轻松检查IP在中国大陆是否可以用",
               "icon": "",
               "enabled": true
             }
