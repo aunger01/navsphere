@@ -1,0 +1,46 @@
+name: 数据增改（书签增删改）
+description: 新增、修改或删除导航站点的书签条目（仅数据层，不涉及功能/UI）
+title: "[数据增改] "
+labels: ["type/data"]
+body:
+  - type: dropdown
+    id: action
+    attributes:
+      label: 操作类型
+      options:
+        - 新增书签
+        - 修改现有书签
+        - 删除书签
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: 所属分类（一级/子分类 id 或名称）
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: 书签名称
+    validations:
+      required: true
+  - type: input
+    id: href
+    attributes:
+      label: 链接（标准 https:// 单协议头，禁止 https:https://）
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: 描述 / 使用提示
+    validations:
+      required: false
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 确认
+      options:
+        - label: 此改动仅涉及数据，不触碰功能/UI/技术架构
+          required: true
