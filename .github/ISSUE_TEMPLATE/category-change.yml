@@ -1,0 +1,28 @@
+name: 分类调整（分组/子分类）
+description: 调整一级分组或子分类的结构、命名、排序（仅数据层）
+title: "[分类调整] "
+labels: ["type/category"]
+body:
+  - type: dropdown
+    id: action
+    attributes:
+      label: 调整类型
+      options:
+        - 新增分类
+        - 重命名分类
+        - 合并/拆分分类
+        - 移动书签到其他分类
+    validations:
+      required: true
+  - type: input
+    id: target
+    attributes:
+      label: 目标分类（id 或名称）
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 具体变更说明
+    validations:
+      required: true
