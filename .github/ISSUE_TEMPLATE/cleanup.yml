@@ -1,0 +1,27 @@
+name: 失效清理（死链/下架）
+description: 报告或批量清理失效、打不开、已下架的书签
+title: "[清理] "
+labels: ["type/cleanup"]
+body:
+  - type: textarea
+    id: items
+    attributes:
+      label: 需清理的书签（每行一条：名称 + 链接）
+    validations:
+      required: true
+  - type: dropdown
+    id: method
+    attributes:
+      label: 处理方式
+      options:
+        - 设为 enabled=false 下架（保留可恢复）
+        - 物理删除
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 确认
+      options:
+        - label: 优先用 enabled=false 下架，非必要不物理删除
+          required: false
