@@ -3215,6 +3215,15 @@
               "description": "Anonymous View，一个匿名浏览网页工具，允许任何人访问和浏览网站而不会留下任何痕迹，当然这个匿名也是相对的，向该工具的服务器发送请求，由该服务器帮转发，相当于一个代理的服务器，真实访问目标网站的不是自己的ip信息，而是服务器的信息，所以匿名也是相对于目标服务器的。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1785248654696_isjo6r6jk",
+              "title": "Mitce",
+              "href": "https://mitce.io/aff.php?aff=10609",
+              "description": "性价比高的加密代理",
+              "icon": "/assets/favicon_1785248568516.png",
+              "useDefaultIcon": true,
+              "enabled": true
             }
           ]
         },
