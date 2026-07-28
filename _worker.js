@@ -6,6 +6,7 @@ export default {
     process.env.GITHUB_OWNER = env.GITHUB_OWNER
     process.env.GITHUB_REPO = env.GITHUB_REPO
     process.env.GITHUB_BRANCH = env.GITHUB_BRANCH
+    process.env.GITHUB_PAT = env.GITHUB_PAT
     process.env.NEXTAUTH_URL = env.NEXTAUTH_URL
     process.env.NEXTAUTH_SECRET = env.GITHUB_CLIENT_SECRET
 
