@@ -250,6 +250,14 @@
               "description": "AI 搜索引擎，回答带引用来源",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "65_8",
+              "title": "Poke AI",
+              "href": "https://poke.com",
+              "description": "支持手机号或 Telegram 登录的 AI 聊天助手",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -339,6 +347,38 @@
               "description": "一款AI视频编辑工具Gen2，但它的功能又不仅仅是编辑，更重要的是支持文字转视频，只需输入一句话就可以拍大片。它是由Stable Diffusion和《瞬息全宇宙》背后技术公司Runway推出的一款产品",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "66_11",
+              "title": "Agnes",
+              "href": "https://agnes-ai.com",
+              "description": "可免费调用的 AI API 服务平台",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_12",
+              "title": "Hermes Agent（NousResearch）",
+              "href": "https://hermes-agent.nousresearch.com/",
+              "description": "NousResearch 推出的 AI 代理工具",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_13",
+              "title": "OpenMAIC",
+              "href": "https://open.maic.chat/",
+              "description": "提供 L4 级别 AI 互动课堂与陪练",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_14",
+              "title": "PUA AI",
+              "href": "https://openpua.ai/",
+              "description": "面向 AI skill 的开发与运行平台",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -426,6 +466,14 @@
               "title": "Trae",
               "href": "https://trae.ai",
               "description": "字节出海 AI 编程工具，中文友好",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "67_11",
+              "title": "OpenCode",
+              "href": "https://opencode.ai/",
+              "description": "运行在终端里的 AI 代码编辑器",
               "icon": "",
               "enabled": true
             }
@@ -705,6 +753,22 @@
               "description": "一款在线问答工具，与常见搜索引擎的最大不同之处，就是它能直接返回问题的答案，并附上详尽的答案数据与图表信息供用户参考。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "3_16",
+              "title": "阿里 88 查",
+              "href": "https://88cha.com/",
+              "description": "企业工商信息一站式查询工具",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "3_17",
+              "title": "全球航班飞行轨迹",
+              "href": "https://flightadsb.variflight.com/",
+              "description": "实时航班 ADS-B 飞行轨迹追踪",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
@@ -926,6 +990,46 @@
               "description": "发现各专业前辈们的学习建议",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "5_23",
+              "title": "悦读 Readify",
+              "href": "https://readify.voiceclub.cn/",
+              "description": "把网页文章转为语音听读",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "5_24",
+              "title": "猫 meme",
+              "href": "https://www.memesstyle.com/cat-meme-list",
+              "description": "猫 meme 表情包素材合集",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "5_25",
+              "title": "LINUX.DO",
+              "href": "https://linux.do/",
+              "description": "技术资源交流中文社区",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "5_26",
+              "title": "奶昔论坛",
+              "href": "https://hk.naixi.net/",
+              "description": "软件与资源分享论坛",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "5_27",
+              "title": "Apple 设备编年史",
+              "href": "https://macdb.cn/",
+              "description": "Apple 全系设备参数数据库",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -1097,6 +1201,22 @@
               "title": "Typing打字游戏",
               "href": "https://www.typing.com/student/games",
               "description": "想学习如何更快地打字吗？通过Typing.com的免费打字游戏让这些手指飞过键盘。在狩猎僵尸、弹出气球和从异物手中拯救宇宙飞船时，提高打字速度（WPM）并提高准确性。儿童和成人的打字练习从未如此有趣！我们的打字速度游戏是根据您的能力量身定制的，因此您可以轻松学习快速打字。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "8_10",
+              "title": "网页版红警 2",
+              "href": "https://www.ra2web.com/",
+              "description": "浏览器里直接游玩的红色警戒 2",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "8_11",
+              "title": "在线养仓鼠",
+              "href": "https://hammyhome.com/",
+              "description": "网页版云养仓鼠小游戏",
               "icon": "",
               "enabled": true
             }
@@ -1329,6 +1449,22 @@
               "description": "谷歌Chrome浏览器Driver驱动搜索下载",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "12_10",
+              "title": "Windows X-Lite",
+              "href": "https://windowsxlite.com/",
+              "description": "精简优化的 Windows 11 系统镜像",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "12_11",
+              "title": "puter.com 免费云电脑",
+              "href": "https://puter.com/",
+              "description": "运行在浏览器里的免费云电脑与云桌面",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -1499,6 +1635,38 @@
               "description": "GestureSign 是一款开源的 Windows 手势控制软件，支持Windows 8.1、Windows 10、Windows 11系统。可用触摸屏、触控板、触控笔和鼠标划出手势，方便地执行一些命令，如执行快捷键、发送文本命令、运行程序等等。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "14_18",
+              "title": "zTasker",
+              "href": "https://www.everauto.net/",
+              "description": "定时任务与全局热键自动化工具",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "14_19",
+              "title": "Geek Uninstaller",
+              "href": "https://geekuninstaller.com/",
+              "description": "轻量且卸载彻底的 Windows 软件卸载工具",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "14_20",
+              "title": "Bulk Crap Uninstaller",
+              "href": "https://www.bcuninstaller.com/",
+              "description": "批量彻底清理卸载残留的免费工具",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "14_21",
+              "title": "火绒强力卸载工具",
+              "href": "https://www.huorong.cn/",
+              "description": "火绒安全出品的强力卸载组件",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -1570,6 +1738,14 @@
               "title": "MacApp分享频道",
               "href": "https://macapp.org.cn/",
               "description": "MacApp分享频道，是一个使用 Typecho 搭建的Mac破解软件下载网站，网站并不以盈利为目的，所有软件均来源于网络，旨在方便大家查找自己想要的资源，便于进行分类和搜索，MacApp分享频道这个网站分享的都是一些实用的Mac软件，下载无需注册登录，并且网站提供多种方式下载。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "15_9",
+              "title": "ScreenKite",
+              "href": "https://www.screenkite.com/",
+              "description": "Mac 端屏幕缩放与录屏工具",
               "icon": "",
               "enabled": true
             }
@@ -1708,6 +1884,70 @@
               "title": "PC6下载站",
               "href": "https://www.pc6.com/az/",
               "description": "提供软件下载的站点,每天更新大量软件及技术文章,PC6官方下载全力打造软件下载门户网站。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "17_6",
+              "title": "MuMu 模拟器国际版",
+              "href": "https://www.mumuplayer.com/",
+              "description": "网易出品的电脑端安卓模拟器",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "17_7",
+              "title": "雷电模拟器 14",
+              "href": "https://lddl01.ldmnq.com/",
+              "description": "主流的安卓手游模拟器",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "17_8",
+              "title": "ApkClaw",
+              "href": "https://apkclaw.ai/",
+              "description": "安卓 APK 下载与 AI 工具聚合站",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "17_9",
+              "title": "APKPure",
+              "href": "https://apkpure.net/",
+              "description": "海外安卓应用与游戏下载市场",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "17_10",
+              "title": "Uptodown",
+              "href": "https://www.uptodown.com/",
+              "description": "海外应用软件免费下载平台",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "17_11",
+              "title": "AndClaw",
+              "href": "https://andclaw.app/",
+              "description": "安卓设备自动化 AI 工具",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "17_12",
+              "title": "EasyEUICC",
+              "href": "https://easyeuicc.org/zh-hans/",
+              "description": "开源的 eSIM 卡片读写工具",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "17_13",
+              "title": "NekokoLPA 2",
+              "href": "https://n.lpa.ee/zh/download",
+              "description": "eSIM LPA 本地配置管理工具",
               "icon": "",
               "enabled": true
             }
@@ -1897,6 +2137,14 @@
               "description": "火萤动态壁纸官网-手机|电脑高清动态视频桌面壁纸屏保软件",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "20_13",
+              "title": "兴趣屋论坛",
+              "href": "https://www.xqu5.com/",
+              "description": "免费软件下载与分享论坛",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
@@ -1994,6 +2242,22 @@
               "title": "贝贝工具站",
               "href": "https://xbeibeix.com/",
               "description": "贝贝 BILIBILI 贝贝文件云 – 在线传文件 短信平台 – 国际共享号码接收",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "21_15",
+              "title": "帮小忙（腾讯万能工具箱）",
+              "href": "https://tool.browser.qq.com/",
+              "description": "腾讯出品的在线万能小工具箱",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "21_16",
+              "title": "ZTool 商店",
+              "href": "https://ohmyztools.cc/",
+              "description": "Mac 平台工具软件商店官网",
               "icon": "",
               "enabled": true
             }
@@ -2253,6 +2517,14 @@
               "description": "用不到一分钟，查看您的计算机是否可以运行任何流行的PC游戏。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "22_46",
+              "title": "账单地址生成器",
+              "href": "https://docs.mimicland.click",
+              "description": "生成用于注册外区账号的账单地址",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -2458,6 +2730,22 @@
               "description": "百度出品的云相册永久无限空间，上传下载不限速，照片视频原画备份，一键释放本地空间。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "25_7",
+              "title": "97 网盘",
+              "href": "https://www.97pan.cn/",
+              "description": "提供 10T 空间的个人网盘",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "25_8",
+              "title": "数据胶囊（中国科技云）",
+              "href": "https://data.cstcloud.cn/",
+              "description": "中科院旗下的科研云存储服务",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -2620,6 +2908,30 @@
               "description": "在线视频下载，使用软件自带浏览器可以轻松嗅探网页中的视频资源，通过嗅探到的资源列表选择自己想要下载的资源，简单快速。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "27_10",
+              "title": "小云搜索",
+              "href": "https://yunso.net/",
+              "description": "搜索各大网盘资源的聚合引擎",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "27_11",
+              "title": "不限速下载解析",
+              "href": "https://x.dg22.top/",
+              "description": "解析百度 / 夸克 / UC / 阿里 / 城通不限速下载",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "27_12",
+              "title": "SnapWC",
+              "href": "https://snapwc.com/zh",
+              "description": "视频 / 音频 / 图片在线下载工具",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
@@ -2709,6 +3021,22 @@
               "title": "阿里企业邮箱",
               "href": "https://www.ali-exmail.cn/",
               "description": "阿里企业邮箱,是业内唯一一家拥有独立公有云服务的邮件运营商，已有20年企业邮箱运营经验，钓鱼邮件拦截率>99.99%,服务超过500万用户。全球云机房，全球畅邮。咨询5折抢购！",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "28_10",
+              "title": "腾讯 Agent 邮箱",
+              "href": "https://agent.qq.com/",
+              "description": "腾讯推出的 Agent 专属邮箱，与工作和个人邮箱相互隔离",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "28_11",
+              "title": "FoxMail 客户端",
+              "href": "https://www.foxmail.com/",
+              "description": "腾讯出品的 Windows / Mac 桌面邮件客户端",
               "icon": "",
               "enabled": true
             }
@@ -3182,6 +3510,14 @@
               "description": "轻量级(self-hosted)自建网盘软件，程序仅 60 ~ 90 KB，含 server 端，无其它依赖，速度快资源占用低，纯便携软件，解压即用，支持 Windows、Linux、OpenWrt、Armbian，界面简洁易用，无繁琐设置，支持移动设备",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "32_14",
+              "title": "免费虚拟主机",
+              "href": "http://my-place.us/free-hosting.php",
+              "description": "提供免费 PHP 虚拟主机空间",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -3289,6 +3625,14 @@
               "description": "阿里云的智能域名解析",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "34_8",
+              "title": "免费二级域名",
+              "href": "https://my.dnshe.com/",
+              "description": "可免费申请使用的二级域名服务",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -3376,6 +3720,30 @@
               "title": "phpStudy(小皮面板)",
               "href": "https://www.xp.cn",
               "description": "phpStudy官网2019正式推出phpStudy V8.0版本PHP集成环境，支持Windows与Linux系统，支持WEB面板操作管理，一键网站开发环境搭建配置，另经典版本phpStudy2016/2018/JspStudy环境套件同步更新中，欢迎网站开发者或运维下载使用！",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "35_11",
+              "title": "Docker Desktop",
+              "href": "https://docs.docker.com/",
+              "description": "容器化应用开发与运行平台官网文档",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "35_12",
+              "title": "Node.js",
+              "href": "https://nodejs.org/",
+              "description": "JavaScript 服务端运行环境官网",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "35_13",
+              "title": "Git",
+              "href": "https://git-scm.com/",
+              "description": "分布式版本控制系统官网",
               "icon": "",
               "enabled": true
             }
@@ -3484,6 +3852,22 @@
               "description": "Charles Web调试代理 - 官方网站",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "37_8",
+              "title": "雷池 WAF（SafeLine）",
+              "href": "https://waf-ce.chaitin.cn/",
+              "description": "长亭科技出品的社区版 Web 应用防火墙官网",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "37_9",
+              "title": "Memfit",
+              "href": "https://memfit.ai/",
+              "description": "自动化渗透测试的 AI 代理",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -3547,6 +3931,22 @@
               "title": "HuggingChat",
               "href": "http://huggingface.co",
               "description": "HuggingChat为每个人提供社区最好的人工智能聊天模型。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "38_9",
+              "title": "ClawHub 镜像站",
+              "href": "https://cn.clawhub-mirror.com/",
+              "description": "ClawHub 国内镜像加速站",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "38_10",
+              "title": "skills.sh",
+              "href": "https://skills.sh/",
+              "description": "AI agents 技能一键安装平台",
               "icon": "",
               "enabled": true
             }
@@ -3710,6 +4110,30 @@
               "title": "Word2art",
               "href": "https://www.word2art.com",
               "description": "词云制造网站",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "39_23",
+              "title": "Lovart",
+              "href": "https://www.lovart.ai/",
+              "description": "AI 驱动的在线设计平台",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "39_24",
+              "title": "阿里海报 Agent",
+              "href": "https://d.design/",
+              "description": "阿里出品的 AI 海报设计工具",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "39_25",
+              "title": "open-design",
+              "href": "https://open-design.ai/",
+              "description": "AI 辅助的在线设计工具",
               "icon": "",
               "enabled": true
             }
@@ -3969,6 +4393,14 @@
               "title": "Cuckoo",
               "href": "https://cuckoo.team/",
               "description": "远程团队的生产力计时器。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "42_18",
+              "title": "Obsidian Publish",
+              "href": "https://publish.obsidian.md/",
+              "description": "将 Obsidian 笔记一键发布为网站",
               "icon": "",
               "enabled": true
             }
@@ -4900,6 +5332,14 @@
               "description": "全球风、天气和海洋状况地图",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "51_16",
+              "title": "苹果 WWDC 壁纸",
+              "href": "https://developer.apple.com/cn/wwdc26/wallpaper",
+              "description": "苹果开发者大会官方壁纸下载",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -5598,6 +6038,22 @@
               "title": "延大版成考免费配套资源",
               "href": "https://mp.bookln.cn/store.html?shopId=26369&pageCode=2c18664b-23c1-4b6a-b962-6ed50bdf2d8e&share_=200679344&_loginTime=1660447754913#/",
               "description": "延大版成考免费配套资源及考试模拟",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "63_22",
+              "title": "联合国 AI 专业认证证书",
+              "href": "https://judges.org/ai_and_law/english/",
+              "description": "联合国 AI 与法律专业认证课程",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "63_23",
+              "title": "谷歌 AI 证书",
+              "href": "https://educertifications.google/",
+              "description": "谷歌官方 AI 技能认证",
               "icon": "",
               "enabled": true
             }
