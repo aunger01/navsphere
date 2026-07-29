@@ -262,127 +262,6 @@
           ]
         },
         {
-          "id": "66",
-          "title": "海外AI工具",
-          "icon": "",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "66_1",
-              "title": "未来百科",
-              "href": "https://www.futurepedia.io",
-              "description": "国外一个在线最大的人工智能AI工具目录，网站在线收录各种人工智能AI工具。网站每天更新5个以上的新AI工具，对人工智能AI 感兴趣的可以试试这个非常不错的在线人工智能Al工具目录，总能找到你喜欢满意的人工智能AI工具。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "66_2",
-              "title": "Thereisan AI for that",
-              "href": "https://theresanaiforthat.com",
-              "description": "国外一个人工智能AI工具分享列表网站，网站定期收集更新人工智能AI工具，可按照时间线和分类查看，作者从2015到现在坚持不断收集分享，非常不错。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "66_3",
-              "title": "FutureTools",
-              "href": "https://www.futuretools.io",
-              "description": "国外一个AI工具导航网站,已收集了173个各类Al工具，可根据聊天、金融、娱乐、视频、代码等多个筛选找到自己心仪的AI工具。Future Tools的目标是让人们更容易快速找到有用的人工智能解决方案。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "66_4",
-              "title": "Getinference AI Radar",
-              "href": "https://airadar.getinference.com",
-              "description": "找到你需要的一切，主要用于创意和营销的AI工具 500+产品，产品功能包含:Al写你的公关稿、生成迷宫、生成品牌标识、人工智能市场研究和幻灯片制作、帮助你写出更好简报的Al等等。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "66_5",
-              "title": "最大的人工智能数据库",
-              "href": "https://www.creaitives.com/tools",
-              "description": "Creaitives网站定期抓取所有其他AI数据库并汇总数据，目前，已收录了800+AI工具，配合浏览器翻译插件使用会更好。AI工具质量很高。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "66_6",
-              "title": "AI Tool Hunt",
-              "href": "https://www.aitoolhunt.com",
-              "description": "1400多种AI工具按semrush排名排序。分类详细,允许用户自己上传AI工具因此网站更新速度快，AI数量庞大。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "66_7",
-              "title": "Melobytes",
-              "href": "https://melobytes.com/",
-              "description": "专注于声音的AI网站，可以根据文案生成歌词、配乐等等，非常有趣，网站也在不断更新新功能，对于有音乐或者视频制作需求的小伙伴，可以去试试，非常有意思。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "66_8",
-              "title": "SaaS AI工具",
-              "href": "https://saasaitools.com",
-              "description": "SaaS AI工具是您获取新人工智能工具和每日人工智能新闻的来源，以帮助将您的创造力提升到一个新的水平。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "66_9",
-              "title": "Amymind",
-              "href": "https://amymind.com",
-              "description": "伴你思考的在线AI思维导图",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "66_10",
-              "title": "Gen2",
-              "href": "https://research.runwayml.com/gen2",
-              "description": "一款AI视频编辑工具Gen2，但它的功能又不仅仅是编辑，更重要的是支持文字转视频，只需输入一句话就可以拍大片。它是由Stable Diffusion和《瞬息全宇宙》背后技术公司Runway推出的一款产品",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "66_11",
-              "title": "Agnes",
-              "href": "https://agnes-ai.com",
-              "description": "可免费调用的 AI API 服务平台",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "66_12",
-              "title": "Hermes Agent（NousResearch）",
-              "href": "https://hermes-agent.nousresearch.com/",
-              "description": "NousResearch 推出的 AI 代理工具",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "66_13",
-              "title": "OpenMAIC",
-              "href": "https://open.maic.chat/",
-              "description": "提供 L4 级别 AI 互动课堂与陪练",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "66_14",
-              "title": "PUA AI",
-              "href": "https://openpua.ai/",
-              "description": "面向 AI skill 的开发与运行平台",
-              "icon": "",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "67",
           "title": "AI 编程助手",
           "icon": "",
@@ -480,25 +359,65 @@
           ]
         },
         {
-          "id": "57",
-          "title": "#第三方GPT",
-          "icon": "Star",
+          "id": "66",
+          "title": "其他AI工具",
+          "icon": "",
           "description": "",
           "enabled": true,
           "items": [
             {
-              "id": "57_1",
-              "title": "人工智能指南",
-              "href": "https://githubfast.com/runningcheese/Awesome-ChatGPT",
-              "description": "人工智能指南开源文档航",
+              "id": "66_7",
+              "title": "Melobytes",
+              "href": "https://melobytes.com/",
+              "description": "专注于声音的AI网站，可以根据文案生成歌词、配乐等等，非常有趣，网站也在不断更新新功能，对于有音乐或者视频制作需求的小伙伴，可以去试试，非常有意思。",
               "icon": "",
               "enabled": true
             },
             {
-              "id": "57_2",
-              "title": "Midjourney学习导航",
-              "href": "https://learningprompt.wiki/docs/midjourney-learning-path",
-              "description": "线性的教程，并不是学习 Midjourney 最好的方法，为了能让不同水平的朋友快速了解和学会 Midjourney ，作者特意制作了本学习导航，希望它能帮助你更好地学习。",
+              "id": "66_9",
+              "title": "Amymind",
+              "href": "https://amymind.com",
+              "description": "伴你思考的在线AI思维导图",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_10",
+              "title": "Gen2",
+              "href": "https://research.runwayml.com/gen2",
+              "description": "一款AI视频编辑工具Gen2，但它的功能又不仅仅是编辑，更重要的是支持文字转视频，只需输入一句话就可以拍大片。它是由Stable Diffusion和《瞬息全宇宙》背后技术公司Runway推出的一款产品",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_11",
+              "title": "Agnes",
+              "href": "https://agnes-ai.com",
+              "description": "可免费调用的 AI API 服务平台",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_12",
+              "title": "Hermes Agent（NousResearch）",
+              "href": "https://hermes-agent.nousresearch.com/",
+              "description": "NousResearch 推出的 AI 代理工具",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_13",
+              "title": "OpenMAIC",
+              "href": "https://open.maic.chat/",
+              "description": "提供 L4 级别 AI 互动课堂与陪练",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_14",
+              "title": "PUA AI",
+              "href": "https://openpua.ai/",
+              "description": "面向 AI skill 的开发与运行平台",
               "icon": "",
               "enabled": true
             },
@@ -515,6 +434,87 @@
               "title": "开放猫",
               "href": "https://openmao.panchuang.net/",
               "description": "开放猫-人工智能应用聚合平台，网站基于外部API二次开发，目前人工智能应用聚合平台会聊天、会写作、会绘图的人工智能猫，接入了当前强大的聊天软件，不仅可以提问各类百科问题，还可以按用户的需要直接创作博客/新闻/文章、写代码、修复代码bug、生成Excel、自动回复邮件等。",
+              "icon": "",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "title": "大模型指南",
+          "icon": "Star",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "66_1",
+              "title": "未来百科",
+              "href": "https://www.futurepedia.io",
+              "description": "国外一个在线最大的人工智能AI工具目录，网站在线收录各种人工智能AI工具。网站每天更新5个以上的新AI工具，对人工智能AI 感兴趣的可以试试这个非常不错的在线人工智能Al工具目录，总能找到你喜欢满意的人工智能AI工具。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_2",
+              "title": "Thereisan AI for that",
+              "href": "https://theresanaiforthat.com",
+              "description": "国外一个人工智能AI工具分享列表网站，网站定期收集更新人工智能AI工具，可按照时间线和分类查看，作者从2015到现在坚持不断收集分享，非常不错。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_3",
+              "title": "FutureTools",
+              "href": "https://www.futuretools.io",
+              "description": "国外一个AI工具导航网站,已收集了173个各类Al工具，可根据聊天、金融、娱乐、视频、代码等多个筛选找到自己心仪的AI工具。Future Tools的目标是让人们更容易快速找到有用的人工智能解决方案。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_4",
+              "title": "Getinference AI Radar",
+              "href": "https://airadar.getinference.com",
+              "description": "找到你需要的一切，主要用于创意和营销的AI工具 500+产品，产品功能包含:Al写你的公关稿、生成迷宫、生成品牌标识、人工智能市场研究和幻灯片制作、帮助你写出更好简报的Al等等。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_5",
+              "title": "最大的人工智能数据库",
+              "href": "https://www.creaitives.com/tools",
+              "description": "Creaitives网站定期抓取所有其他AI数据库并汇总数据，目前，已收录了800+AI工具，配合浏览器翻译插件使用会更好。AI工具质量很高。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_6",
+              "title": "AI Tool Hunt",
+              "href": "https://www.aitoolhunt.com",
+              "description": "1400多种AI工具按semrush排名排序。分类详细,允许用户自己上传AI工具因此网站更新速度快，AI数量庞大。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_8",
+              "title": "SaaS AI工具",
+              "href": "https://saasaitools.com",
+              "description": "SaaS AI工具是您获取新人工智能工具和每日人工智能新闻的来源，以帮助将您的创造力提升到一个新的水平。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "57_1",
+              "title": "人工智能指南",
+              "href": "https://githubfast.com/runningcheese/Awesome-ChatGPT",
+              "description": "人工智能指南开源文档航",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "57_2",
+              "title": "Midjourney学习导航",
+              "href": "https://learningprompt.wiki/docs/midjourney-learning-path",
+              "description": "线性的教程，并不是学习 Midjourney 最好的方法，为了能让不同水平的朋友快速了解和学会 Midjourney ，作者特意制作了本学习导航，希望它能帮助你更好地学习。",
               "icon": "",
               "enabled": true
             }
@@ -5545,14 +5545,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "55_4",
-              "title": "站酷AI创作实验室",
-              "href": "https://www.zcool.com.cn/ailab",
-              "description": "人工智能,AI绘画,ai画图,ai下载,ai绘画网站,AIGC,文生图,创作灵感,ai免费下载,人工智能绘画,ai制图,AI生成,AI创作,创意图像,一语成画,AI创作实验室,站酷AI创作,ai作画,ai人工智能绘图",
-              "icon": "",
-              "enabled": true
-            },
             {
               "id": "55_6",
               "title": "Midjourney",
