@@ -24,14 +24,6 @@
               "enabled": true
             },
             {
-              "id": "1_3",
-              "title": "万能命令",
-              "href": "https://wannengrun.com/zh/",
-              "description": "wn万能命令是一个在线工具快捷跳转平台，将各种高质量的在线工具按应用站点聚合起来，让你以方便快捷好记的方式寻找和使用网页型在线工具。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "1_7",
               "title": "在线工具箱",
               "href": "https://tool.lu",
@@ -48,14 +40,6 @@
               "enabled": true
             },
             {
-              "id": "1_9",
-              "title": "HTML/CSS/JS 在线工具",
-              "href": "https://c.runoob.com/front-end/61/",
-              "description": "通过 HTML/CSS/JS 在线工具，你可以在线输入 HTML 、CSS、JS 代码，该工具能实时显示运行效果。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "1_10",
               "title": "在线汇率换算器",
               "href": "https://c.runoob.com/unit-conversion/7939/",
@@ -67,7 +51,7 @@
               "id": "1_11",
               "title": "聚合网盘搜索",
               "href": "https://1.10000101.xyz/icloud/",
-              "description": "聚合网盘资源搜索",
+              "description": "聚合多家网盘资源的搜索工具，一站式查找百度网盘、阿里云盘等平台的分享文件。",
               "icon": "",
               "enabled": true
             }
@@ -148,9 +132,9 @@
             },
             {
               "id": "64_8",
-              "title": "智谱AI认知大模型",
-              "href": "https://models.aminer.cn",
-              "description": "智谱·AI旗下的这个网站可就好玩了，提供了非常多免费的AI服务：包括AI作诗、AI写故事、AI绘画、AI答题、AI视频生成、AI代码生成、AI广告文案生成、修改病句等等工具，还有像疯狂星期四文案生成器这种好玩的小工具",
+              "title": "智谱清言",
+              "href": "https://chatglm.cn",
+              "description": "智谱 AI 对话助手，支持写作、编程、问答与多模态创作。",
               "icon": "",
               "enabled": true
             },
@@ -557,7 +541,7 @@
               "id": "2_3",
               "title": "奇趣网站收藏家",
               "href": "https://fuun.fun",
-              "description": "奇趣网站收藏家",
+              "description": "收集并推荐各类奇趣、小众网站的导航站，发现有趣的网络角落。",
               "icon": "",
               "enabled": true
             },
@@ -661,7 +645,7 @@
               "id": "2_21",
               "title": "比格张",
               "href": "https://ourmacs.com",
-              "description": "分享优质资源",
+              "description": "分享 macOS 与各类优质软件、资源的个人导航博客。",
               "icon": "",
               "enabled": true
             },
@@ -686,7 +670,7 @@
               "id": "3_1",
               "title": "Similarsites",
               "href": "https://www.similarsites.com",
-              "description": "查找同类网站",
+              "description": "输入任一网址即可发现功能相似的同类网站，辅助竞品调研与替代选择。",
               "icon": "",
               "enabled": true
             },
@@ -1019,7 +1003,7 @@
               "id": "5_26",
               "title": "奶昔论坛",
               "href": "https://hk.naixi.net/",
-              "description": "软件与资源分享论坛",
+              "description": "香港的软件与数字资源分享社区，提供各类工具、教程与资源下载讨论。",
               "icon": "",
               "enabled": true
             },
@@ -1314,7 +1298,7 @@
               "id": "10_10",
               "title": "直升飞机",
               "href": "https://iweb.10000101.xyz/game-new/yx/zsfj",
-              "description": "直升飞机（经典版）",
+              "description": "经典怀旧的小游戏合辑中的直升飞机玩法，在线即点即玩。",
               "icon": "",
               "enabled": true
             },
@@ -1479,7 +1463,7 @@
               "id": "13_1",
               "title": "RuTracker.org",
               "href": "http://rutracker.net/forum/index.php",
-              "description": "俄罗斯破解软件资源",
+              "description": "俄罗斯知名的资源分享与破解软件论坛，提供软件、影音、游戏等海量 BT 种子。",
               "icon": "",
               "enabled": true
             },
@@ -2410,7 +2394,7 @@
               "id": "22_28",
               "title": "UFO Test",
               "href": "https://testufo.com",
-              "description": "在线测试屏幕帧率",
+              "description": "在线测试显示器刷新率与帧率（FPS）的工具，可检测屏幕卡顿、拖影与流畅度。",
               "icon": "",
               "enabled": true
             },
@@ -2426,7 +2410,7 @@
               "id": "22_31",
               "title": "营销号文字生成器",
               "href": "https://codepen.io/kasei-dis/full/JjYjwza?__cf_chl_jschl_tk__=9f3894ae13891f24f36084ea75dbb0aebd86b0a7-1587779793-0-AeBuBXqlg5jcuxRZf64j9o6P5OpYJHOhijwZJckLDeewsy6dJM-446MOkCaHPyPWzubelLAf-zeY18nLGdDSlZX3mTTUmI1cBOIsDfc9AE2IJj1JgMOzIvN5B2-r7L184FQJMXE55QENOTJE5QhQU6u-yOtKj41naxwiuXyUNyUL8bd5SGr8555F2hYSITKK_gBdkl4XzqZttEfg_plGqZ_rpxFFtK9AaLbM03QTmmbg7AzAAdo1y_MWw_yED9jQ9oMoatRSs9qebdAfjjMMVcoSfaRSPlv9t-sctEtA8dnvYDmcnbGcoOb0swtKH5yKV3Ype-MlRBZ7CnXklnPwxb0K5Uf1TrVq3QasWhfy72wG",
-              "description": "营销号文字生成器",
+              "description": "一键生成夸张风格“营销号”标题与文案的娱乐工具，常用于吐槽或玩梗。",
               "icon": "",
               "enabled": true
             },
@@ -2442,7 +2426,7 @@
               "id": "22_34",
               "title": "FakeUpdate",
               "href": "https://fakeupdate.net",
-              "description": "电脑更新画面恶作剧",
+              "description": "生成仿真的系统更新或蓝屏画面，用于朋友间的整蛊与恶作剧。",
               "icon": "",
               "enabled": true
             },
@@ -2466,7 +2450,7 @@
               "id": "22_37",
               "title": "中文打字练习",
               "href": "https://barneyzhao.gitee.io/typing-cn/#/",
-              "description": "中文打字练习",
+              "description": "在线的中文打字速度练习工具，支持逐字跟打与实时正确率统计。",
               "icon": "",
               "enabled": true
             },
@@ -2498,7 +2482,7 @@
               "id": "22_43",
               "title": "找台词",
               "href": "https://zhaotaici.cn",
-              "description": "视频台词搜索",
+              "description": "输入记得的只言片语，即可搜索影视剧中的台词及对应出处片段。",
               "icon": "",
               "enabled": true
             },
@@ -2506,7 +2490,7 @@
               "id": "22_44",
               "title": "33台词",
               "href": "https://33.agilestudio.cn",
-              "description": "通过台词找影片素材",
+              "description": "输入台词片段即可定位对应的电影或剧集片段，方便剪辑与素材查找。",
               "icon": "",
               "enabled": true
             },
@@ -2539,7 +2523,7 @@
               "id": "23_1",
               "title": "小码短链接生成器",
               "href": "https://xiaomark.com",
-              "description": "短链接生成工具",
+              "description": "将长网址压缩为短链接并支持点击数据统计的营销工具，适合推广投放。",
               "icon": "",
               "enabled": true
             },
@@ -2628,7 +2612,7 @@
               "id": "24_6",
               "title": "PDF派",
               "href": "https://www.pdfpai.com",
-              "description": "PDF转换器",
+              "description": "在线 PDF 格式转换工具，支持 PDF 与 Word、图片、Excel 等格式互转。",
               "icon": "",
               "enabled": true
             },
@@ -2881,7 +2865,7 @@
               "id": "27_6",
               "title": "B站视频下载",
               "href": "https://xbeibeix.com/api/bilibili/",
-              "description": "B站视频下载",
+              "description": "在线解析并下载 B 站（哔哩哔哩）视频与弹幕的免安装工具。",
               "icon": "",
               "enabled": true
             },
@@ -2956,7 +2940,7 @@
               "id": "28_1",
               "title": "QQ邮箱",
               "href": "https://mail.qq.com/",
-              "description": "腾讯QQ邮箱",
+              "description": "腾讯QQ邮箱网页版，支持邮件收发、文件中转站与日历管理。",
               "icon": "",
               "enabled": true
             },
@@ -3125,7 +3109,7 @@
               "id": "29_10",
               "title": "Temp Mail",
               "href": "https://temp-mail.org/en/change",
-              "description": "临时电子邮件地址",
+              "description": "提供一次性临时邮箱地址，用于注册验证等场景、避免泄露真实邮箱。",
               "icon": "",
               "enabled": true
             }
@@ -3274,14 +3258,6 @@
               "description": "一款支持独立部署的个人云社交媒体聊天服务。15MB 的大小可部署在任何服务器上，部署简单，很少需要维护。开源地址：https://github.com/Privoce/vocechat-web",
               "icon": "",
               "enabled": true
-            },
-            {
-              "id": "31_6",
-              "title": "匿名墙",
-              "href": "https://www.nimingqiang.com",
-              "description": "匿名墙，一个可以匿名发布心里话的在线网站，那些年，我们有很多小秘密，却不敢说出来，内心备受煎熬，在这里说出你的心声，没有人知道，这里是树洞、也是匿名墙，可以自由发布心里话，当然不能过激的，可以参与讨论，上传图片才需要注册账号登录，心里有话想要说又想找人倾听的，可以试试。",
-              "icon": "",
-              "enabled": true
             }
           ]
         }
@@ -3384,17 +3360,9 @@
             },
             {
               "id": "68_11",
-              "title": "IPv4查询",
-              "href": "https://ipw.cn/ip/",
-              "description": "IPv4查询小工具",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "68_12",
-              "title": "IPv6查询",
-              "href": "https://ipw.cn/ipv6/",
-              "description": "IPv6查询小工具",
+              "title": "IPv6 连接测试",
+              "href": "https://test-ipv6.com/",
+              "description": "检测本机 IPv6 连通性与公网地址分配情况，验证是否真正接入 IPv6 网络并排查连接问题。",
               "icon": "",
               "enabled": true
             },
@@ -3556,7 +3524,7 @@
               "id": "site_1785248654696_isjo6r6jk",
               "title": "Mitce",
               "href": "https://mitce.io/aff.php?aff=10609",
-              "description": "性价比高的加密代理",
+              "description": "主打高性价比的加密代理（机场）服务，提供稳定的科学上网节点。",
               "icon": "/assets/favicon_1785248568516.png",
               "useDefaultIcon": true,
               "enabled": true
@@ -3671,7 +3639,7 @@
               "id": "35_4",
               "title": "JAVA",
               "href": "https://www.java.com/",
-              "description": "JAVA官方下载",
+              "description": "Java 运行环境（JRE/JDK）官方下载页，获取 Oracle 官方 Java 安装包。",
               "icon": "",
               "enabled": true
             },
@@ -3695,7 +3663,7 @@
               "id": "35_7",
               "title": "PHP",
               "href": "https://www.php.net/downloads.php",
-              "description": "PHP官方下载",
+              "description": "PHP 官方源码与安装包下载页，获取各版本 PHP 运行时。",
               "icon": "",
               "enabled": true
             },
@@ -3973,7 +3941,7 @@
               "id": "39_1",
               "title": "Figma",
               "href": "https://www.figma.com",
-              "description": "协作界面设计工具。",
+              "description": "Figma 是一款在线协作界面设计工具，支持多人实时编辑、原型设计与设计系统管理。",
               "icon": "",
               "enabled": true
             },
@@ -3996,7 +3964,7 @@
             {
               "id": "39_4",
               "title": "蓝湖",
-              "href": "https://www.soundems.com/",
+              "href": "https://lanhuapp.com",
               "description": "一款产品文档和设计图的共享平台，帮助互联网团队更好地管理文档和设计图。蓝湖可以在线展示Axure，自动生成设计图标注，与团队共享设计图，展示页面之间的跳转关系。蓝湖支持从Sketch、Ps一键共享、在线讨论，而且蓝湖只需简单几步就能将设计图变成一个可以点击的演示原型，蓝湖还支持分享给同事，让他也可以在手机中查看设计效果。蓝湖已经成为新一代产品设计的工作方式。",
               "icon": "",
               "enabled": true
@@ -4109,7 +4077,7 @@
               "id": "39_22",
               "title": "Word2art",
               "href": "https://www.word2art.com",
-              "description": "词云制造网站",
+              "description": "在线词云生成工具，将文字按词频排布成艺术图形，适合海报与展示。",
               "icon": "",
               "enabled": true
             },
@@ -4206,7 +4174,7 @@
               "id": "40_8",
               "title": "humans",
               "href": "https://humans.wannathis.one",
-              "description": "3D角色素材库",
+              "description": "提供可商用的 3D 角色与插画素材库，方便项目快速取用人物模型。",
               "icon": "",
               "enabled": true
             },
@@ -4214,7 +4182,7 @@
               "id": "40_9",
               "title": "Shapefest™",
               "href": "https://www.shapefest.com",
-              "description": "大量免费3D图形库",
+              "description": "提供大量免费 3D 图形与模型素材，可直接下载用于设计与开发。",
               "icon": "",
               "enabled": true
             },
@@ -4270,6 +4238,196 @@
           ]
         },
         {
+          "id": "69",
+          "title": "社媒运营",
+          "items": [
+            {
+              "id": "69_1",
+              "title": "微信公众号",
+              "href": "https://mp.weixin.qq.com/",
+              "description": "微信公众平台，图文/视频内容发布与粉丝运营后台",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_2",
+              "title": "视频号",
+              "href": "https://channels.weixin.qq.com/",
+              "description": "微信视频号创作者中心，短视频与直播运营",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_3",
+              "title": "微信红包封面开放平台",
+              "href": "https://cover.weixin.qq.com/",
+              "description": "微信红包封面设计与提交平台",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_4",
+              "title": "小红书",
+              "href": "https://www.xiaohongshu.com/",
+              "description": "种草社区，笔记与店铺运营主站",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_5",
+              "title": "抖音",
+              "href": "https://www.douyin.com/",
+              "description": "抖音短视频与直播运营",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_6",
+              "title": "快手",
+              "href": "https://www.kuaishou.com/",
+              "description": "快手短视频与直播运营",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_7",
+              "title": "B站（bilibili）",
+              "href": "https://www.bilibili.com/",
+              "description": "中长视频与 UP 主创作运营",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_8",
+              "title": "微博",
+              "href": "https://weibo.com/",
+              "description": "公域流量与品牌热点运营",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_9",
+              "title": "知乎",
+              "href": "https://www.zhihu.com/",
+              "description": "知乎问答社区，适合品牌与创作者进行内容运营、知识分享与话题互动。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_10",
+              "title": "今日头条",
+              "href": "https://www.toutiao.com/",
+              "description": "头条号图文与视频内容分发平台，支持创作激励与多端同步。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_11",
+              "title": "西瓜视频",
+              "href": "https://www.xigua.com/",
+              "description": "字节旗下中视频平台，支持中视频内容分发、创作激励与多端同步。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_12",
+              "title": "Facebook",
+              "href": "https://www.facebook.com/",
+              "description": "Meta 旗下社交平台，适合做主页运营、品牌曝光与广告投放。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_13",
+              "title": "YouTube",
+              "href": "https://www.youtube.com/",
+              "description": "全球最大的视频创作与频道运营平台，支持上传、订阅与广告变现。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_14",
+              "title": "Instagram",
+              "href": "https://www.instagram.com/",
+              "description": "图文与短视频社交平台，适合做视觉化品牌运营与网红合作。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_15",
+              "title": "WhatsApp",
+              "href": "https://www.whatsapp.com/",
+              "description": "海外主流即时通讯工具，适合做私域客户运营与一对一服务。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_16",
+              "title": "TikTok",
+              "href": "https://www.tiktok.com/",
+              "description": "海外短视频平台，支持短视频创作、直播带货与电商运营。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_17",
+              "title": "X（Twitter）",
+              "href": "https://x.com/",
+              "description": "前 Twitter 平台，适合做公域话题运营、品牌发声与实时互动。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_18",
+              "title": "LinkedIn（领英）",
+              "href": "https://www.linkedin.com/",
+              "description": "B2B 职场社交与招聘运营平台，适合企业品牌与人才连接。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_19",
+              "title": "Reddit",
+              "href": "https://www.reddit.com/",
+              "description": "全球社区论坛，适合做社群运营、口碑建设与精准话题营销。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_20",
+              "title": "Threads",
+              "href": "https://www.threads.net/",
+              "description": "Meta 旗下文本社交平台，适合做轻量品牌发声与粉丝互动。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_21",
+              "title": "Telegram",
+              "href": "https://telegram.org/",
+              "description": "加密即时通讯与频道工具，适合做社群运营、频道推送与私域沉淀。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_22",
+              "title": "Discord",
+              "href": "https://discord.com/",
+              "description": "海外社群与私域运营平台，支持服务器、频道与机器人自动化管理。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "69_23",
+              "title": "Line",
+              "href": "https://line.me/",
+              "description": "日韩主流社交与官方账号运营",
+              "icon": "",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "42",
           "title": "辅助工具",
           "icon": "Star",
@@ -4309,30 +4467,6 @@
               "enabled": true
             },
             {
-              "id": "42_6",
-              "title": "微信视频号助手",
-              "href": "https://channels.weixin.qq.com/",
-              "description": "视频号助手是微信为视频号创作者提供内容上传管理、数据查询等功能的专属服务平台。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "42_7",
-              "title": "微信公众号",
-              "href": "https://mp.weixin.qq.com/",
-              "description": "微信公众号创作者提供内容上传管理、数据查询等功能的专属服务平台。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "42_8",
-              "title": "微信红包封面开放平台",
-              "href": "https://cover.weixin.qq.com/",
-              "description": "微信红包封面开放平台，是微信红包面向品牌主开放的封面付费定制平台。在这里，定制方可自主设计封面样式、创建封面故事，付费定制专属的红包封面。",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "42_9",
               "title": "百度脑图",
               "href": "https://naotu.baidu.com/",
@@ -4368,7 +4502,7 @@
               "id": "42_13",
               "title": "竖排文字生成工具",
               "href": "https://www.xsbbs.org/tool/row/?v=1.1",
-              "description": " 竖排文字生成工具 ",
+              "description": "在线将横排文字转换为竖排排版的实用工具，适合古籍、标题等特殊排版。",
               "icon": "",
               "enabled": true
             },
@@ -4417,15 +4551,7 @@
               "id": "43_1",
               "title": "优设导航",
               "href": "https://hao.uisdc.com",
-              "description": "设计师网站导航",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "43_2",
-              "title": "AdobeEdu",
-              "href": "http://www.adobeedu.com",
-              "description": "达内设计导航",
+              "description": "优设网出品的设计师导航站，汇集设计工具、灵感、教程与资源站。",
               "icon": "",
               "enabled": true
             },
@@ -4465,7 +4591,7 @@
               "id": "43_7",
               "title": "大作网",
               "href": "https://www.bigbigwork.com",
-              "description": "找灵感，上大作",
+              "description": "设计师灵感采集平台，聚合全球优秀设计作品与创意案例供参考。",
               "icon": "",
               "enabled": true
             },
@@ -4489,7 +4615,7 @@
               "id": "43_10",
               "title": "Pinterest",
               "href": "https://www.pinterest.com/",
-              "description": "国外设计灵感平台",
+              "description": "全球知名的设计灵感与图片收藏平台，以画板形式整理创意参考。",
               "icon": "",
               "enabled": true
             },
@@ -4505,7 +4631,7 @@
               "id": "43_12",
               "title": "DOOOOR.com",
               "href": "https://www.doooor.com",
-              "description": "国外设计欣赏网站",
+              "description": "专注国外室内与空间设计欣赏的网站，汇集高质量设计案例图集。",
               "icon": "",
               "enabled": true
             },
@@ -4513,7 +4639,7 @@
               "id": "43_13",
               "title": "CSS Winner",
               "href": "https://www.csswinner.com",
-              "description": "网页设计灵感",
+              "description": "展示并评选优秀网页设计的灵感站点，按行业与风格分类参考。",
               "icon": "",
               "enabled": true
             },
@@ -4537,7 +4663,7 @@
               "id": "43_16",
               "title": "创意3D网页参考",
               "href": "https://david-hckh.com",
-              "description": "创意开发参考网页",
+              "description": "收录创意 3D 网页与交互开发案例的参考站，激发前端创意灵感。",
               "icon": "",
               "enabled": true
             },
@@ -4545,7 +4671,7 @@
               "id": "43_17",
               "title": "Henry Heffernan",
               "href": "https://henryheffernan.com",
-              "description": "创意3D网页参考",
+              "description": "Henry Heffernan 的个人作品站，展示富有创意的 3D 网页交互案例。",
               "icon": "",
               "enabled": true
             },
@@ -4577,7 +4703,7 @@
               "id": "43_21",
               "title": "LOFTER（乐乎）",
               "href": "https://www.lofter.com",
-              "description": "让兴趣，更有趣",
+              "description": "网易出品的轻博客社区，用户以兴趣为主题分享图文、摄影与同人创作。",
               "icon": "",
               "enabled": true
             },
@@ -4593,7 +4719,7 @@
               "id": "43_23",
               "title": "Fragments",
               "href": "https://fragments.pro",
-              "description": "设计新闻",
+              "description": "关注设计行业动态与资讯的信息聚合，了解最新设计趋势与工具。",
               "icon": "",
               "enabled": true
             },
@@ -4794,7 +4920,7 @@
             },
             {
               "id": "46_3",
-              "title": "字由",
+              "title": "字觅网",
               "href": "https://www.100font.com",
               "description": "一个专业免费商用字体下载网站。专注于收集整理分享免费商用字体、免版权字体、没有版权的字体、无版权的字体。免费字体下载、免费放心商用。",
               "icon": "",
@@ -4812,7 +4938,7 @@
               "id": "46_5",
               "title": "DaFont",
               "href": "https://www.dafont.com",
-              "description": "免费英文字体下",
+              "description": "提供海量免费英文字体下载，按主题与风格分类检索，适合设计取用。",
               "icon": "",
               "enabled": true
             },
@@ -4828,7 +4954,7 @@
               "id": "46_7",
               "title": "站长字体素材",
               "href": "https://font.chinaz.com",
-              "description": "免费字体下载大全",
+              "description": "站长之家的字体素材频道，汇集免费可商用中文字体与字体下载资源。",
               "icon": "",
               "enabled": true
             },
@@ -4909,7 +5035,7 @@
               "id": "47_9",
               "title": "Foodiesfeed",
               "href": "https://www.foodiesfeed.com",
-              "description": "免费食品图片",
+              "description": "提供高质量免费食品与美食照片下载，适合餐饮类设计配图。",
               "icon": "",
               "enabled": true
             },
@@ -4933,7 +5059,7 @@
               "id": "47_12",
               "title": "AltPhotos",
               "href": "https://altphotos.com",
-              "description": "免费照片(CC0)",
+              "description": "提供 CC0 协议的免费可商用照片下载，无需署名即可使用。",
               "icon": "",
               "enabled": true
             },
@@ -4949,7 +5075,7 @@
               "id": "47_14",
               "title": "泼辣修图",
               "href": "https://www.polaxiong.com",
-              "description": "开源摄影图片",
+              "description": "泼辣修图出品的免费开源摄影图片素材站，提供高质量摄影作品下载。",
               "icon": "",
               "enabled": true
             },
@@ -5005,7 +5131,7 @@
               "id": "47_22",
               "title": "Dynamic Wallpaper Club",
               "href": "https://dynamicwallpaper.club",
-              "description": "MacOS动态墙纸",
+              "description": "提供 macOS 动态桌面壁纸下载的社区，按风景、抽象等主题分类。",
               "icon": "",
               "enabled": true
             },
@@ -5233,7 +5359,7 @@
               "id": "51_3",
               "title": "海洋上的地狱",
               "href": "https://codepen.io/Yakudoo/pen/prYmKj",
-              "description": "随机抽象星际云",
+              "description": "一个 CodePen 创意 Demo，以 WebGL 生成随机抽象的星际云团视觉效果。",
               "icon": "",
               "enabled": true
             },
@@ -5257,7 +5383,7 @@
               "id": "51_6",
               "title": "Ribbons 2",
               "href": "https://codepen.io/tsuhre/full/BYbjyg?__cf_chl_jschl_tk__=21303d8c20be52f6de2a282640b94eabf536c441-1576141143-0-AcEslzotEdaPcTpEtldQ2zubSdVrAwsKAavxT2-Sh6u20DaA7TJ0ylqxzbXV58cug1izChWn8SD3sbqWU6nMng_y16G_lpyN0JNV9zHYOgBC8XaJD5OJeZlmHJ1pNF0ao2ZU1nyfPBh6UtSGZpoduGQL9sloCxsgFK_Znnv2d6TQyt0riajJBZzHtirVCpmVPawfYqKWbKJ_6hUuLFbFBVEZBx6zoKxBK1HigLsLdeTBzet_1AA6kBoC32IixSwLSRL5N-FqVC3advVD1hHv8RANjheLOFWhNqgtLTqnmWgg3WTQft4ostiNY7GipNFTak9V6RowE86SQp17wfWwRcKTf8rPxgoTnl9ym5aoHH3I",
-              "description": "渐变色带背景生成",
+              "description": "CodePen 上的创意背景生成 Demo，用 WebGL 渲染流动的渐变色带。",
               "icon": "",
               "enabled": true
             },
@@ -5265,7 +5391,7 @@
               "id": "51_7",
               "title": "Vertex Oscillation",
               "href": "http://colordodge.com/VertexOscillation/",
-              "description": "液态流体背景生成",
+              "description": "在线的液态流体背景生成工具，实时渲染流动的光影视觉效果。",
               "icon": "",
               "enabled": true
             },
@@ -5289,7 +5415,7 @@
               "id": "51_10",
               "title": "Tinkersynth",
               "href": "https://tinkersynth.com/slopes/",
-              "description": "线条艺术背景",
+              "description": "Tinkersynth 的线条艺术背景生成器，可调参数生成几何线条壁纸。",
               "icon": "",
               "enabled": true
             },
@@ -5297,7 +5423,7 @@
               "id": "51_11",
               "title": "Spielzeugz",
               "href": "http://www.spielzeugz.de/html5/liquid-particles-3D/",
-              "description": "液体颗粒3D",
+              "description": "WebGL 创意 Demo，以 3D 液体粒子动画生成动态背景视觉效果。",
               "icon": "",
               "enabled": true
             },
@@ -5305,7 +5431,7 @@
               "id": "51_12",
               "title": "Space Noodles",
               "href": "http://www.spielzeugz.de/html5/space-noodles/?colours=random",
-              "description": "太空线条背景生成",
+              "description": "WebGL 创意 Demo，以随机配色生成太空线条般的动态背景。",
               "icon": "",
               "enabled": true
             },
@@ -5459,7 +5585,7 @@
               "id": "53_7",
               "title": "OpenGameArt",
               "href": "https://opengameart.org",
-              "description": "游戏类H5音效神器",
+              "description": "面向游戏开发者的免费素材库，提供音效、音乐与美术资源下载。",
               "icon": "",
               "enabled": true
             },
@@ -5581,7 +5707,7 @@
               "id": "55_11",
               "title": "此人不存在",
               "href": "https://thispersondoesnotexist.com",
-              "description": "AI生成人物照片",
+              "description": "基于 GAN 的演示站，每次刷新生成一张逼真但完全虚构的人物照片。",
               "icon": "",
               "enabled": true
             },
@@ -5589,7 +5715,7 @@
               "id": "55_12",
               "title": "Artbreeder",
               "href": "https://www.artbreeder.com",
-              "description": "捏脸P图网站",
+              "description": "AI 图像混合与编辑平台，可通过融合图片“ breeding ”生成新形象。",
               "icon": "",
               "enabled": true
             },
@@ -5597,7 +5723,7 @@
               "id": "55_13",
               "title": "Open Peeps",
               "href": "https://www.openpeeps.com",
-              "description": "手绘插图库",
+              "description": "免费可商用的手绘风格人物插图库，支持自定义组合用于设计项目。",
               "icon": "",
               "enabled": true
             },
@@ -5705,7 +5831,7 @@
               "id": "59_4",
               "title": "国家政务服务平台",
               "href": "https://gjzwfw.www.gov.cn",
-              "description": "国家政务服务平台",
+              "description": "国务院办公厅建设的国家政务服务平台，提供跨部门、跨地区的政务服务一网通办。",
               "icon": "",
               "enabled": true
             },
@@ -5761,7 +5887,7 @@
               "id": "59_13",
               "title": "终身教育平台",
               "href": "https://le.ouchn.cn/",
-              "description": "国开终身教育平台",
+              "description": "国家开放大学出品的终身教育平台，提供各类开放课程与继续教育资源。",
               "icon": "",
               "enabled": true
             },
@@ -5769,7 +5895,7 @@
               "id": "59_15",
               "title": "机动车环保网",
               "href": "https://www.vecc.org.cn",
-              "description": "机动车环保网",
+              "description": "机动车排污监控中心的官方网站，提供环保信息公开、达标车型查询等服务。",
               "icon": "",
               "enabled": true
             },
@@ -5917,7 +6043,7 @@
               "id": "63_1",
               "title": "终身教育平台",
               "href": "https://le.ouchn.cn/",
-              "description": "国开终身教育平台",
+              "description": "国家开放大学出品的终身教育平台，提供各类开放课程与继续教育资源。",
               "icon": "",
               "enabled": true
             },
