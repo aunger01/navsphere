@@ -169,7 +169,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
               </Link>
               <ModeToggle />
               <Link
-                href="https://github.com/tianyaxiang/NavSphere"
+                href="https://github.com/aunger01/navsphere"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="访问 GitHub 仓库"
