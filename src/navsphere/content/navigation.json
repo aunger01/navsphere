@@ -870,6 +870,14 @@
               "icon": "/assets/favicon_1785080754354.png",
               "useDefaultIcon": true,
               "enabled": true
+            },
+            {
+              "id": "1785505244444",
+              "title": "SubHD",
+              "href": "https://subhd.tv/",
+              "description": "各种最新的电影字幕，都可以在这个网站找到下载，资源非常全面。\n备用域名：subhd.one、subhd.me。",
+              "icon": "/assets/images/default-website-icon.png",
+              "enabled": true
             }
           ]
         },
