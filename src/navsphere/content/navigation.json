@@ -54,6 +54,94 @@
               "description": "聚合多家网盘资源的搜索工具，一站式查找百度网盘、阿里云盘等平台的分享文件。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1_101",
+              "title": "智能AI",
+              "href": "#g2",
+              "description": "点击平滑跳转到「智能AI」分类",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_102",
+              "title": "导航搜索",
+              "href": "#g3",
+              "description": "点击平滑跳转到「导航搜索」分类",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_103",
+              "title": "影视阅读",
+              "href": "#g4",
+              "description": "点击平滑跳转到「影视阅读」分类",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_104",
+              "title": "游戏聚合",
+              "href": "#g5",
+              "description": "点击平滑跳转到「游戏聚合」分类",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_105",
+              "title": "软件聚合",
+              "href": "#g6",
+              "description": "点击平滑跳转到「软件聚合」分类",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_106",
+              "title": "工具聚合",
+              "href": "#g7",
+              "description": "点击平滑跳转到「工具聚合」分类",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_107",
+              "title": "网盘资源",
+              "href": "#g8",
+              "description": "点击平滑跳转到「网盘资源」分类",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_108",
+              "title": "邮箱短信",
+              "href": "#g9",
+              "description": "点击平滑跳转到「邮箱短信」分类",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_109",
+              "title": "代码聚合",
+              "href": "#g10",
+              "description": "点击平滑跳转到「代码聚合」分类",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_110",
+              "title": "办公设计",
+              "href": "#g11",
+              "description": "点击平滑跳转到「办公设计」分类",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_111",
+              "title": "公共服务",
+              "href": "#g12",
+              "description": "点击平滑跳转到「公共服务」分类",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
@@ -2730,6 +2818,127 @@
               "description": "中科院旗下的科研云存储服务",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "25_9",
+              "title": "百度网盘",
+              "href": "https://pan.baidu.com",
+              "description": "百度推出的个人云存储网盘，空间大、分享方便",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "25_10",
+              "title": "腾讯微云",
+              "href": "https://www.weiyun.com",
+              "description": "腾讯出品的企业级云存储，支持文件同步与共享",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "25_11",
+              "title": "115网盘",
+              "href": "https://115.com",
+              "description": "老牌个人网盘，支持大文件存储与离线下载",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "25_12",
+              "title": "蓝奏云",
+              "href": "https://www.lanzou.com",
+              "description": "专注小文件分享的免费网盘，下载不限速",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "25_13",
+              "title": "夸克网盘",
+              "href": "https://pan.quark.cn",
+              "description": "阿里夸克推出的网盘，会员不限速",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "25_14",
+              "title": "中国移动云盘",
+              "href": "https://yun.139.com",
+              "description": "中国移动推出的个人云存储服务",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "25_15",
+              "title": "坚果云",
+              "href": "https://www.jianguoyun.com",
+              "description": "专业的同步型网盘，支持多端文件自动同步",
+              "icon": "",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "30",
+          "title": "手机厂商云空间",
+          "icon": "Star",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "30_1",
+              "title": "小米云服务",
+              "href": "https://i.mi.com",
+              "description": "小米手机云存储与查找服务",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "30_2",
+              "title": "华为云空间",
+              "href": "https://cloud.huawei.com",
+              "description": "华为设备云备份与查找服务",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "30_3",
+              "title": "Apple iCloud",
+              "href": "https://www.icloud.com",
+              "description": "苹果生态云存储与同步服务",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "30_4",
+              "title": "OPPO云服务",
+              "href": "https://cloud.oppo.com",
+              "description": "OPPO手机云备份与查找服务",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "30_5",
+              "title": "vivo云服务",
+              "href": "https://cloud.vivo.com",
+              "description": "vivo手机云存储与同步服务",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "30_6",
+              "title": "魅族云服务",
+              "href": "https://account.flyme.com",
+              "description": "魅族手机云备份服务",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "30_7",
+              "title": "荣耀云",
+              "href": "https://www.honor.com/cn/cloud/",
+              "description": "荣耀设备云存储与同步服务",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -3013,6 +3222,14 @@
               "title": "腾讯 Agent 邮箱",
               "href": "https://agent.qq.com/",
               "description": "腾讯推出的 Agent 专属邮箱，与工作和个人邮箱相互隔离",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "28_12",
+              "title": "网易云 Agent 邮箱",
+              "href": "https://claw.163.com/",
+              "description": "网易推出的 ClawEmail，为 AI Agent 提供专属邮箱身份，与工作和个人邮箱相互隔离",
               "icon": "",
               "enabled": true
             },
