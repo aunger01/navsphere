@@ -67,8 +67,9 @@
               "id": "1_11",
               "title": "聚合网盘搜索",
               "href": "https://1.10000101.xyz/icloud/",
-              "description": "（保留）聚合多家网盘资源的搜索入口。",
+              "description": "聚合多家网盘资源的搜索入口。",
               "icon": "",
+              "useDefaultIcon": false,
               "enabled": true
             },
             {
