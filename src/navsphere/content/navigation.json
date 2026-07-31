@@ -16,6 +16,62 @@
           "enabled": true,
           "items": [
             {
+              "id": "1_jump_ai",
+              "title": "智能AI",
+              "href": "#64",
+              "description": "跳转至「国内大模型」分类，集中收录主流大模型官网与对话入口。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_jump_video",
+              "title": "影音阅读",
+              "href": "#4",
+              "description": "跳转至「影视聚合」分类，汇聚影视、动漫与阅读资源站点。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_jump_mail",
+              "title": "邮箱短信",
+              "href": "#28",
+              "description": "跳转至「长期邮箱」分类，收录常用邮箱与短信接收服务。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_jump_disk",
+              "title": "传送文件",
+              "href": "#25",
+              "description": "跳转至「云盘空间」分类，集中主流网盘与文件传输工具。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_jump_design",
+              "title": "办公设计",
+              "href": "#39",
+              "description": "跳转至「在线设计」分类，收录设计、文档与协作类工具。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_jump_pdf",
+              "title": "PDF编辑",
+              "href": "#24",
+              "description": "跳转至「格式转换」分类，提供 PDF 与各类文件格式互转工具。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "1_11",
+              "title": "聚合网盘搜索",
+              "href": "https://1.10000101.xyz/icloud/",
+              "description": "（保留）聚合多家网盘资源的搜索入口。",
+              "icon": "",
+              "enabled": true
+            },
+            {
               "id": "1_1",
               "title": "天气预报",
               "href": "https://weather.cma.cn/",
@@ -24,122 +80,10 @@
               "enabled": true
             },
             {
-              "id": "1_7",
-              "title": "在线工具箱",
-              "href": "https://tool.lu",
-              "description": "在线工具,开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,json格式化,正则测试工具,favicon在线制作,字帖工具,中文简繁体转换,迅雷下载链接转换,进制转换,二维码,照片压缩,pdf合并",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "1_8",
               "title": "让我帮你搜一下",
               "href": "https://l1n2.com/I_help_you",
               "description": "恶搞并自动搜索工具（百度、必应、谷歌）",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1_10",
-              "title": "在线汇率换算器",
-              "href": "https://c.runoob.com/unit-conversion/7939/",
-              "description": "在线汇率换算器，免费提供各种货币实时汇率换算功能，在输入框中输入货币数额，选择目标货币和原始货币就可以按今日最新实时汇率换算两种货币。包含人民币(CNY)-美元(USD)—欧元(EUR)英镑(GBP)港元(HKD)澳门元(MOP)台币(TWD)日元(JPY)加元(CAD)澳元(AUD)韩元(KRW)泰铢(THB)等。..",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1_11",
-              "title": "聚合网盘搜索",
-              "href": "https://1.10000101.xyz/icloud/",
-              "description": "聚合多家网盘资源的搜索工具，一站式查找百度网盘、阿里云盘等平台的分享文件。",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1_101",
-              "title": "智能AI",
-              "href": "#g2",
-              "description": "点击平滑跳转到「智能AI」分类",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1_102",
-              "title": "导航搜索",
-              "href": "#g3",
-              "description": "点击平滑跳转到「导航搜索」分类",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1_103",
-              "title": "影视阅读",
-              "href": "#g4",
-              "description": "点击平滑跳转到「影视阅读」分类",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1_104",
-              "title": "游戏聚合",
-              "href": "#g5",
-              "description": "点击平滑跳转到「游戏聚合」分类",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1_105",
-              "title": "软件聚合",
-              "href": "#g6",
-              "description": "点击平滑跳转到「软件聚合」分类",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1_106",
-              "title": "工具聚合",
-              "href": "#g7",
-              "description": "点击平滑跳转到「工具聚合」分类",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1_107",
-              "title": "网盘资源",
-              "href": "#g8",
-              "description": "点击平滑跳转到「网盘资源」分类",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1_108",
-              "title": "邮箱短信",
-              "href": "#g9",
-              "description": "点击平滑跳转到「邮箱短信」分类",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1_109",
-              "title": "代码聚合",
-              "href": "#g10",
-              "description": "点击平滑跳转到「代码聚合」分类",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1_110",
-              "title": "办公设计",
-              "href": "#g11",
-              "description": "点击平滑跳转到「办公设计」分类",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1_111",
-              "title": "公共服务",
-              "href": "#g12",
-              "description": "点击平滑跳转到「公共服务」分类",
               "icon": "",
               "enabled": true
             }
