@@ -2767,7 +2767,7 @@
               "id": "25_9",
               "title": "百度网盘",
               "href": "https://pan.baidu.com",
-              "description": "百度推出的个人云存储网盘，空间大、分享方便",
+              "description": "国内用户量最大的个人网盘，支持文件备份、同步与分享。",
               "icon": "",
               "enabled": true
             },
@@ -2775,23 +2775,23 @@
               "id": "25_10",
               "title": "腾讯微云",
               "href": "https://www.weiyun.com",
-              "description": "腾讯出品的企业级云存储，支持文件同步与共享",
+              "description": "腾讯个人云存储服务，支持文件同步、备份与在线预览。",
               "icon": "",
               "enabled": true
             },
             {
               "id": "25_11",
-              "title": "115网盘",
+              "title": "115 网盘",
               "href": "https://115.com",
-              "description": "老牌个人网盘，支持大文件存储与离线下载",
+              "description": "老牌网盘，提供大文件存储、备份与分享空间。",
               "icon": "",
               "enabled": true
             },
             {
               "id": "25_12",
-              "title": "蓝奏云",
-              "href": "https://www.lanzou.com",
-              "description": "专注小文件分享的免费网盘，下载不限速",
+              "title": "中国移动云盘",
+              "href": "https://caiyun.139.com",
+              "description": "原和彩云，中国移动出品，运营商级云存储。",
               "icon": "",
               "enabled": true
             },
@@ -2799,15 +2799,15 @@
               "id": "25_13",
               "title": "夸克网盘",
               "href": "https://pan.quark.cn",
-              "description": "阿里夸克推出的网盘，会员不限速",
+              "description": "非会员提速：客户端选中资源右键「发给自己」，在左侧「快传」点「下载到本地」，实测约 5MB/s。",
               "icon": "",
               "enabled": true
             },
             {
               "id": "25_14",
-              "title": "中国移动云盘",
-              "href": "https://yun.139.com",
-              "description": "中国移动推出的个人云存储服务",
+              "title": "UC 网盘",
+              "href": "https://drive.uc.cn",
+              "description": "不限速技巧：把分享链接前缀 drive 改为 fast，即可在网页直接不限速下载，比客户端更快。",
               "icon": "",
               "enabled": true
             },
@@ -2815,7 +2815,23 @@
               "id": "25_15",
               "title": "坚果云",
               "href": "https://www.jianguoyun.com",
-              "description": "专业的同步型网盘，支持多端文件自动同步",
+              "description": "同步型云盘，擅长多设备实时同步与团队协作。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "25_16",
+              "title": "Dropbox",
+              "href": "https://www.dropbox.com",
+              "description": "国际主流网盘，跨平台文件同步与协作。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "25_17",
+              "title": "Google 云端硬盘",
+              "href": "https://drive.google.com",
+              "description": "谷歌文件云存储，支持在线文档与多端访问。",
               "icon": "",
               "enabled": true
             }
@@ -2830,57 +2846,73 @@
           "items": [
             {
               "id": "30_1",
-              "title": "小米云服务",
-              "href": "https://i.mi.com",
-              "description": "小米手机云存储与查找服务",
+              "title": "Apple iCloud",
+              "href": "https://www.icloud.com/",
+              "description": "苹果设备云端同步与备份，覆盖照片、通讯录、备忘录等。",
               "icon": "",
               "enabled": true
             },
             {
               "id": "30_2",
-              "title": "华为云空间",
-              "href": "https://cloud.huawei.com",
-              "description": "华为设备云备份与查找服务",
+              "title": "Apple iCloud 中国",
+              "href": "https://www.icloud.com.cn/",
+              "description": "苹果中国大陆 iCloud，由云上贵州运营，国区账号登录入口。",
               "icon": "",
               "enabled": true
             },
             {
               "id": "30_3",
-              "title": "Apple iCloud",
-              "href": "https://www.icloud.com",
-              "description": "苹果生态云存储与同步服务",
+              "title": "华为云空间",
+              "href": "https://cloud.huawei.com/",
+              "description": "华为设备云端存储与同步，支持云备份、云盘与查找设备。",
               "icon": "",
               "enabled": true
             },
             {
               "id": "30_4",
-              "title": "OPPO云服务",
-              "href": "https://cloud.oppo.com",
-              "description": "OPPO手机云备份与查找服务",
+              "title": "小米云服务",
+              "href": "https://i.mi.com/",
+              "description": "小米账号云端服务，同步联系人、相册、短信与笔记。",
               "icon": "",
               "enabled": true
             },
             {
               "id": "30_5",
-              "title": "vivo云服务",
-              "href": "https://cloud.vivo.com",
-              "description": "vivo手机云存储与同步服务",
+              "title": "OPPO 云服务",
+              "href": "https://cloud.oppo.com/",
+              "description": "OPPO（HeyTap）云端服务，提供云备份、云盘与找回手机。",
               "icon": "",
               "enabled": true
             },
             {
               "id": "30_6",
-              "title": "魅族云服务",
-              "href": "https://account.flyme.com",
-              "description": "魅族手机云备份服务",
+              "title": "vivo 云服务",
+              "href": "https://yun.vivo.com.cn",
+              "description": "vivo 官方云服务，网页端可管理云盘、相册与联系人。",
               "icon": "",
               "enabled": true
             },
             {
               "id": "30_7",
-              "title": "荣耀云",
-              "href": "https://www.honor.com/cn/cloud/",
-              "description": "荣耀设备云存储与同步服务",
+              "title": "荣耀云服务",
+              "href": "https://cloud.honor.com/",
+              "description": "荣耀设备云端服务，支持云备份、云空间与跨端同步。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "30_8",
+              "title": "魅族云服务",
+              "href": "https://cloud.flyme.cn/",
+              "description": "魅族 Flyme 云端服务，同步通讯录、相册、便签并查找手机。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "30_9",
+              "title": "realme 云服务",
+              "href": "https://cloud.realme.com/",
+              "description": "realme 官方云服务，提供云备份、云盘与找回手机等。",
               "icon": "",
               "enabled": true
             }
