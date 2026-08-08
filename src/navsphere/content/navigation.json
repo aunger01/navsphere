@@ -431,14 +431,6 @@
               "enabled": true
             },
             {
-              "id": "66_14",
-              "title": "PUA AI",
-              "href": "https://openpua.ai/",
-              "description": "面向 AI skill 的开发与运行平台",
-              "icon": "",
-              "enabled": true
-            },
-            {
               "id": "57_3",
               "title": "HayoAI",
               "href": "https://www.hayo.com",
@@ -4105,6 +4097,71 @@
               "description": "HuggingChat为每个人提供社区最好的人工智能聊天模型。",
               "icon": "",
               "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "agent_skills",
+          "title": "Agent Skills",
+          "icon": "Bot",
+          "description": "AI Agent 技能（Skills）的发现、测评与一键安装平台。",
+          "enabled": true,
+          "items": [
+            {
+              "id": "agent_skills_1",
+              "title": "Skill Hub",
+              "href": "https://www.skillhub.club/",
+              "description": "测评 Agent Skills，对比质量与安全信号，探索推荐 Skill Set，并一键安装。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "agent_skills_2",
+              "title": "SkillHub.CN",
+              "href": "https://www.skillhub.cn/",
+              "description": "腾讯上线的SkillHub是面向中国用户的AI技能社区，SkillHub 精选 Top 50 高质量 AI Skills，经过安全审核与多维度评估，助你发现最实用的 AI 技能。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "agent_skills_3",
+              "title": "Claw Hub",
+              "href": "https://clawhub.ai",
+              "description": "OpenClaw官方的Skills和插件的公共注册表，发现来自顶尖创作者的Skills技能和插件。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "agent_skills_4",
+              "title": "Official Agent Skills",
+              "href": "https://officialskills.sh/",
+              "description": "来自软件供应商开发团队的官方技能，以及精选和社区采纳的技能。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "agent_skills_5",
+              "title": "SKILL STORE",
+              "href": "https://skillstore.io",
+              "description": "注册地在英国的独立开源社区项目，定位「AI Skill 安全审计层」——为 Claude、Codex、Claude Code 等 AI 助手的技能做公开审计、版本化安装清单，让用户装技能前看清风险与完整性。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "agent_skills_6",
+              "title": "CocoLoop",
+              "href": "https://hub.cocoloop.cn/",
+              "description": "国内团队做的 AI Agent Skills 商店，主打 OpenClaw（小龙虾）生态的 Skill 下载市场，带「CLS 安全检查」和国内镜像加速。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "agent_skills_7",
+              "title": "SkillsMP",
+              "href": "https://skillsmp.com",
+              "description": "目前最大的发现型聚合站，索引 42.5 万+ 个 skills（SKILL.md 格式），支持 npx / bunx / pnpm 一键安装，跨框架覆盖面最广。",
+              "icon": "",
+              "enabled": true
             },
             {
               "id": "38_9",
@@ -4118,7 +4175,15 @@
               "id": "38_10",
               "title": "skills.sh",
               "href": "https://skills.sh/",
-              "description": "AI agents 技能一键安装平台",
+              "description": "Vercel出品的AI agents 技能一键安装平台",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_14",
+              "title": "PUA AI",
+              "href": "https://openpua.ai/",
+              "description": "项目是一个关于PUA AI的Skill",
               "icon": "",
               "enabled": true
             }
