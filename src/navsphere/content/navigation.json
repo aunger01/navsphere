@@ -372,6 +372,14 @@
               "description": "运行在终端里的 AI 代码编辑器",
               "icon": "",
               "enabled": true
+            },
+            {
+              "title": "码上飞 CodeFlying",
+              "href": "https://www.codeflying.net",
+              "description": "AI 文生代码网页",
+              "id": "67_12",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -443,6 +451,190 @@
               "title": "开放猫",
               "href": "https://openmao.panchuang.net/",
               "description": "开放猫-人工智能应用聚合平台，网站基于外部API二次开发，目前人工智能应用聚合平台会聊天、会写作、会绘图的人工智能猫，接入了当前强大的聊天软件，不仅可以提问各类百科问题，还可以按用户的需要直接创作博客/新闻/文章、写代码、修复代码bug、生成Excel、自动回复邮件等。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "ServBay",
+              "href": "https://www.servbay.com",
+              "description": "本地 Web 开发环境一键搭建",
+              "id": "66_15",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "中国超算互联网",
+              "href": "https://www.scnet.cn",
+              "description": "国家超算算力服务平台",
+              "id": "66_16",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "爱派 AiPy",
+              "href": "https://www.aipyaipy.com",
+              "description": "AI 操控电脑，开源 https://github.com/knownsec/aipyapp",
+              "id": "66_17",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "LuoGen-agent",
+              "href": "https://github.com/LuoGen-AI/LuoGen-agent",
+              "description": "AI 数字人口播",
+              "id": "66_18",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "小浣熊AI助手",
+              "href": "https://www.xiaohuanxiong.com",
+              "description": "AI 编程/办公助手",
+              "id": "66_19",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "智谱AI生成PPT",
+              "href": "https://chat.z.ai",
+              "description": "PPT 生成，同厂另一产品",
+              "id": "66_20",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Me.bot",
+              "href": "https://me.bot",
+              "description": "AI 聊天/自我记录",
+              "id": "66_21",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "哔哔君",
+              "href": "https://www.bibijun.cc",
+              "description": "B站视频字幕/总结 AI 插件",
+              "id": "66_22",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "BiliNote",
+              "href": "https://www.bilinote.app",
+              "description": "AI 视频笔记",
+              "id": "66_23",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "LLPlayer",
+              "href": "https://llplayer.com",
+              "description": "AI 语言学习播放器",
+              "id": "66_24",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "链企AI",
+              "href": "https://www.lianqiai.cn",
+              "description": "AI 企业查询",
+              "id": "66_25",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Cherry Studio",
+              "href": "https://cherry-ai.com",
+              "description": "AI 桌面客户端，文档 https://docs.cherry-ai.com",
+              "id": "66_26",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "AingDesk",
+              "href": "https://www.aingdesk.com/",
+              "description": "一键部署 AI 模型",
+              "id": "66_27",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "MiniMax Agent",
+              "href": "https://agent.minimax.io",
+              "description": "一句话开发部署应用",
+              "id": "66_28",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "ChatExcel",
+              "href": "https://chatexcel.com",
+              "description": "打字生成表格",
+              "id": "66_29",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Luma AI",
+              "href": "https://lumalabs.ai",
+              "description": "AI 3D 视频",
+              "id": "66_30",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "录咖",
+              "href": "https://reccloud.cn/text-to-video",
+              "description": "AI 文生视频",
+              "id": "66_31",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Dashtoon",
+              "href": "https://dashtoon.com",
+              "description": "AI 漫画创作",
+              "id": "66_32",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Winxvideo AI",
+              "href": "https://www.winxdvd.com/giveaway/convert-video-free-zh.htm",
+              "description": "AI 视频增强",
+              "id": "66_33",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "3D AI 桌面伴侣(super-agent-party)",
+              "href": "https://github.com/heshengtao/super-agent-party",
+              "description": "3D 陪伴 AI 智能体",
+              "id": "66_34",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Meta Engine",
+              "href": "https://github.com/shinyflvre/Mate-Engine",
+              "description": "3D AI 桌面伴侣",
+              "id": "66_35",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "NotebookLM",
+              "href": "https://notebooklm.google",
+              "description": "AI 音频概览/笔记",
+              "id": "66_36",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Pi",
+              "href": "https://pi.ai/imessage",
+              "description": "AI 助理，可接入 iMessage",
+              "id": "66_37",
               "icon": "",
               "enabled": true
             }
@@ -524,6 +716,14 @@
               "title": "Midjourney学习导航",
               "href": "https://learningprompt.wiki/docs/midjourney-learning-path",
               "description": "线性的教程，并不是学习 Midjourney 最好的方法，为了能让不同水平的朋友快速了解和学会 Midjourney ，作者特意制作了本学习导航，希望它能帮助你更好地学习。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "环球巴士",
+              "href": "https://universalbus.cn",
+              "description": "合租海外账号",
+              "id": "57_4",
               "icon": "",
               "enabled": true
             }
@@ -778,6 +978,30 @@
               "description": "实时航班 ADS-B 飞行轨迹追踪",
               "icon": "",
               "enabled": true
+            },
+            {
+              "title": "纳米搜索",
+              "href": "https://n.cn",
+              "description": "360 多模型 AI 搜索",
+              "id": "3_18",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "谷歌可编程搜索",
+              "href": "https://programmablesearchengine.google.com/controlpanel/all?hl=zh-cn",
+              "description": "自定义搜索引擎",
+              "id": "3_19",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "秘塔搜索",
+              "href": "https://metaso.cn",
+              "description": "AI 搜索，多模型",
+              "id": "3_20",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
@@ -871,6 +1095,30 @@
               "icon": "/assets/images/default-website-icon.png",
               "useDefaultIcon": true,
               "enabled": true
+            },
+            {
+              "title": "影视资源站 2bt0",
+              "href": "https://www.2bt0.com",
+              "description": "在线影视资源站",
+              "id": "4_18",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "迅雷电影",
+              "href": "https://xunlei8.cc",
+              "description": "迅雷影视资源站",
+              "id": "4_19",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "视频直播源",
+              "href": "https://live.zbds.top/tv/iptv4.m3u",
+              "description": "IPTV 源",
+              "id": "4_20",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -894,6 +1142,14 @@
               "title": "今日热榜",
               "href": "https://rebang.today",
               "description": "今日热榜汇聚全网热搜：知乎热榜、微博热搜、百度热搜、IT之家、36氪、少数派、虎扑、天涯、bilibili、抖音、吾爱破解、GitHub、技术期刊 全网热点 新闻 热词 排行榜 摸鱼神器",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "海外热门 buzzling",
+              "href": "https://www.buzzing.cc",
+              "description": "海外社媒热榜聚合",
+              "id": "5_28",
               "icon": "",
               "enabled": true
             },
@@ -934,6 +1190,14 @@
               "title": "威锋网",
               "href": "https://www.feng.com",
               "description": "威锋，千万果粉大本营，是中文苹果用户首选的苹果媒体及苹果社区。来威锋，看苹果资讯、讨论当下科技热点、分享玩机心得、优惠购买苹果产品、参与科技酷品试玩活动，获得更多苹果服务。威锋提供7*24小时的苹果资讯，科技原创观点、Apple软硬件、智能硬件评测等，涵盖Apple的iPhone、Mac、iPad、Apple Watch等全系列产品及周边。威锋社区犹如宝藏，沉淀了几亿个关于苹果系统（macOS、iOS）、插件软件壁纸游戏资源、玩机技巧、开箱晒货、摄影、配件硬件等与苹果科技相关的分享讨论。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "archive.today",
+              "href": "https://archive.today",
+              "description": "网页备份",
+              "id": "5_29",
               "icon": "",
               "enabled": true
             },
@@ -1048,6 +1312,70 @@
               "description": "Apple 全系设备参数数据库",
               "icon": "",
               "enabled": true
+            },
+            {
+              "title": "人类历史书籍全记录",
+              "href": "https://phiresky.github.io/isbn-visualization",
+              "description": "ISBN 可视化",
+              "id": "5_30",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "WorldCat 书籍查询",
+              "href": "https://search.worldcat.org/zh-cn",
+              "description": "全球图书馆藏书检索",
+              "id": "5_31",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "PubScholar 公益学术平台",
+              "href": "https://pubscholar.cn",
+              "description": "中科院公益学术",
+              "id": "5_32",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "苹果自救文档",
+              "href": "https://xream.notion.site/6fed380cf1d147c6a047bce452a8f2af",
+              "description": "苹果设备自修方案合集",
+              "id": "5_33",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "苹果App URL Scheme查询",
+              "href": "https://www.ydzms.com/archives/58/",
+              "description": "iOS app 的 URL Scheme 大全",
+              "id": "5_34",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "恩山无线论坛",
+              "href": "https://www.right.com.cn/forum/",
+              "description": "无线设备硬件论坛",
+              "id": "5_35",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "户外移动电源推荐",
+              "href": "https://post.smzdm.com/p/az60mknn/",
+              "description": "移动电源选购导购帖",
+              "id": "5_36",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "W不懂安全",
+              "href": "https://crossborderblog.top",
+              "description": "VPS/加密币等跨境文章博客",
+              "id": "5_37",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -1136,6 +1464,30 @@
               "title": "趣听极速版",
               "href": "https://listen1.github.io/listen1/",
               "description": "趣听极速版是一款音乐客户端，聚合五大音乐平台的资源，组成了全网最大的曲库，免费畅听全网 VIP 音乐/全网VIP音乐免费听，支持iOS、Android和电脑版，无需注册登录，非常赞。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "红心歌单助手",
+              "href": "https://heart.uselesses.com",
+              "description": "跨平台歌单迁移",
+              "id": "7_7",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "思奥",
+              "href": "https://sao.fm",
+              "description": "全球网络收音机",
+              "id": "7_8",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "濒危电子声音博物馆",
+              "href": "http://savethesounds.info",
+              "description": "老设备声音档案",
+              "id": "7_9",
               "icon": "",
               "enabled": true
             }
@@ -1235,6 +1587,38 @@
               "title": "在线养仓鼠",
               "href": "https://hammyhome.com/",
               "description": "网页版云养仓鼠小游戏",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "ROMSFUN",
+              "href": "https://romsfun.com/roms",
+              "description": "游戏 ROM 下载",
+              "id": "8_12",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "ROMSPURE",
+              "href": "https://romspure.cc/roms",
+              "description": "游戏 ROM 下载",
+              "id": "8_13",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "游戏模拟器皮肤",
+              "href": "https://delta-skins.github.io",
+              "description": "模拟器主题皮肤",
+              "id": "8_14",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Flash 保存计划",
+              "href": "https://flash.homes",
+              "description": "Flash 作品存档",
+              "id": "8_15",
               "icon": "",
               "enabled": true
             }
@@ -1341,6 +1725,14 @@
               "title": "3D拼图魔方",
               "href": "https://iweb.10000101.xyz/game-new/yx/3Dpt",
               "description": "3D拼图，一个拼图的智力游戏",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "哄哄模拟器",
+              "href": "https://hong.greatdk.com",
+              "description": "对话小游戏",
+              "id": "10_12",
               "icon": "",
               "enabled": true
             }
@@ -1481,6 +1873,54 @@
               "title": "puter.com 免费云电脑",
               "href": "https://puter.com/",
               "description": "运行在浏览器里的免费云电脑与云桌面",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "OpenWrt 固件",
+              "href": "https://openwrt.org/zh/start",
+              "description": "路由器开源固件",
+              "id": "12_12",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "iStore OS",
+              "href": "https://site.istoreos.com",
+              "description": "OpenWrt 衍生",
+              "id": "12_13",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "小米路由下载",
+              "href": "https://www1.miwifi.com/miwifi_download.html",
+              "description": "小米路由器固件/工具",
+              "id": "12_14",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "I Tell You",
+              "href": "https://next.itellyou.cn/Original",
+              "description": "系统镜像",
+              "id": "12_15",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "BalenaEtcher",
+              "href": "https://etcher.balena.io",
+              "description": "系统烧录工具",
+              "id": "12_16",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "FydeOS",
+              "href": "https://fydeos.io/download/vm",
+              "description": "Chromium OS 开源版",
+              "id": "12_17",
               "icon": "",
               "enabled": true
             }
@@ -1685,6 +2125,86 @@
               "description": "火绒安全出品的强力卸载组件",
               "icon": "",
               "enabled": true
+            },
+            {
+              "title": "Ditto",
+              "href": "https://ditto-cp.sourceforge.io",
+              "description": "剪贴板增强",
+              "id": "14_22",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Wallpaper Engine",
+              "href": "https://soft.3dmgame.com/down/327526.html",
+              "description": "动态壁纸软件",
+              "id": "14_23",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Gopeed",
+              "href": "https://gopeed.com/zh-CN",
+              "description": "高速下载器",
+              "id": "14_24",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "奇安信顽固病毒专杀",
+              "href": "https://qianxin.com/other/qaxvirusremoval",
+              "description": "病毒专杀工具",
+              "id": "14_25",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "网盘播放器(medianexapp)",
+              "href": "https://github.com/medianexapp",
+              "description": "网盘直链播放器",
+              "id": "14_26",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "PakePlus",
+              "href": "https://www.pakeplus.com",
+              "description": "网站打包成应用",
+              "id": "14_27",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "HEVC 免费下载",
+              "href": "https://www.free-codecs.com/guides/how_to_download_hevc_video_extension_for_free.htm",
+              "description": "HEVC 编码扩展免费获取",
+              "id": "14_28",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "RG-Adguard",
+              "href": "https://store.rg-adguard.net",
+              "description": "Win 商店付费软件下载",
+              "id": "14_29",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "解压缩(unisapps)",
+              "href": "https://unisapps.com",
+              "description": "在线解压缩工具",
+              "id": "14_30",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "MSEdgeRedirect",
+              "href": "https://github.com/rcmaehl/MSEdgeRedirect",
+              "description": "Edge 跳转修正",
+              "id": "14_31",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -1764,6 +2284,38 @@
               "title": "ScreenKite",
               "href": "https://www.screenkite.com/",
               "description": "Mac 端屏幕缩放与录屏工具",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "MIST",
+              "href": "https://github.com/ninxsoft/Mist",
+              "description": "macOS 安装盘下载",
+              "id": "15_10",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "NTFS 工具",
+              "href": "https://www.ntfstool.com/lang/zhCN/help",
+              "description": "Mac 读写 NTFS 工具",
+              "id": "15_11",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Applite",
+              "href": "https://aerolite.dev/applite/index.html",
+              "description": "Homebrew 前端",
+              "id": "15_12",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Cakebrew",
+              "href": "https://www.cakebrew.com",
+              "description": "Homebrew GUI",
+              "id": "15_13",
               "icon": "",
               "enabled": true
             }
@@ -1853,6 +2405,14 @@
               "title": "脚本之家",
               "href": "https://www.jb51.net/softs/list593_1.html",
               "description": "提供win软件/Mac软件/安卓软件下载，脚本之家是国内专业的网站建设资源、脚本编程学习类网站，提供asp、php、asp.net、javascript、jquery、vbscript、dos批处理、网页制作、网络编程、网站建设等编程资料。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "NB全能助手",
+              "href": "https://nbtool8.com",
+              "description": "iOS 设备管理工具",
+              "id": "16_14",
               "icon": "",
               "enabled": true
             }
@@ -1968,6 +2528,30 @@
               "description": "eSIM LPA 本地配置管理工具",
               "icon": "",
               "enabled": true
+            },
+            {
+              "title": "AYA",
+              "href": "https://aya.liriliri.io",
+              "description": "Android ADB 桌面端",
+              "id": "17_14",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "AntiSplit-M",
+              "href": "https://github.com/AbdurazaaqMohammed/AntiSplit-M",
+              "description": "APK 提取",
+              "id": "17_15",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "OpenAPK",
+              "href": "https://www.openapk.net",
+              "description": "开源 App 下载",
+              "id": "17_16",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -2023,6 +2607,30 @@
               "title": "Sleazy Fork",
               "href": "https://sleazyfork.org/zh-CN",
               "description": "一个专门收集分享破解大人网站限制的脚本网站、专门提供大人用户破解脚本的网站",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "SwitchyOmega",
+              "href": "https://github.com/FelisCatus/SwitchyOmega",
+              "description": "浏览器代理插件",
+              "id": "18_8",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "AI 验证码自动识别(greasyfork)",
+              "href": "https://greasyfork.org/en/scripts/540822-ai%E9%AA%8C%E8%AF%81%E7%A0%81%E8%87%AA%E5%8A%A8%E8%AF%86%E5%88%AB%E5%A1%AB%E5%85%85",
+              "description": "浏览器验证码自动识别脚本",
+              "id": "18_9",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Greasy Fork镜像站",
+              "href": "https://home.greasyfork.org.cn",
+              "description": "GreasyFork油猴脚本高速下载加速访问，解决部分地区访问难题",
+              "id": "18_10",
               "icon": "",
               "enabled": true
             }
@@ -2276,6 +2884,14 @@
               "title": "ZTool 商店",
               "href": "https://ohmyztools.cc/",
               "description": "Mac 平台工具软件商店官网",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "蛙蛙工具",
+              "href": "https://www.iamwawa.cn",
+              "description": "生活常用在线工具合集",
+              "id": "21_17",
               "icon": "",
               "enabled": true
             }
@@ -2535,6 +3151,94 @@
               "description": "生成用于注册外区账号的账单地址",
               "icon": "",
               "enabled": true
+            },
+            {
+              "title": "MineContext",
+              "href": "https://github.com/volcengine/MineContext",
+              "description": "电脑使用监控",
+              "id": "22_47",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "证件数码相片质量检测",
+              "href": "https://hzl.rzzx.com.cn",
+              "description": "证件照质量检测/回执",
+              "id": "22_48",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "快科技性能天梯榜",
+              "href": "https://rank.kkj.cn",
+              "description": "CPU/GPU/手机综合天梯",
+              "id": "22_49",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "极客湾移动芯片天梯",
+              "href": "https://www.socpk.com",
+              "description": "移动芯片性能天梯",
+              "id": "22_50",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "中国制霸",
+              "href": "https://lab.magiconch.com/china-ex",
+              "description": "省级行政区标记",
+              "id": "22_51",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "微信箭头昵称",
+              "href": "https://www.rouhub.com/tool/arrow",
+              "description": "微信特殊昵称生成",
+              "id": "22_52",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "API Store",
+              "href": "https://apis.jxcxin.cn",
+              "description": "免费 API 接口",
+              "id": "22_53",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "车载LED屏GIF动画",
+              "href": "http://qxgdkjled.com/n-7/",
+              "description": "小众 LED 动画站",
+              "id": "22_54",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "全球油价",
+              "href": "https://zh.globalpetrolprices.com/gasoline_prices/",
+              "description": "油价查询",
+              "id": "22_55",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "临时个性化主页",
+              "href": "https://biofy.cn",
+              "description": "个人主页/链接聚合",
+              "id": "22_56",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "临时个人在线名片",
+              "href": "https://cc.cc",
+              "description": "在线电子名片",
+              "id": "22_57",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -2671,6 +3375,54 @@
               "title": "PDF24 Creator",
               "href": "https://tools.pdf24.org/zh/",
               "description": "一款优秀实用且完全免费的PDF工具箱软件，PDF24工具箱包含PDF分割/合并、PDF压缩、PDF编辑器、PDF加密/解密、PDF页面/图像提取、PDF比较、PDF转换、添加PDF水印、PDF文本OCR识别等多种功能，PDF24工具箱包含的所有工具均为本地离线运行并采用符合直觉的方式操作，方便快捷，无需担心安全问题。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "文档翻译",
+              "href": "https://belindoc.com/zh",
+              "description": "在线文档翻译",
+              "id": "24_11",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "免费 PDF 解决方案",
+              "href": "https://www.freepdfsolutions.com/support.html",
+              "description": "PDF 合并拆分等工具",
+              "id": "24_12",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "PDF Shaper",
+              "href": "https://www.pdfshaper.com/download.html",
+              "description": "PDF 处理软件",
+              "id": "24_13",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Look Scanned",
+              "href": "https://lookscanned.io",
+              "description": "PDF 变扫描件",
+              "id": "24_14",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "TTSMaker",
+              "href": "https://ttsmaker.cn",
+              "description": "文本转语音",
+              "id": "24_15",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "语音合成",
+              "href": "https://tts.femoon.top/cn",
+              "description": "在线文本转语音",
+              "id": "24_16",
               "icon": "",
               "enabled": true
             }
@@ -3006,6 +3758,30 @@
               "description": "跨设备文件传输助手，无需安装，使用浏览器跨平台互相发送文件。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "title": "缤纷快传",
+              "href": "https://send.bitiful.com",
+              "description": "临时文件传输",
+              "id": "26_15",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "file.io",
+              "href": "https://file.io",
+              "description": "一次性文件直链",
+              "id": "26_16",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "upload.app",
+              "href": "https://upload.app",
+              "description": "APK 上传分享，蓝奏替代品",
+              "id": "26_17",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -3093,6 +3869,30 @@
               "title": "SnapWC",
               "href": "https://snapwc.com/zh",
               "description": "视频 / 音频 / 图片在线下载工具",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "视频去水印",
+              "href": "https://dy.kukutool.com",
+              "description": "短视频去水印",
+              "id": "27_13",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "网盘搜索引擎",
+              "href": "https://www.runningcheese.cn",
+              "description": "网盘资源搜索",
+              "id": "27_14",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "TGDIR",
+              "href": "https://tgdir.org/zh/",
+              "description": "搜索全球电报群组",
+              "id": "27_15",
               "icon": "",
               "enabled": true
             }
@@ -3297,6 +4097,14 @@
               "title": "Temp Mail",
               "href": "https://temp-mail.org/en/change",
               "description": "提供一次性临时邮箱地址，用于注册验证等场景、避免泄露真实邮箱。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Vmail.dev",
+              "href": "https://vmail.dev",
+              "description": "1 天有效期临时邮箱，可自部署",
+              "id": "29_11",
               "icon": "",
               "enabled": true
             }
@@ -3560,6 +4368,62 @@
               "description": "IPChecker是VPS234开发的一款检查IP是否被墙的利器，通过本工具你可以轻松检查IP是否被封，这款工具通过国内国外检查通过TCP、ICMP访问判断IP是否被封，轻松检查IP在中国大陆是否可以用",
               "icon": "",
               "enabled": true
+            },
+            {
+              "title": "猫点饭 NAT 检测",
+              "href": "https://mao.fan/mynat",
+              "description": "NAT 类型检测",
+              "id": "68_14",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "中科大测速",
+              "href": "https://test.ustc.edu.cn",
+              "description": "网络带宽测速",
+              "id": "68_15",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Speedtest",
+              "href": "https://www.speedtest.net",
+              "description": "全球网速测试",
+              "id": "68_16",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Fast.com",
+              "href": "https://fast.com",
+              "description": "Netflix 网速测试",
+              "id": "68_17",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "IP 检测",
+              "href": "https://ipcheck.ing",
+              "description": "IP/网络信息检测",
+              "id": "68_18",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "公共 DNS 科普",
+              "href": "https://ccnemo.com/archives/gong-gong-dns",
+              "description": "公共 DNS 科普文章",
+              "id": "68_19",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Speedometer 3.0",
+              "href": "https://browserbench.org/Speedometer3.0",
+              "description": "浏览器基准，可归测试工具",
+              "id": "68_20",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -3715,6 +4579,38 @@
               "icon": "/assets/favicon_1785248568516.png",
               "useDefaultIcon": true,
               "enabled": true
+            },
+            {
+              "title": "科学上网导航站",
+              "href": "https://www.iyio.net",
+              "description": "科学上网节点导航",
+              "id": "33_6",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Clash 客户端下载",
+              "href": "https://clash.wiki/",
+              "description": "Clash 客户端下载站",
+              "id": "33_7",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "SSR Plus+",
+              "href": "https://ssrplus.org",
+              "description": "OpenWrt 科学上网",
+              "id": "33_8",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "洋葱 Tor 网桥",
+              "href": "https://bridges.torproject.org",
+              "description": "Tor 网桥获取",
+              "id": "33_9",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -3786,6 +4682,14 @@
               "title": "免费二级域名",
               "href": "https://my.dnshe.com/",
               "description": "可免费申请使用的二级域名服务",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "FreeDomain 注册",
+              "href": "https://dash.domain.digitalplat.org/",
+              "description": "免费域名注册",
+              "id": "34_9",
               "icon": "",
               "enabled": true
             }
@@ -3901,6 +4805,54 @@
               "description": "分布式版本控制系统官网",
               "icon": "",
               "enabled": true
+            },
+            {
+              "title": "AdsPower 指纹浏览器",
+              "href": "https://app.adspower.net",
+              "description": "多账号指纹浏览器",
+              "id": "35_14",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "谷歌镜像 web.dev",
+              "href": "https://web.developers.google.cn/?hl=zh-cn",
+              "description": "Google 开发者镜像",
+              "id": "35_15",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Chrome for Developers",
+              "href": "https://developer.chrome.google.cn/?hl=zh-cn",
+              "description": "Chrome 开发者中国站",
+              "id": "35_16",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Google 国内镜像入口",
+              "href": "https://google.cn",
+              "description": "Google 中国入口",
+              "id": "35_17",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Chrome for Testing",
+              "href": "https://googlechromelabs.github.io/chrome-for-testing/",
+              "description": "测试版 Chrome 下载",
+              "id": "35_18",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Wine",
+              "href": "https://gitlab.winehq.org/wine/wine",
+              "description": "运行 Windows 应用",
+              "id": "35_19",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -3958,6 +4910,30 @@
               "description": "BFWSTUDIO-一款AI人工智能代码编辑器，在线运行和开发PHP,JAVA,PYTHON,GO,C#,C等30多种编程语言代码的WEBIDE,打开浏览器就能开发程序,支持断点调试,内置丰富的代码库及模板,人工智能代码辅助,解放双手，让机器写代码,提高工作效率",
               "icon": "",
               "useDefaultIcon": false,
+              "enabled": true
+            },
+            {
+              "title": "Staticrypt",
+              "href": "https://robinmoisson.github.io/staticrypt",
+              "description": "网页加密",
+              "id": "36_7",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Halo",
+              "href": "https://halo.run",
+              "description": "开源建站工具",
+              "id": "36_8",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "腾讯云在线 IDE",
+              "href": "https://ide.cloud.tencent.com/dashboard",
+              "description": "云端开发环境",
+              "id": "36_9",
+              "icon": "",
               "enabled": true
             }
           ]
@@ -4032,6 +5008,38 @@
               "description": "自动化渗透测试的 AI 代理",
               "icon": "",
               "enabled": true
+            },
+            {
+              "title": "UptimeRobot",
+              "href": "https://uptimerobot.com",
+              "description": "网页监控保活",
+              "id": "37_10",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Xenu 链接检查",
+              "href": "http://home.snafu.de/tilman/xenulink.html",
+              "description": "死链检测工具",
+              "id": "37_11",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Ai测试代理 TestSprite",
+              "href": "https://www.testsprite.com",
+              "description": "AI 自动化测试",
+              "id": "37_12",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Brook",
+              "href": "https://www.txthinking.com/brook.html",
+              "description": "跨平台网络工具",
+              "id": "37_13",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -4095,6 +5103,22 @@
               "title": "HuggingChat",
               "href": "http://huggingface.co",
               "description": "HuggingChat为每个人提供社区最好的人工智能聊天模型。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "GitHub 下载加速",
+              "href": "https://github.akams.cn",
+              "description": "GitHub 文件加速下载",
+              "id": "38_11",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "PinMe",
+              "href": "https://pinme.eth.limo",
+              "description": "一行命令静态托管",
+              "id": "38_12",
               "icon": "",
               "enabled": true
             }
@@ -4373,6 +5397,14 @@
               "description": "AI 辅助的在线设计工具",
               "icon": "",
               "enabled": true
+            },
+            {
+              "title": "Affinity",
+              "href": "https://www.affinity.studio/download",
+              "description": "设计软件",
+              "id": "39_26",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -4470,6 +5502,46 @@
               "description": "图标库提供4000个3D风格的图标",
               "icon": "",
               "enabled": true
+            },
+            {
+              "title": "腾讯混元3D",
+              "href": "https://3d.hunyuan.tencent.com",
+              "description": "腾讯 3D 模型生成",
+              "id": "40_12",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Huggingface Hunyuan3D-2mv",
+              "href": "https://huggingface.co/spaces/tencent/Hunyuan3D-2mv",
+              "description": "混元 3D 在线体验",
+              "id": "40_13",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Tencent Hunyuan3D-2",
+              "href": "https://github.com/Tencent/Hunyuan3D-2",
+              "description": "混元 3D 开源模型",
+              "id": "40_14",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Blender",
+              "href": "https://www.blender.org/download",
+              "description": "开源 3D 建模软件",
+              "id": "40_15",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "VRoid Hub",
+              "href": "https://hub.vroid.com/en",
+              "description": "3D 模型站",
+              "id": "40_16",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -4501,6 +5573,14 @@
               "title": "闪电配音网",
               "href": "https://www.soundems.com/",
               "description": "闪电配音网是专业在线真人配音服务网站,提供促销广告,宣传片,视频,课件,动画,模仿,外语,粤语,方言,绘本,有声书,童声等全类型文稿的音频制作,解决您在配音时遇到的配音价格多少钱,配音案例试听,配音软件哪个好等问题。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "OBS Studio",
+              "href": "https://obsproject.com",
+              "description": "直播/录屏工具",
+              "id": "41_7",
               "icon": "",
               "enabled": true
             }
@@ -4693,6 +5773,14 @@
               "description": "日韩主流社交与官方账号运营",
               "icon": "",
               "enabled": true
+            },
+            {
+              "title": "Signal",
+              "href": "https://signal.org/download",
+              "description": "端到端加密通讯",
+              "id": "69_24",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -4804,6 +5892,38 @@
               "title": "Obsidian Publish",
               "href": "https://publish.obsidian.md/",
               "description": "将 Obsidian 笔记一键发布为网站",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "八爪鱼采集器",
+              "href": "https://affiliate.bazhuayu.com/Introduction",
+              "description": "网页数据采集器",
+              "id": "42_19",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Howbigg 屏幕尺寸比较",
+              "href": "https://howbigg.com",
+              "description": "设备屏幕尺寸对比",
+              "id": "42_20",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Link3",
+              "href": "https://www.link3.cc",
+              "description": "永久链接/二维码聚合入口",
+              "id": "42_21",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "公众号备份微信转PDF",
+              "href": "https://www.wechat2pdf.com",
+              "description": "微信聊天/公众号转 PDF 存档",
+              "id": "42_22",
               "icon": "",
               "enabled": true
             }
@@ -5159,6 +6279,14 @@
               "title": "Edit Photo",
               "href": "https://edit.photo",
               "description": "Edit Photo，一款在线照片编辑器，直接在浏览器中编辑照片，无需注册登录，打开浏览直接使用，照片格式支持 JPEG、PNG、WEBP、HEIC、GIF 和动画GIF，照片操作支持裁剪、滤镜、微调、批注、图框、马赛克和调整大小等等基本操作，免费无广告。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "在线图片处理工具箱",
+              "href": "https://phototool.cn",
+              "description": "在线图片编辑工具箱",
+              "id": "45_14",
               "icon": "",
               "enabled": true
             }
@@ -5547,6 +6675,14 @@
               "title": "Animated-icons2.0 动态图标库",
               "href": "https://igoutu.cn/animated-icons",
               "description": "动态图标库3700多个动态图标，让您的项目超凡脱俗。全部都有Lottie的JSON格式、GIF以及After Effects格式。绘制和动画编排都是由我们的内部设计团队完成，确保有绝佳的清晰度。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "应用图标收集(uwarp)",
+              "href": "https://www.uwarp.design/logo-hunter",
+              "description": "App 图标收集站",
+              "id": "49_8",
               "icon": "",
               "enabled": true
             }
@@ -6003,6 +7139,46 @@
               "description": "在线将头像添加到钞票上",
               "icon": "",
               "enabled": true
+            },
+            {
+              "title": "椒图AI",
+              "href": "https://www.jiaotuai.cn",
+              "description": "AI 对话/图像",
+              "id": "55_15",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "美图 roboneo",
+              "href": "https://www.roboneo.com/home",
+              "description": "AI 对话修图",
+              "id": "55_16",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Raphael AI",
+              "href": "https://raphael.app/zh",
+              "description": "免费 AI 生图",
+              "id": "55_17",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Ideogram",
+              "href": "https://ideogram.ai/t/explore",
+              "description": "AI 生图",
+              "id": "55_18",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Mejorar Imagen",
+              "href": "https://mejorarimagen.org/zh",
+              "description": "AI 图像增强",
+              "id": "55_19",
+              "icon": "",
+              "enabled": true
             }
           ]
         }
@@ -6068,6 +7244,22 @@
               "title": "国家企业信用信息公示系统",
               "href": "https://www.gsxt.gov.cn/index.html",
               "description": "国家企业信用信息公示系统：全国企业信用信息公示",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "315 投诉平台",
+              "href": "https://315.cca.org.cn",
+              "description": "消费者投诉平台",
+              "id": "58_8",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "有据",
+              "href": "https://chinafactcheck.com",
+              "description": "中文国际资讯事实核查",
+              "id": "58_9",
               "icon": "",
               "enabled": true
             }
@@ -6173,6 +7365,22 @@
               "title": "机动车车型目录许可信息查询",
               "href": "http://gzcx.sthjj.beijing.gov.cn/eportal/ui?pageId=132198",
               "description": "北京生态管理局查询符合规定排放、耗能标准的机动车车型和非道路移动机械的信息",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "深圳企业欠薪线索",
+              "href": "https://szmssq.sz.gov.cn/mssq_weixin/#/orderPages/pages/themeOrder/ThemeForm?auth_state=4&channel=1&id=c1b19893246f1fcd22685fbbc41e90f9&callType=50",
+              "description": "微信搜索小程序\"深圳欠薪维权速办\"",
+              "id": "59_17",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "工信部号段查询(举报骚扰)",
+              "href": "https://nac.miit.gov.cn/#/notice/gxb",
+              "description": "号段/骚扰举报查询",
+              "id": "59_18",
               "icon": "",
               "enabled": true
             }
@@ -6441,6 +7649,38 @@
               "title": "谷歌 AI 证书",
               "href": "https://educertifications.google/",
               "description": "谷歌官方 AI 技能认证",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "苹果教育优惠商店",
+              "href": "https://www.apple.com.cn/cn-edu/store",
+              "description": "苹果教育优惠购买",
+              "id": "63_24",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "鸡娃客",
+              "href": "https://www.jiwake.com",
+              "description": "育儿课程论坛",
+              "id": "63_25",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "字帖生成",
+              "href": "https://paper.z2h.cn",
+              "description": "练字字帖生成",
+              "id": "63_26",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "DeepLearning.AI",
+              "href": "https://www.deeplearning.ai",
+              "description": "机器学习课程",
+              "id": "63_27",
               "icon": "",
               "enabled": true
             }
