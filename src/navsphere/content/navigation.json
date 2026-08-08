@@ -4111,14 +4111,14 @@
           ]
         },
         {
-          "id": "30",
+          "id": "56",
           "title": "临时短信",
           "icon": "Star",
           "description": "",
           "enabled": true,
           "items": [
             {
-              "id": "30_1",
+              "id": "56_1",
               "title": "SMSCodeOnline",
               "href": "https://smscodeonline.com",
               "description": "免费在线接收短信-SMSCodeOnline",
@@ -4126,7 +4126,7 @@
               "enabled": true
             },
             {
-              "id": "30_2",
+              "id": "56_2",
               "title": "Receive SMS Online",
               "href": "https://www.receive-sms-online.info",
               "description": "免费在线接收短信-英国，罗马尼亚，美国，西班牙，法国，德国，俄罗斯",
@@ -4134,7 +4134,7 @@
               "enabled": true
             },
             {
-              "id": "30_3",
+              "id": "56_3",
               "title": "SMS24",
               "href": "https://sms24.me/en",
               "description": "一次性/临时号码免费在线接收短信。接收来自所有国家和Instagram、Telegram、Google、Facebook、Linked等的匿名验证码",
@@ -4142,7 +4142,7 @@
               "enabled": true
             },
             {
-              "id": "30_4",
+              "id": "56_4",
               "title": "GetFreeSMSNumber",
               "href": "https://getfreesmsnumber.com",
               "description": "临时手机号、一次性手机号、临时短信、虚拟短信在线、验证短信代码、在线获取短信、在线接收短信",
@@ -4150,7 +4150,7 @@
               "enabled": true
             },
             {
-              "id": "30_5",
+              "id": "56_5",
               "title": "7SIM",
               "href": "https://7sim.org",
               "description": "在线接收免费短信·7SIM.ORG",
@@ -4158,7 +4158,7 @@
               "enabled": true
             },
             {
-              "id": "30_6",
+              "id": "56_6",
               "title": "Receive-Sms-Free",
               "href": "https://receive-sms-free.cc",
               "description": "接收短信在线免费，免费临时电话号码，接收短信免费-Receive-Sms-Free.Cc",
@@ -4166,7 +4166,7 @@
               "enabled": true
             },
             {
-              "id": "30_7",
+              "id": "56_7",
               "title": "SELLAITE",
               "href": "https://sms.sellaite.com",
               "description": "在线接收短信 | 语音通话验证 | 短信到电子邮件-SELLAITE",
@@ -4174,7 +4174,7 @@
               "enabled": true
             },
             {
-              "id": "30_8",
+              "id": "56_8",
               "title": "无敌接码平台",
               "href": "https://bestsms.xyz",
               "description": "提供的号码仅用于注册一些不重要的网站账号或者APP账号，防止个人隐私被泄漏，杜绝被骚扰。禁止将这些电话号码用于政务部门、银行、金融、支付、借贷、快递、网约服务等操作。",
@@ -4182,7 +4182,7 @@
               "enabled": true
             },
             {
-              "id": "30_9",
+              "id": "56_9",
               "title": "PingMe免费接码平台",
               "href": "https://pingme.tel/receive-sms-online-cn/",
               "description": "PingMe免费接码平台，可用来快速测试接收验证码，收发短消息，测试短消息通道等功能。并且我们提供海量号码资源，您可以在苹果和安卓商店里下载我们的应用，获得一个最低价格的海外号码，收发短信，接打电话。轻而易举的实现一机多号，多卡多待的功能。完全省去购买SIM卡的麻烦。",
@@ -4190,7 +4190,7 @@
               "enabled": true
             },
             {
-              "id": "30_10",
+              "id": "56_10",
               "title": "云短信",
               "href": "https://yunduanxin.net/",
               "description": "云短信(YunDuanXin.net)可以在线接收短信，接收短信验证码。云短信(YunDuanXin.net)是免费的在线接收手机短信的平台，接短信、接验证码就来云短信(YunDuanXin.net)。",
@@ -4198,7 +4198,7 @@
               "enabled": true
             },
             {
-              "id": "30_11",
+              "id": "56_11",
               "title": "zero接码平台",
               "href": "https://xinghai.party",
               "description": "zero接码平台提供国内国外免费在线接收手机短信验证码服务，永久免费，完全免费，无需注册，不用加群，绿色无广告，方便快捷，无需下载各种APP",
