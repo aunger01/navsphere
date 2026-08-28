@@ -1376,6 +1376,14 @@
               "id": "5_37",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "5_38",
+              "title": "方格子",
+              "href": "https://vocus.cc",
+              "description": "创作者社区互动社区平台",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -1621,6 +1629,22 @@
               "id": "8_15",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "8_16",
+              "title": "Windows XP在线版",
+              "href": "https://windows-xp.kimi.site/",
+              "description": "在线模拟体验经典系统",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "8_17",
+              "title": "侠盗飞车·罪恶都市在线版",
+              "href": "https://gtavc.armdev.cn/",
+              "description": "经典游戏在线网页版",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -1733,6 +1757,14 @@
               "href": "https://hong.greatdk.com",
               "description": "对话小游戏",
               "id": "10_12",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "10_13",
+              "title": "电子竹知了",
+              "href": "https://zhuzhiliao.imsai.cc",
+              "description": "传统玩具\"竹知了\"Web 模拟版，零依赖单文件",
               "icon": "",
               "enabled": true
             }
@@ -2413,6 +2445,22 @@
               "href": "https://nbtool8.com",
               "description": "iOS 设备管理工具",
               "id": "16_14",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "16_15",
+              "title": "PancakeStore",
+              "href": "https://github.com/jailbreakdotparty/PancakeStore",
+              "description": "iOS 应用降级工具，支持 iOS 16.4+，无需越狱，自签使用",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "16_16",
+              "title": "SideInstaller",
+              "href": "https://sideinstaller.net",
+              "description": "在 iOS 27 上完全安装 SideStore 的应用程序，GitHub 仓库 https://github.com/FrizzleM/SideInstaller",
               "icon": "",
               "enabled": true
             }
@@ -3239,6 +3287,46 @@
               "id": "22_57",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "22_58",
+              "title": "创业公司墓地",
+              "href": "https://www.loot-drop.io",
+              "description": "每周更新全球知名初创公司倒闭名单及倒闭原因",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "22_59",
+              "title": "Cloudflare.pay",
+              "href": "https://cloudflare.pay",
+              "description": "Cloudflare 推出的免费 Agent 钱包用户名抢注服务",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "22_60",
+              "title": "免费运营商查询服务",
+              "href": "https://www.freecarrierlookup.com/",
+              "description": "输入电话号码查询运营商名称及无线/固定号码属性",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "22_61",
+              "title": "Readme Typing SVG",
+              "href": "https://readme-typing-svg.demolab.com/demo/",
+              "description": "给 GitHub 仓库的 Readme 文档加上动效文字",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "22_62",
+              "title": "Apple Pay 交易模拟",
+              "href": "https://applepaydemo.apple.com",
+              "description": "使用本页面的按钮模拟进行 Apple Pay 测试交易，您在本网站上进行的交易不会从您的卡中扣除费用。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -3782,6 +3870,14 @@
               "id": "26_17",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "26_18",
+              "title": "简约文件床",
+              "href": "https://pic.sl.al/",
+              "description": "临时文件分享链接，无需注册登录，不限速，单文件最大 200MB",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -4204,6 +4300,22 @@
               "description": "zero接码平台提供国内国外免费在线接收手机短信验证码服务，永久免费，完全免费，无需注册，不用加群，绿色无广告，方便快捷，无需下载各种APP",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "56_12",
+              "title": "Call My Phone",
+              "href": "https://callmyphone.org/",
+              "description": "输入号码后网站自动给你打电话",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "56_13",
+              "title": "消息测试平台",
+              "href": "https://pomocol.com/send-text",
+              "description": "免费测试英国/法国手机号码短信接收，首页亦为免费短信接码平台",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -4609,6 +4721,38 @@
               "href": "https://bridges.torproject.org",
               "description": "Tor 网桥获取",
               "id": "33_9",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "33_10",
+              "title": "Clash Plus",
+              "href": "https://clashplus.io",
+              "description": "免费基于规则的网络流量控制，快速、私密，支持所有客户端",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "33_11",
+              "title": "Shadowrocket分流规则库",
+              "href": "https://shadowrocket-zh.org.cn/",
+              "description": "Shadowrocket 规则库，由 GitHub GMOogway 项目自动构建，每日更新，涵盖 DIRECT/PROXY/REJECT 三大策略",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "33_12",
+              "title": "family iOS配置模块",
+              "href": "https://yfamilys.com/",
+              "description": "Shadowrocket、Loon、QuantumultX、Surge、Stash 的相关配置、模块、重写、插件",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "33_13",
+              "title": "免翻浏览器",
+              "href": "https://kitesurf.cloudflare.app",
+              "description": "Cloudflare 推出的云端网页浏览器，运行在 Workers 之上，专为 Agentic Cloud 设计",
               "icon": "",
               "enabled": true
             }
@@ -7381,6 +7525,22 @@
               "href": "https://nac.miit.gov.cn/#/notice/gxb",
               "description": "号段/骚扰举报查询",
               "id": "59_18",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "59_19",
+              "title": "12389举报投诉平台",
+              "href": "https://12389.mps.gov.cn/#/dashboard/workplace",
+              "description": "公安机关及民警违法违纪举报投诉渠道",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "59_20",
+              "title": "福建12345投诉平台",
+              "href": "https://www.fujian.gov.cn/hdjl/zxts/",
+              "description": "福建省 12345 投诉提交入口，信件查询入口并入此条",
               "icon": "",
               "enabled": true
             }
