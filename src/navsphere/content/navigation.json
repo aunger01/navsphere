@@ -637,6 +637,30 @@
               "id": "66_37",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "66_38",
+              "title": "即梦",
+              "href": "https://jimeng.jianying.com/ai-tool/home",
+              "description": "字节跳动出品的 AI 绘画和 AIGC 视频创作平台",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_39",
+              "title": "可灵AI",
+              "href": "https://klingai.com/",
+              "description": "快手出品的 Omni 全能多模态 AI 生图生视频工具",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_40",
+              "title": "LibTV",
+              "href": "https://www.liblib.tv/",
+              "description": "AI 自动生成模特/场景/脱口秀文案的一站式视频创作工具",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -2942,6 +2966,14 @@
               "id": "21_17",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "21_18",
+              "title": "Free for Developers",
+              "href": "https://free-for.dev",
+              "description": "一份开发者免费资源索引，涵盖短信/聊天/储存/SaaS/PaaS/IaaS 等各类厂商的免费套餐",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -4316,6 +4348,22 @@
               "description": "免费测试英国/法国手机号码短信接收，首页亦为免费短信接码平台",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "56_14",
+              "title": "沙盒短信",
+              "href": "https://sandbox.httpsms.com/",
+              "description": "免费发送并接收测试短信的开发者沙盒",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "56_15",
+              "title": "httpsSMS",
+              "href": "https://httpsms.com/",
+              "description": "通过可编程 API 和端到端加密发送/接收短信",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -4753,6 +4801,14 @@
               "title": "免翻浏览器",
               "href": "https://kitesurf.cloudflare.app",
               "description": "Cloudflare 推出的云端网页浏览器，运行在 Workers 之上，专为 Agentic Cloud 设计",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "33_14",
+              "title": "OpenRung",
+              "href": "https://openrung.org/zh/",
+              "description": "由美国 501(c)(3) 基金会运营、社区志愿者维护的全球隐私中继网络，永久免费、注重隐私",
               "icon": "",
               "enabled": true
             }
@@ -5520,17 +5576,17 @@
             },
             {
               "id": "39_23",
-              "title": "Lovart",
+              "title": "Lovart海外版",
               "href": "https://www.lovart.ai/",
               "description": "AI 驱动的在线设计平台",
               "icon": "",
               "enabled": true
             },
             {
-              "id": "39_24",
-              "title": "阿里海报 Agent",
-              "href": "https://d.design/",
-              "description": "阿里出品的 AI 海报设计工具",
+              "id": "39_27",
+              "title": "Lovart中文版",
+              "href": "https://www.lovart.art/",
+              "description": "大陆可访问的新一代在线 AI 设计 Agent 平台",
               "icon": "",
               "enabled": true
             },
@@ -5547,6 +5603,14 @@
               "href": "https://www.affinity.studio/download",
               "description": "设计软件",
               "id": "39_26",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "39_24",
+              "title": "阿里海报 Agent",
+              "href": "https://d.design/",
+              "description": "阿里出品的 AI 海报设计工具",
               "icon": "",
               "enabled": true
             }
@@ -7541,6 +7605,62 @@
               "title": "福建12345投诉平台",
               "href": "https://www.fujian.gov.cn/hdjl/zxts/",
               "description": "福建省 12345 投诉提交入口，信件查询入口并入此条",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "59_21",
+              "title": "国务院\"互联网+督查\"",
+              "href": "https://liuyan.www.gov.cn/hudong/atwls/rmqz.htm",
+              "description": "也可微信小程序搜『国务院客户端』，国务院督查线索征集入口",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "59_22",
+              "title": "中央网信办 12377",
+              "href": "https://www.12377.cn/",
+              "description": "受理政治类、诈骗类、色情类、谣言类等举报",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "59_23",
+              "title": "最高检 12309",
+              "href": "https://www.12309.gov.cn/",
+              "description": "控告/刑事申诉/民事申诉/行政申诉/国家赔偿/举报/公益诉讼/检察违法违纪举报入口",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "59_24",
+              "title": "中纪委 12388",
+              "href": "https://www.12388.gov.cn/",
+              "description": "中央纪委国家监委网络举报平台（电话 12388、网站、信函均可，支持匿名）",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "59_25",
+              "title": "12321举报中心",
+              "href": "https://www.12321.cn/",
+              "description": "工信部授权中国互联网协会，举报垃圾短信/诈骗电话/骚扰电话/个人信息泄露",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "59_26",
+              "title": "国家信访局网上大厅",
+              "href": "https://www.gjxfj.gov.cn/",
+              "description": "国家信访局投诉请求/建议征集窗口，登录后可凭查询码跟踪进度",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "59_27",
+              "title": "人民网领导留言板",
+              "href": "https://liuyan.people.com.cn/home/",
+              "description": "人民网\"领导留言板\"，按省份/部委留言，可选\"急难愁盼\"标签优先处理",
               "icon": "",
               "enabled": true
             }
