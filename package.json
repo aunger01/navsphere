@@ -66,8 +66,8 @@
     "iron-session": "^8.0.4",
     "lucide-react": "^0.462.0",
     "monaco-editor": "^0.52.2",
-    "next": "15.5.7",
-    "next-auth": "5.0.0-beta.25",
+    "next": "15.5.21",
+    "next-auth": "5.0.0-beta.32",
     "next-themes": "^0.2.1",
     "react": "18.2.0",
     "react-day-picker": "^9.4.1",
@@ -96,7 +96,19 @@
     "sharp": "^0.34.5",
     "tailwindcss": "4.1.12",
     "typescript": "5.1.6",
-    "wrangler": "^4.61.0"
+    "wrangler": "~4.99.0"
+  },
+  "overrides": {
+    "brace-expansion@<2": "1.1.18",
+    "brace-expansion@>=2": "2.1.4",
+    "nanoid@<4": "3.3.16"
+  },
+  "pnpm": {
+    "overrides": {
+      "brace-expansion@<2": "1.1.18",
+      "brace-expansion@>=2": "2.1.4",
+      "nanoid@<4": "3.3.16"
+    }
   },
   "browser": {
     "crypto": false
