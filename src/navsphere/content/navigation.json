@@ -431,6 +431,12 @@
               "enabled": true
             },
             {
+              "id": "66_41",
+              "title": "DeepSeek Harness",
+              "href": "https://www.deepseek.com/harness/",
+              "description": "DeepSeek 开放的 Agent 开发框架，模型、工具、技能、沙箱等能力均由插件组合，可自由替换与重组。"
+            },
+            {
               "id": "66_13",
               "title": "OpenMAIC",
               "href": "https://open.maic.chat/",
@@ -1408,6 +1414,12 @@
               "description": "创作者社区互动社区平台",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "5_39",
+              "title": "eSTK.me官方文档博客",
+              "href": "https://blog.estk.me/zh/",
+              "description": "一家位于中国香港的 eSIM 智能卡制造商的官方使用文档。"
             }
           ]
         },
@@ -3910,6 +3922,12 @@
               "description": "临时文件分享链接，无需注册登录，不限速，单文件最大 200MB",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "26_19",
+              "title": "Tailcat",
+              "href": "https://tailscale.github.io/tailcat/",
+              "description": "点对点、零账号的加密临时连接工具，一方生成地址私下发给对方，对方连上即可安全传数据。"
             }
           ]
         },
@@ -4811,6 +4829,12 @@
               "description": "由美国 501(c)(3) 基金会运营、社区志愿者维护的全球隐私中继网络，永久免费、注重隐私",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "33_15",
+              "title": "华润赢·应用",
+              "href": "https://huarun.win",
+              "description": "聚合 100+ 款常用软件与科学上网客户端的应用商店式下载入口。"
             }
           ]
         },
@@ -5613,6 +5637,12 @@
               "description": "阿里出品的 AI 海报设计工具",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "39_28",
+              "title": "Miora",
+              "href": "https://miora.design/home",
+              "description": "腾讯出品的海外 AI 设计平台，注册需科学上网环境，登录无需。"
             }
           ]
         },
