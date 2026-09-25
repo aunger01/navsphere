@@ -669,6 +669,14 @@
               "description": "AI 自动生成模特/场景/脱口秀文案的一站式视频创作工具",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "66_42",
+              "title": "Jey 聊天助手",
+              "href": "https://chatjevs.com",
+              "description": "AI 聊天回复助手，读懂对方语境生成三条候选回复一键填入，支持微信、QQ、X、飞书，Android、Windows、macOS 桌面端同步可用。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -4045,6 +4053,14 @@
               "href": "https://tgdir.org/zh/",
               "description": "搜索全球电报群组",
               "id": "27_15",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "27_16",
+              "title": "苹果iCloud数据下载",
+              "href": "https://privacy.apple.com/",
+              "description": "苹果官方 iCloud 数据下载入口，登录后选择「获取数据副本」即可申请照片等数据，支持按最大 25GB 分包减少文件数量，处理周期最长 7 天。",
               "icon": "",
               "enabled": true
             }
@@ -8001,6 +8017,22 @@
               "href": "https://www.deeplearning.ai",
               "description": "机器学习课程",
               "id": "63_27",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "63_28",
+              "title": "英语实验室",
+              "href": "https://e.newkit.site/",
+              "description": "适合中小学生的英语学习网站，另有微信小程序版「N次笔记」，微信搜索即可使用。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "63_29",
+              "title": "诗词有典小程序",
+              "href": "https://github.com/tianyaxiang/poetry-app",
+              "description": "古典诗词学习与欣赏微信小程序，含海量诗词库、作者专区与飞花令互动游戏，微信搜索「诗词有典」即可使用；链接为开源仓库，含功能介绍与截图。",
               "icon": "",
               "enabled": true
             }
