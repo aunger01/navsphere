@@ -1858,6 +1858,14 @@
               "description": "快马市场车载版是一款专为汽车、中控导航、车载导航打造的应用市场和APP商店！快马市场中有海量人工精选的车载应用，均为最新版本，适配车载环境，没有广告。现在已支持吉利远景、吉利博越、LYNK & CO、WEY、宝骏、长城哈佛、大众、丰田、本田、通用、福特、日产、马自达、雪佛兰、雪铁龙、标志等汽车品牌",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "11_5",
+              "title": "DiPlay",
+              "href": "https://shihabal3amri.github.io/DiPlay/zh-Hans/",
+              "description": "无需越狱、转接盒或账号认证，即可让兼容的安卓车机获得有线与无线 CarPlay 体验，在车载屏幕上使用地图、音乐和通话。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -2509,6 +2517,14 @@
               "title": "SideInstaller",
               "href": "https://sideinstaller.net",
               "description": "在 iOS 27 上完全安装 SideStore 的应用程序，GitHub 仓库 https://github.com/FrizzleM/SideInstaller",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "16_17",
+              "title": "轻松签在线签名",
+              "href": "https://yyyqm.com",
+              "description": "iOS 在线签名工具，使用需自备证书，另提供软件仓库与软件源地址。",
               "icon": "",
               "enabled": true
             }
@@ -3381,6 +3397,38 @@
               "title": "Apple Pay 交易模拟",
               "href": "https://applepaydemo.apple.com",
               "description": "使用本页面的按钮模拟进行 Apple Pay 测试交易，您在本网站上进行的交易不会从您的卡中扣除费用。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "22_63",
+              "title": "免费Apple共享 ID 服务",
+              "href": "https://id.lueox.com/",
+              "description": "免费 Apple 共享 ID 服务，开放多个地区账号，点击即可查看对应地区的共享账号。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "22_64",
+              "title": "卡面设计生成器",
+              "href": "https://10000101.xyz/aircard/",
+              "description": "Apple Pay 卡面 DIY 工具，在线自定义设计银行卡卡面样式。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "22_65",
+              "title": "AirCard-Win版",
+              "href": "https://github.com/Lumid-Off/AirCard-Windows/releases/download/v1.2.4/aircard.exe",
+              "description": "Apple 钱包自定义卡面工具 Windows 版，安装后即可为 Apple 钱包设置自定义卡面。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "22_66",
+              "title": "AirCards卡面库",
+              "href": "https://aircards.org/",
+              "description": "在线 Apple 钱包卡面库，收录多款可直接使用的自定义卡面，为钱包挑一张喜欢的卡面。",
               "icon": "",
               "enabled": true
             }
@@ -5667,6 +5715,14 @@
               "title": "Miora",
               "href": "https://miora.design/home",
               "description": "腾讯出品的海外 AI 设计平台，注册需科学上网环境，登录无需。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "39_29",
+              "title": "ArtCraft 软件套装",
+              "href": "https://getartcraft.com/apps",
+              "description": "平替 Adobe 全家桶的开源免费设计软件套装，涵盖多款常用创作工具，可直接在线获取。",
               "icon": "",
               "enabled": true
             }
