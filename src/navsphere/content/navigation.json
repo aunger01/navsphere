@@ -4914,6 +4914,7 @@
               "href": "https://nyanpasu.org",
               "description": "为日常使用而生的 Clash 桌面客户端。配置、规则与流量，一处掌握。开源免费，支持 Windows、macOS 与 Linux。",
               "icon": "/assets/images/default-website-icon.png",
+              "useDefaultIcon": true,
               "enabled": true
             },
             {
