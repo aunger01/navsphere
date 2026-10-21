@@ -4907,6 +4907,14 @@
               "description": "聚合 100+ 款常用软件与科学上网客户端的应用商店式下载入口。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "1792551675405",
+              "title": "Clash Nyanpasu",
+              "href": "https://nyanpasu.org",
+              "description": "为日常使用而生的 Clash 桌面客户端。配置、规则与流量，一处掌握。开源免费，支持 Windows、macOS 与 Linux。",
+              "icon": "/assets/images/default-website-icon.png",
+              "enabled": true
             }
           ]
         },
