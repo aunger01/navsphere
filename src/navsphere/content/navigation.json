@@ -4915,6 +4915,15 @@
               "description": "为日常使用而生的 Clash 桌面客户端。配置、规则与流量，一处掌握。开源免费，支持 Windows、macOS 与 Linux。",
               "icon": "/assets/images/default-website-icon.png",
               "enabled": true
+            },
+            {
+              "id": "site_1792552166534_fyis4anjz",
+              "title": "JD2.免费节点订阅",
+              "href": "http://jd2.dali2897.com/?ref=8aGN8XK-on7a",
+              "description": "新增临时免费订阅",
+              "icon": "http://jd2.dali2897.com/data:,",
+              "useDefaultIcon": true,
+              "enabled": true
             }
           ]
         },
