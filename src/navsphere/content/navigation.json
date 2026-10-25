@@ -380,6 +380,22 @@
               "id": "67_12",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "67_13",
+              "title": "MonkeyCode",
+              "href": "https://monkeycode-ai.com/?ic=01a143f5-14c8-7432-98f4-a2e296917334",
+              "description": "清华长亭开源的 AI 智能开发平台，基础会员每日赠送 token 并自带云服务器，网页端即可编程。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "67_14",
+              "title": "REA",
+              "href": "https://rea.tools/",
+              "description": "配合 AI 编程助手对应用、二进制与浏览器行为做逆向分析的开源工具，附操作指南与可交互示例。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -1432,6 +1448,14 @@
               "description": "一家位于中国香港的 eSIM 智能卡制造商的官方使用文档。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "5_40",
+              "title": "烧饼社区",
+              "href": "https://linux.sb/",
+              "description": "AI 技术交流社区，主张打破技术壁垒，汇集 AI 使用经验与技术资源。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -1864,6 +1888,14 @@
               "title": "DiPlay",
               "href": "https://shihabal3amri.github.io/DiPlay/zh-Hans/",
               "description": "无需越狱、转接盒或账号认证，即可让兼容的安卓车机获得有线与无线 CarPlay 体验，在车载屏幕上使用地图、音乐和通话。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "11_6",
+              "title": "CarProxy 车机免流代理",
+              "href": "http://univ.ik8.cc.cd/",
+              "description": "专为车载智能中控定制的免流与网络代理客户端，支持 ADB 静默提权、智能测速与开机自启。",
               "icon": "",
               "enabled": true
             }
@@ -2481,6 +2513,14 @@
               "enabled": true
             },
             {
+              "id": "16_19",
+              "title": "反斗限免·苹果应用限免集合",
+              "href": "https://appstore.apprcn.com/",
+              "description": "按日整理 App Store 本体限免、内购限免与可兑换项目，标明区服与平台。",
+              "icon": "",
+              "enabled": true
+            },
+            {
               "id": "16_12",
               "title": "Zapp Free",
               "href": "https://zappfree.com/",
@@ -2525,6 +2565,14 @@
               "title": "轻松签在线签名",
               "href": "https://yyyqm.com",
               "description": "iOS 在线签名工具，使用需自备证书，另提供软件仓库与软件源地址。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "16_18",
+              "title": "Hood",
+              "href": "https://hood.lision.dev/zh-cn/",
+              "description": "iOS 18 及以上可用的隐私工具，为指定 App 加上锁定与临时隐藏，长按灵动岛即可重新开启保护。",
               "icon": "",
               "enabled": true
             }
