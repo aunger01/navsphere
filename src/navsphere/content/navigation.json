@@ -4833,6 +4833,15 @@
               "description": "提供免费 PHP 虚拟主机空间",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1793090496431_u6h83ath4",
+              "title": "RackNerd",
+              "href": "https://my.racknerd.com",
+              "description": "老牌低价的海外VPS服务，建议等黑五或使用优惠码购买比较划算，特色产品为低价 KVM 架构的VPS，通常在节假日发售，起售在9美元/年左右；这个价格的机器基本为普通路线，部分套餐有相对好一些的洛杉矶DC02机房（优化路线）可选。",
+              "icon": "/assets/favicon_1793090449389.png",
+              "useDefaultIcon": true,
+              "enabled": true
             }
           ]
         },
