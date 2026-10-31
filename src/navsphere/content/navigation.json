@@ -693,6 +693,22 @@
               "description": "AI 聊天回复助手，读懂对方语境生成三条候选回复一键填入，支持微信、QQ、X、飞书，Android、Windows、macOS 桌面端同步可用。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "66_43",
+              "title": "Lexmount 云浏览器",
+              "href": "https://browser.lexmount.com/",
+              "description": "云端浏览器服务，为 AI Agent 与网页任务提供独立浏览器环境，可免费领取 Pro 试用。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_44",
+              "title": "Today AI",
+              "href": "https://today.ai/",
+              "description": "云电脑服务，注册即得永久免费基础版（3 核 6G 虚拟机，美国俄勒冈 IP），可操控浏览器代办任务，内测中。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -1175,6 +1191,14 @@
               "id": "4_20",
               "icon": "",
               "enabled": true
+            },
+            {
+              "title": "追剧么",
+              "href": "https://zhuiju.me/",
+              "description": "免费无广告的追剧资源导航，人工精选并每日检测有效性，涵盖在线影视、网盘搜索、磁力 BT、字幕与 IPTV 直播源，开源。",
+              "id": "4_21",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -1568,6 +1592,14 @@
               "href": "http://savethesounds.info",
               "description": "老设备声音档案",
               "id": "7_9",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "音乐会员免费",
+              "href": "https://h.m4a.cn/",
+              "description": "手机端领取各音乐平台会员的站点，含网易云音乐黑胶 VIP 共享等。",
+              "id": "7_10",
               "icon": "",
               "enabled": true
             }
@@ -2710,6 +2742,22 @@
               "href": "https://www.openapk.net",
               "description": "开源 App 下载",
               "id": "17_16",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "CleanYourTV",
+              "href": "https://cleanyour.tv/",
+              "description": "去除 Android TV 与 Google TV 电视广告的开源工具，无需 root，不卸载任何内容。",
+              "id": "17_17",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "title": "Aerial",
+              "href": "https://aerial.qust.me/",
+              "description": "给国产电视的干净桌面，无广告无推荐流，只有应用、壁纸与 Apple TV 航拍屏保，开源。",
+              "id": "17_18",
               "icon": "",
               "enabled": true
             }
