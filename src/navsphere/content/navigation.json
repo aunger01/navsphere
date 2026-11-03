@@ -709,6 +709,14 @@
               "description": "云电脑服务，注册即得永久免费基础版（3 核 6G 虚拟机，美国俄勒冈 IP），可操控浏览器代办任务，内测中。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "66_45",
+              "title": "通义听悟",
+              "href": "https://tingwu.aliyun.com",
+              "description": "阿里旗下完全免费的音视频转文字工具，网页版与手机 App 通用，每天约 10 小时免费转写额度，单文件最大 500M 音频或 6G 视频，最长可处理 6 小时内容。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -2760,6 +2768,22 @@
               "id": "17_18",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "17_19",
+              "title": "安卓去广告",
+              "href": "https://rddmwmddr.github.io/android-ad-cleaner/",
+              "description": "国产安卓手机的开屏广告、热搜、资讯推荐、营销推送。插上数据线，在电脑上点几下把手机里的广告关掉。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "17_20",
+              "title": "NOIR — 安卓隐私审计",
+              "href": "https://verlintas.dev/noir/zh/",
+              "description": "读取已安装应用能采集什么、发到哪里——权限、端点、数据流向——然后给你可回滚的处置。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -3868,6 +3892,14 @@
               "description": "谷歌文件云存储，支持在线文档与多端访问。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "25_18",
+              "title": "腾讯网盘",
+              "href": "https://drive.tencent.com",
+              "description": "腾讯出品的 AI 网盘（内测中）。",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -4766,6 +4798,14 @@
               "href": "https://browserbench.org/Speedometer3.0",
               "description": "浏览器基准，可归测试工具",
               "id": "68_20",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "68_21",
+              "title": "IP 质量检测-小哪吒",
+              "href": "https://ip.xiaonezha.shop/",
+              "description": "看看你当前的网络出口是什么类型的 IP、干净程度如何，也可以查询任意 IP。",
               "icon": "",
               "enabled": true
             }
