@@ -391,9 +391,9 @@
             },
             {
               "id": "67_14",
-              "title": "REA",
-              "href": "https://rea.tools/",
-              "description": "配合 AI 编程助手对应用、二进制与浏览器行为做逆向分析的开源工具，附操作指南与可交互示例。",
+              "title": "REA逆向工程",
+              "href": "https://rea.tools/zh-CN/",
+              "description": "向你的编程助手提一个关于应用、游戏或网站的问题。REA 为它提供工具，让它检查答案背后的代码。",
               "icon": "",
               "enabled": true
             }
@@ -715,6 +715,22 @@
               "title": "通义听悟",
               "href": "https://tingwu.aliyun.com",
               "description": "阿里旗下完全免费的音视频转文字工具，网页版与手机 App 通用，每天约 10 小时免费转写额度，单文件最大 500M 音频或 6G 视频，最长可处理 6 小时内容。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_46",
+              "title": "AIHOT",
+              "href": "https://aihot.news/free-tokens",
+              "description": "AI 资讯站，「Token 羊毛」功能聚合全网各类模型厂商额度活动。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_47",
+              "title": "网易叭哥说",
+              "href": "https://bug.youdao.com/",
+              "description": "全局可用的 AI 语音 Agent，你只管叭叭，剩下交给叭哥说。",
               "icon": "",
               "enabled": true
             }
@@ -2081,6 +2097,14 @@
               "href": "https://fydeos.io/download/vm",
               "description": "Chromium OS 开源版",
               "id": "12_17",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "12_18",
+              "title": "WSABuilds",
+              "href": "https://github.com/MustardChef/WSABuilds",
+              "description": "Windows 安卓子系统独立安装包，bat 脚本一键安装，集成 Google Play 服务、Magisk、KernelSU 等，开箱即用。",
               "icon": "",
               "enabled": true
             }
@@ -3549,6 +3573,14 @@
               "title": "AirCards卡面库",
               "href": "https://aircards.org/",
               "description": "在线 Apple 钱包卡面库，收录多款可直接使用的自定义卡面，为钱包挑一张喜欢的卡面。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "22_67",
+              "title": "Kylebing 苹果参数",
+              "href": "https://kylebing.cn/tools/apple/",
+              "description": "苹果设备参数参考网站，含机型芯片等参数速查。",
               "icon": "",
               "enabled": true
             }
@@ -6064,6 +6096,14 @@
               "href": "https://obsproject.com",
               "description": "直播/录屏工具",
               "id": "41_7",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "41_8",
+              "title": "Concat剪辑神器",
+              "href": "https://concat.standalones.org",
+              "description": "开源可接入 AI 的剪映平替视频剪辑神器。",
               "icon": "",
               "enabled": true
             }
