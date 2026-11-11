@@ -16,6 +16,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1_12",
+              "title": "安杰主页",
+              "href": "https://l1n2.com/",
+              "description": "个人网站主页",
+              "icon": "",
+              "enabled": true
+            },
+            {
               "id": "1_jump_ai",
               "title": "智能AI",
               "href": "#64",
@@ -77,14 +85,6 @@
               "title": "天气预报",
               "href": "https://weather.cma.cn/",
               "description": "中国气象局提供权威的天气预报、气象预警、卫星云图、雷达图等专业服务产品",
-              "icon": "",
-              "enabled": true
-            },
-            {
-              "id": "1_8",
-              "title": "让我帮你搜一下",
-              "href": "https://l1n2.com/I_help_you",
-              "description": "恶搞并自动搜索工具（百度、必应、谷歌）",
               "icon": "",
               "enabled": true
             }
@@ -987,6 +987,14 @@
           "description": "",
           "enabled": true,
           "items": [
+            {
+              "id": "3_21",
+              "title": "元宝搜索",
+              "href": "https://so.qq.com/",
+              "description": "腾讯元宝推出的纯净搜索引擎，关键结果前置，界面更清爽广告更克制，支持一键折叠广告",
+              "icon": "",
+              "enabled": true
+            },
             {
               "id": "3_1",
               "title": "Similarsites",
