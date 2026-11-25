@@ -275,6 +275,14 @@
               "description": "支持手机号或 Telegram 登录的 AI 聊天助手",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "65_9",
+              "title": "Wajo-Fo Mini",
+              "href": "https://wajo.ai/",
+              "description": "带美国手机号码的 Agent，可关联 iMessage 或 Telegram 后对话",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -731,6 +739,30 @@
               "title": "网易叭哥说",
               "href": "https://bug.youdao.com/",
               "description": "全局可用的 AI 语音 Agent，你只管叭叭，剩下交给叭哥说。",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_48",
+              "title": "无线麦 SayAll App",
+              "href": "https://sayall.app/",
+              "description": "开口就输入，一键做更多；语音输入 App",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_49",
+              "title": "Remote Buddy 遥控搭子",
+              "href": "https://remote.zfdang.com/",
+              "description": "遥控器按住说话、松开结束，让输入法听见遥控器里的声音（与 SayAll 配套）",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "66_50",
+              "title": "POKI",
+              "href": "https://poki.bot",
+              "description": "能真正接管并操控 iPhone 的 iOS Agent",
               "icon": "",
               "enabled": true
             }
@@ -2973,6 +3005,14 @@
               "enabled": true
             },
             {
+              "id": "20_15",
+              "title": "网易UU远程控制软件",
+              "href": "https://uuyc.163.com/",
+              "description": "网易出品的免费远程控制软件，支持 Windows/macOS/iOS/Android 多端互连，4K 144 帧低延迟，覆盖远程办公、游戏与协助；文件传输不限大小，支持多屏协作与远程开机",
+              "icon": "",
+              "enabled": true
+            },
+            {
               "id": "20_5",
               "title": "VMware Fusion Player",
               "href": "https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal",
@@ -3033,6 +3073,14 @@
               "title": "兴趣屋论坛",
               "href": "https://www.xqu5.com/",
               "description": "免费软件下载与分享论坛",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "20_14",
+              "title": "KuroCat",
+              "href": "https://qianyi.one/kurocat/",
+              "description": "敲键盘的小黑猫，住进你的桌面（免费桌面宠物）",
               "icon": "",
               "enabled": true
             }
@@ -4848,6 +4896,14 @@
               "description": "看看你当前的网络出口是什么类型的 IP、干净程度如何，也可以查询任意 IP。",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "68_22",
+              "title": "网络透视",
+              "href": "https://check.1ms.dog",
+              "description": "网站眼里的你、IP 质量、出口 IP、IPv6、DNS、解锁、服务延迟与网速",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
@@ -5707,6 +5763,14 @@
               "title": "PUA AI",
               "href": "https://openpua.ai/",
               "description": "项目是一个关于PUA AI的Skill",
+              "icon": "",
+              "enabled": true
+            },
+            {
+              "id": "agent_skills_8",
+              "title": "腾讯BrowserSkill",
+              "href": "https://browserskill.weixin.qq.com/",
+              "description": "让 Agent 用上你已登录的真实浏览器，独立窗口跑任务，遇登录/验证码停下来交还给人",
               "icon": "",
               "enabled": true
             }
