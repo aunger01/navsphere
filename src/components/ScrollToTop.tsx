@@ -33,11 +33,11 @@ export function ScrollToTop() {
         <button
           onClick={scrollToTop}
           className="fixed bottom-8 right-8 p-3 rounded-full shadow-lg
-            bg-white dark:bg-gray-800 
-            hover:bg-gray-100 dark:hover:bg-gray-700
-            text-gray-800 dark:text-gray-200
-            ring-1 ring-gray-200 dark:ring-gray-700
+            bg-primary text-primary-foreground
+            hover:bg-primary/90 hover:-translate-y-1 hover:shadow-xl
+            ring-1 ring-primary/30
             transition-all duration-300
+            animate-[scrolltop-in_0.25s_ease-out]
             z-50"
           aria-label="回到顶部"
         >
