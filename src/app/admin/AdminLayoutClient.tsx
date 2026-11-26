@@ -20,6 +20,8 @@ import {
   Monitor,
   Database,
   Inbox,
+  Menu,
+  X,
 } from "lucide-react"
 import { cn } from '@/lib/utils'
 import {
@@ -106,6 +108,7 @@ const menuItems = [
 export function AdminLayoutClient({ children, user }: AdminLayoutClientProps) {
   const pathname = usePathname()
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false)
+  const [isDrawerOpen, setIsDrawerOpen] = useState(false)
   const [expandedItems, setExpandedItems] = useState<string[]>([])
   const { setTheme } = useTheme()
 
@@ -118,7 +121,7 @@ export function AdminLayoutClient({ children, user }: AdminLayoutClientProps) {
   }
 
   return (
-    <div className="hidden md:block h-screen">
+    <div className="block h-screen">
       <div className="h-full border-t">
         <div className="h-full bg-background">
           <div className={cn(
@@ -346,11 +349,202 @@ export function AdminLayoutClient({ children, user }: AdminLayoutClientProps) {
             </div>
             <main className="relative lg:pl-[80px] xl:pl-0 h-full">
               <div className="h-full overflow-auto">
+                <div className="lg:hidden sticky top-0 z-30 flex items-center gap-2 bg-background/95 backdrop-blur-sm border-b px-3 py-2">
+                  <Button
+                    variant="ghost"
+                    size="icon"
+                    aria-label="打开菜单"
+                    onClick={() => setIsDrawerOpen(true)}
+                  >
+                    <Menu className="h-5 w-5" />
+                  </Button>
+                  <span className="text-sm font-medium">管理控制台</span>
+                </div>
                 <div className="p-6">
                   {children}
                 </div>
               </div>
             </main>
+          </div>
+          <div className="lg:hidden">
+            <div
+              className={cn(
+                "fixed inset-0 z-40 bg-black/50 transition-opacity duration-200",
+                isDrawerOpen ? "opacity-100" : "opacity-0 pointer-events-none"
+              )}
+              onClick={() => setIsDrawerOpen(false)}
+            />
+            <div
+              className={cn(
+                "fixed inset-y-0 left-0 z-50 w-3/4 max-w-xs bg-background border-r shadow-lg transform transition-transform duration-200 ease-in-out flex flex-col",
+                isDrawerOpen ? "translate-x-0" : "-translate-x-full"
+              )}
+            >
+              <div className="px-3 py-4 flex items-center justify-between border-b">
+                <Link href="/admin" className="flex items-center gap-2" onClick={() => setIsDrawerOpen(false)}>
+                  <div className="relative w-8 h-8 overflow-hidden rounded-md">
+                    <img
+                      src="/assets/images/alogo.webp"
+                      alt="Logo"
+                      className="object-cover"
+                    />
+                  </div>
+                  <div className="flex flex-col">
+                    <span className="text-lg font-semibold leading-none tracking-tight">
+                      NavSphere
+                    </span>
+                    <span className="text-xs text-muted-foreground mt-1">
+                      管理控制台
+                    </span>
+                  </div>
+                </Link>
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  aria-label="关闭菜单"
+                  onClick={() => setIsDrawerOpen(false)}
+                >
+                  <X className="h-4 w-4" />
+                </Button>
+              </div>
+              <nav className="grid gap-[2px] px-3 py-4 flex-1 overflow-y-auto">
+                {menuItems.map((item) => (
+                  <div key={item.href}>
+                    <Button
+                      variant="ghost"
+                      className={cn(
+                        "w-full justify-start",
+                        pathname === item.href && "bg-muted"
+                      )}
+                      onClick={() => item.subItems && toggleMenuItem(item.href)}
+                      asChild={!item.subItems}
+                    >
+                      {!item.subItems ? (
+                        <Link href={item.href} onClick={() => setIsDrawerOpen(false)}>
+                          <item.icon className="mr-2 h-4 w-4" />
+                          <span>{item.title}</span>
+                        </Link>
+                      ) : (
+                        <>
+                          <item.icon className="mr-2 h-4 w-4" />
+                          <span>{item.title}</span>
+                          <ChevronDown
+                            className={cn(
+                              "ml-auto h-4 w-4 transition-transform",
+                              expandedItems.includes(item.href) && "rotate-180"
+                            )}
+                          />
+                        </>
+                      )}
+                    </Button>
+                    {item.subItems && expandedItems.includes(item.href) && (
+                      <div className="ml-4 mt-1 space-y-1">
+                        {item.subItems.map((subItem) => (
+                          <Button
+                            key={subItem.href}
+                            variant="ghost"
+                            className={cn(
+                              "w-full justify-start pl-6",
+                              pathname === subItem.href && "bg-muted"
+                            )}
+                            asChild
+                          >
+                            <Link href={subItem.href} onClick={() => setIsDrawerOpen(false)}>
+                              {subItem.title}
+                            </Link>
+                          </Button>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </nav>
+              <div className="p-3 border-t">
+                <DropdownMenu>
+                  <DropdownMenuTrigger asChild>
+                    <Button
+                      variant="ghost"
+                      className="w-full h-auto p-2 justify-start hover:bg-muted transition-colors"
+                    >
+                      <div className="flex items-center gap-3 w-full">
+                        <Avatar className="h-8 w-8">
+                          <AvatarImage
+                            src={user.image || ''}
+                            alt={user.name || ''}
+                          />
+                          <AvatarFallback>
+                            {user.name?.charAt(0).toUpperCase() || 'U'}
+                          </AvatarFallback>
+                        </Avatar>
+                        <div className="flex items-center flex-1 min-w-0">
+                          <span className="text-sm font-medium leading-none truncate">
+                            {user.name}
+                          </span>
+                        </div>
+                      </div>
+                    </Button>
+                  </DropdownMenuTrigger>
+                  <DropdownMenuContent
+                    className="w-56"
+                    align="start"
+                    side="top"
+                  >
+                    <DropdownMenuLabel className="font-normal">
+                      <div className="flex flex-col space-y-1">
+                        <p className="text-sm font-medium leading-none">
+                          {user.name}
+                        </p>
+                        <p className="text-xs leading-none text-muted-foreground">
+                          {user.email}
+                        </p>
+                      </div>
+                    </DropdownMenuLabel>
+                    <DropdownMenuSeparator />
+                    <DropdownMenuItem asChild>
+                      <Link
+                        href="/"
+                        className="cursor-pointer"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <Home className="mr-2 h-4 w-4" />
+                        前台首页
+                      </Link>
+                    </DropdownMenuItem>
+                    <DropdownMenuSeparator />
+                    <DropdownMenuSub>
+                      <DropdownMenuSubTrigger>
+                        <Sun className="h-4 w-4 mr-2 rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0" />
+                        <Moon className="absolute h-4 w-4 mr-2 rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100" />
+                        <span className="ml-2">主题</span>
+                      </DropdownMenuSubTrigger>
+                      <DropdownMenuSubContent>
+                        <DropdownMenuItem onClick={() => setTheme("light")}>
+                          <Sun className="h-4 w-4 mr-2" />
+                          浅色
+                        </DropdownMenuItem>
+                        <DropdownMenuItem onClick={() => setTheme("dark")}>
+                          <Moon className="h-4 w-4 mr-2" />
+                          深色
+                        </DropdownMenuItem>
+                        <DropdownMenuItem onClick={() => setTheme("system")}>
+                          <Monitor className="h-4 w-4 mr-2" />
+                          跟随系统
+                        </DropdownMenuItem>
+                      </DropdownMenuSubContent>
+                    </DropdownMenuSub>
+                    <DropdownMenuSeparator />
+                    <DropdownMenuItem
+                      className="cursor-pointer flex items-center text-red-600 focus:text-red-600 focus:bg-red-100"
+                      onClick={() => signOut({ callbackUrl: '/' })}
+                    >
+                      <LogOut className="mr-2 h-4 w-4" />
+                      退出登录
+                    </DropdownMenuItem>
+                  </DropdownMenuContent>
+                </DropdownMenu>
+              </div>
+            </div>
           </div>
         </div>
       </div>
