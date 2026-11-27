@@ -131,7 +131,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
       </div>
 
       <main className="flex-1">
-        <div className="sticky top-0 bg-background/90 backdrop-blur-sm border-b border-border/40 z-30 px-3 sm:px-6 py-2">
+        <div className="sticky top-0 bg-background/90 backdrop-blur-sm border-b border-border/40 shadow-sm z-30 px-3 sm:px-6 py-2">
           <div className="flex items-center gap-3">
             <div className="flex-1">
               <SearchBar
@@ -225,7 +225,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
         <div className="px-3 sm:px-6 py-3 sm:py-6">
           <div className="space-y-6">
             {navigationData.navigationItems.map((category) => (
-              <section key={category.id} id={category.id} className="scroll-m-16">
+              <section key={category.id} id={category.id} className="scroll-m-16 rounded-xl border border-border/40 bg-card/50 p-4 sm:p-5">
                 <div className="space-y-4">
                   <h2 className="text-base font-medium tracking-tight">
                     {category.title}

@@ -78,7 +78,7 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
   }
 
   return (
-    <div className={cn("w-64 bg-card/60 border-r border-border/60", className)}>
+    <div className={cn("w-64 bg-card/60 border-r border-border/60 shadow-md", className)}>
       <div className="flex h-14 items-center px-4">
         <Link href="/" className="flex items-center gap-2 font-semibold">
           {siteInfo.appearance.logo ? (
