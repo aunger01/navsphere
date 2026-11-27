@@ -32,10 +32,10 @@ export function ScrollToTop() {
       {isVisible && (
         <button
           onClick={scrollToTop}
-          className="fixed bottom-8 right-8 p-3 rounded-full shadow-lg
-            bg-primary text-primary-foreground
-            hover:bg-primary/90 hover:-translate-y-1 hover:shadow-xl
-            ring-1 ring-primary/30
+          className="fixed bottom-8 right-8 p-3 rounded-xl shadow-sm
+            bg-card text-muted-foreground
+            border border-border
+            hover:bg-accent hover:text-foreground hover:-translate-y-1 hover:shadow-md
             transition-all duration-300
             animate-[scrolltop-in_0.25s_ease-out]
             z-50"
