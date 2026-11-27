@@ -42,7 +42,7 @@ export function NavigationCard({ item, siteConfig }: NavigationCardProps) {
     <TooltipProvider>
       <Tooltip>
         <TooltipTrigger asChild>
-          <Card className="overflow-hidden rounded-xl border border-border/60 bg-muted/60 shadow-none transition-all duration-300 ease-in-out transform hover:-translate-y-1 hover:shadow-md dark:border-border dark:bg-secondary/60 dark:shadow-sm">
+          <Card className="overflow-hidden rounded-xl border border-border/60 bg-muted/30 shadow-none transition-all duration-300 ease-in-out transform hover:-translate-y-1 hover:shadow-md dark:border-border dark:bg-secondary/60 dark:shadow-sm">
             {isAnchor ? (
               <a
                 href={item.href}
